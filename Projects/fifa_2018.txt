@@ -1,0 +1,27 @@
+Date-Match Date
+Team-Playing Team
+Opponent-Opponent Team
+Goal Scored- Number of goals scored by this team
+Ball Possession - %Amount of time ball was in control by the team
+Attempts- Number of attempts to score goal
+On-TargetNumber of shots on-target
+Off-TargetNumber of shots that went off-target
+Blocked- Number of opponent team's attempts blocked by the team
+Corners- Number of corner shots used
+Offsides- Number of off-side events
+Free Kicks- Number of free-kicks used
+SavesNumber - saves by the goal keeper
+Pass Accuracy- %Percentage of passes that reached the same team player as aimed
+Passes- Total number of passes by the team
+Distance Covered (Kms)- Total distance covered by the team members in this game
+Fouls Committed - Number of fouls committed by the team members
+Yellow Card - Number of Yellow warning received
+Yellow & Red - Number of Yellow & Red warning received
+Red - Number of Red cards received
+Man of the Match - Did this team member win Man of the Match?
+1st Goal - When did the team score the 1st goal?
+Round - Stage of the match
+PSO - Was there a penalty shootout (PSO) in this match?
+Goals in PSO - Number of goals scored in the Penalty shootout
+Own goals - Number of own goals
+Own goal Time - When did the team score own goal?
