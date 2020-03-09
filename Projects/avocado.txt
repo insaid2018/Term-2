@@ -1,6 +1,6 @@
 
 Date - The date of the observation
-AveragePrice - the average price of a single avocado
+AveragePrice - the average price of a single avocado - target variable
 type - conventional or organic
 year - the year
 Region - the city or region of the observation
