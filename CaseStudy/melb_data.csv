@@ -1,0 +1,1000 @@
+Suburb,Address,Rooms,Type,Method,SellerG,Date,Distance,Postcode,Bedroom2,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Lattitude,Longtitude,Regionname,Price
+Abbotsford,85 Turner St,2,h,S,Biggin,3/12/2016,2.5,3067,2,1,1,202,,,Yarra,-37.7996,144.9984,Northern Metropolitan,1480000
+Abbotsford,25 Bloomburg St,2,h,S,Biggin,4/2/2016,2.5,3067,2,1,0,156,79,1900,Yarra,-37.8079,144.9934,Northern Metropolitan,1035000
+Abbotsford,5 Charles St,3,h,SP,Biggin,4/3/2017,2.5,3067,3,2,0,134,150,1900,Yarra,-37.8093,144.9944,Northern Metropolitan,1465000
+Abbotsford,40 Federation La,3,h,PI,Biggin,4/3/2017,2.5,3067,3,2,1,94,,,Yarra,-37.7969,144.9969,Northern Metropolitan,850000
+Abbotsford,55a Park St,4,h,VB,Nelson,4/6/2016,2.5,3067,3,1,2,120,142,2014,Yarra,-37.8072,144.9941,Northern Metropolitan,1600000
+Abbotsford,129 Charles St,2,h,S,Jellis,7/5/2016,2.5,3067,2,1,0,181,,,Yarra,-37.8041,144.9953,Northern Metropolitan,941000
+Abbotsford,124 Yarra St,3,h,S,Nelson,7/5/2016,2.5,3067,4,2,0,245,210,1910,Yarra,-37.8024,144.9993,Northern Metropolitan,1876000
+Abbotsford,98 Charles St,2,h,S,Nelson,8/10/2016,2.5,3067,2,1,2,256,107,1890,Yarra,-37.806,144.9954,Northern Metropolitan,1636000
+Abbotsford,6/241 Nicholson St,1,u,S,Biggin,8/10/2016,2.5,3067,1,1,1,0,,,Yarra,-37.8008,144.9973,Northern Metropolitan,300000
+Abbotsford,10 Valiant St,2,h,S,Biggin,8/10/2016,2.5,3067,3,1,2,220,75,1900,Yarra,-37.801,144.9989,Northern Metropolitan,1097000
+Abbotsford,411/8 Grosvenor St,2,u,VB,Jellis,12/11/2016,2.5,3067,2,2,1,0,,,Yarra,-37.811,145.0067,Northern Metropolitan,700000
+Abbotsford,40 Nicholson St,3,h,VB,Nelson,12/11/2016,2.5,3067,3,2,2,214,190,2005,Yarra,-37.8085,144.9964,Northern Metropolitan,1350000
+Abbotsford,123/56 Nicholson St,2,u,S,Biggin,12/11/2016,2.5,3067,2,2,1,0,94,2009,Yarra,-37.8078,144.9965,Northern Metropolitan,750000
+Abbotsford,45 William St,2,h,S,Biggin,13/08/2016,2.5,3067,2,1,1,195,,,Yarra,-37.8084,144.9973,Northern Metropolitan,1172500
+Abbotsford,7/20 Abbotsford St,1,u,SP,Greg,14/05/2016,2.5,3067,1,1,1,0,,,Yarra,-37.8016,144.9988,Northern Metropolitan,441000
+Abbotsford,16 William St,2,h,S,Jellis,15/10/2016,2.5,3067,2,1,2,238,97,1890,Yarra,-37.809,144.9976,Northern Metropolitan,1310000
+Abbotsford,42 Henry St,3,h,S,Jellis,16/07/2016,2.5,3067,3,2,1,113,110,1880,Yarra,-37.8056,144.993,Northern Metropolitan,1200000
+Abbotsford,78 Yarra St,3,h,S,LITTLE,16/07/2016,2.5,3067,2,1,1,138,105,1890,Yarra,-37.8021,144.9965,Northern Metropolitan,1176500
+Abbotsford,196 Nicholson St,3,h,S,Collins,17/09/2016,2.5,3067,3,1,0,183,,,Yarra,-37.8022,144.9975,Northern Metropolitan,955000
+Abbotsford,42 Valiant St,2,h,S,Biggin,17/09/2016,2.5,3067,2,1,1,150,73,1985,Yarra,-37.8011,145.0004,Northern Metropolitan,890000
+Abbotsford,3/72 Charles St,4,h,PI,Kay,18/03/2017,2.5,3067,4,2,2,780,135,1900,Yarra,-37.8073,144.9952,Northern Metropolitan,1330000
+Abbotsford,13/11 Nicholson St,3,t,S,Beller,18/03/2017,2.5,3067,3,2,2,0,,2010,Yarra,-37.8093,144.9959,Northern Metropolitan,900000
+Abbotsford,138/56 Nicholson St,3,u,S,Jellis,18/03/2017,2.5,3067,3,2,2,4290,27,,Yarra,-37.8078,144.9965,Northern Metropolitan,1090000
+Abbotsford,6/219 Nicholson St,2,u,S,Collins,18/06/2016,2.5,3067,2,1,1,0,60,1970,Yarra,-37.8015,144.9972,Northern Metropolitan,500000
+Abbotsford,52a William St,2,h,PI,Biggin,18/06/2016,2.5,3067,2,2,1,124,135,2013,Yarra,-37.8079,144.9977,Northern Metropolitan,1100000
+Abbotsford,49 Park St,2,h,S,Marshall,19/11/2016,2.5,3067,2,1,0,147,85,1900,Yarra,-37.808,144.994,Northern Metropolitan,1315000
+Abbotsford,5/20 Abbotsford St,1,u,SP,Greg,22/08/2016,2.5,3067,1,1,1,0,,,Yarra,-37.8016,144.9988,Northern Metropolitan,426000
+Abbotsford,48 Abbotsford St,3,h,PI,Nelson,22/08/2016,2.5,3067,3,3,1,166,174,2012,Yarra,-37.8017,145.0001,Northern Metropolitan,1447500
+Abbotsford,116/56 Nicholson St,1,u,S,Jellis,22/08/2016,2.5,3067,1,1,1,0,50,,Yarra,-37.8078,144.9965,Northern Metropolitan,457000
+Abbotsford,159 Park St,2,h,S,Nelson,22/08/2016,2.5,3067,2,2,2,98,128,1920,Yarra,-37.8005,144.9952,Northern Metropolitan,1135000
+Abbotsford,31 Turner St,4,h,S,Collins,24/09/2016,2.5,3067,4,3,1,0,,,Yarra,-37.7994,144.9965,Northern Metropolitan,1542000
+Abbotsford,166 Gipps St,3,h,S,Biggin,25/02/2017,2.5,3067,3,2,2,147,18,,Yarra,-37.805,144.9943,Northern Metropolitan,1290000
+Abbotsford,60 Stafford St,3,h,S,Biggin,25/02/2017,2.5,3067,3,1,1,168,124,1950,Yarra,-37.8007,144.9958,Northern Metropolitan,1290000
+Abbotsford,11/205 Gipps St,1,u,S,Nelson,26/07/2016,2.5,3067,1,1,1,0,50,2013,Yarra,-37.8055,144.9961,Northern Metropolitan,470000
+Abbotsford,47 Studley St,2,h,S,Jellis,27/11/2016,2.5,3067,2,1,0,162,91,1900,Yarra,-37.8016,144.9956,Northern Metropolitan,1180000
+Abbotsford,45 Yarra St,3,h,SP,Jellis,27/11/2016,2.5,3067,3,2,1,120,128,1998,Yarra,-37.8022,144.9954,Northern Metropolitan,1195000
+Abbotsford,200 Nicholson St,2,h,S,Nelson,28/05/2016,2.5,3067,2,1,0,182,82,1900,Yarra,-37.8021,144.9976,Northern Metropolitan,1012500
+Abbotsford,27 Charles St,2,h,S,Biggin,30/07/2016,2.5,3067,2,1,1,172,81,1930,Yarra,-37.8086,144.9946,Northern Metropolitan,1030000
+Airport West,154 Halsey Rd,3,t,PI,Nelson,3/9/2016,13.5,3042,3,2,1,303,225,2016,Moonee Valley,-37.718,144.878,Western Metropolitan,840000
+Airport West,50 Bedford St,3,h,VB,Nelson,3/12/2016,13.5,3042,3,2,1,0,145,1965,Moonee Valley,-37.7203,144.8755,Western Metropolitan,730000
+Airport West,50 Bedford St,3,h,SP,Nelson,4/3/2017,13.5,3042,3,2,1,0,145,1965,Moonee Valley,-37.7203,144.8755,Western Metropolitan,770000
+Airport West,23 Hart St,2,h,S,Nelson,4/3/2017,13.5,3042,2,1,1,272,84,1950,Moonee Valley,-37.7294,144.888,Western Metropolitan,603000
+Airport West,1/80 Hawker St,3,t,S,Brad,4/3/2017,13.5,3042,3,2,2,239,134,2009,Moonee Valley,-37.7218,144.8837,Western Metropolitan,700000
+Airport West,1/37 Hillside Gr,3,h,S,Maddison,4/3/2017,13.5,3042,2,1,1,290,116,1980,Moonee Valley,-37.7273,144.8744,Western Metropolitan,600000
+Airport West,2/49 McIntosh St,2,u,VB,Barry,4/3/2017,13.5,3042,2,1,1,168,86,2011,Moonee Valley,-37.7215,144.8864,Western Metropolitan,500000
+Airport West,54 Marshall Rd,3,h,S,Barry,6/8/2016,13.5,3042,2,1,1,620,,,Moonee Valley,-37.7173,144.8872,Western Metropolitan,720000
+Airport West,36 Roberts Rd,4,h,S,Considine,6/8/2016,13.5,3042,3,1,2,597,127,,Moonee Valley,-37.7259,144.8792,Western Metropolitan,785000
+Airport West,11 Harrington Rd,6,h,SP,Barry,7/5/2016,13.5,3042,6,3,2,976,186,1980,Moonee Valley,-37.7239,144.8735,Western Metropolitan,725000
+Airport West,2/252 Parer Rd,2,t,S,Barry,7/5/2016,13.5,3042,2,1,1,110,90,2015,Moonee Valley,-37.7216,144.871,Western Metropolitan,450000
+Airport West,3/19 Hart St,2,u,S,Barry,7/11/2016,13.5,3042,2,1,1,141,73,2013,Moonee Valley,-37.7298,144.8883,Western Metropolitan,515000
+Airport West,2/62 Clydesdale Rd,2,u,S,Nelson,10/9/2016,13.5,3042,2,1,1,120,94,2012,Moonee Valley,-37.7234,144.8792,Western Metropolitan,530000
+Airport West,3 Deidre Ct,3,h,PI,Rendina,10/9/2016,13.5,3042,3,1,6,1063,133,1975,Moonee Valley,-37.7249,144.8728,Western Metropolitan,895000
+Airport West,13 Etzel St,3,h,S,Nelson,10/12/2016,13.5,3042,3,1,1,0,105,1950,Moonee Valley,-37.7217,144.8783,Western Metropolitan,805000
+Airport West,1/43 Cameron St,3,u,S,Nelson,11/2/2017,13.5,3042,3,1,1,265,130,1993,Moonee Valley,-37.7302,144.8855,Western Metropolitan,752000
+Airport West,145a Victory Rd,2,u,S,Barry,13/08/2016,13.5,3042,2,1,1,192,,,Moonee Valley,-37.7177,144.8787,Western Metropolitan,440000
+Airport West,241 Parer Rd,5,h,PI,Propertyau,14/05/2016,13.5,3042,3,2,2,596,,,Moonee Valley,-37.7248,144.8699,Western Metropolitan,755000
+Airport West,2/40 Earl St,3,t,PI,Brad,15/10/2016,13.5,3042,3,2,2,165,133,2009,Moonee Valley,-37.727,144.887,Western Metropolitan,700000
+Airport West,180 Parer Rd,3,h,S,Barry,16/04/2016,13.5,3042,3,1,2,971,113,1960,Moonee Valley,-37.7186,144.876,Western Metropolitan,830000
+Airport West,4/54 Hawker St,2,u,S,Barry,16/07/2016,13.5,3042,2,1,1,164,,2003,Moonee Valley,-37.7218,144.8863,Western Metropolitan,462500
+Airport West,43 Hillside Gr,3,h,SP,Barry,16/07/2016,13.5,3042,3,2,2,657,,,Moonee Valley,-37.7269,144.8742,Western Metropolitan,670000
+Airport West,174 Parer Rd,2,h,S,Barry,16/07/2016,13.5,3042,2,1,1,612,100,1975,Moonee Valley,-37.7187,144.8765,Western Metropolitan,675000
+Airport West,138 Victory Rd,3,h,S,Nelson,16/07/2016,13.5,3042,3,2,5,612,174,1950,Moonee Valley,-37.7173,144.8796,Western Metropolitan,1042000
+Airport West,75 King St,3,h,S,McDonald,17/09/2016,13.5,3042,3,1,1,775,,,Moonee Valley,-37.7231,144.8835,Western Metropolitan,910000
+Airport West,6 Kittyhawk St,4,h,S,Brad,17/09/2016,13.5,3042,5,3,4,531,309,1980,Moonee Valley,-37.7263,144.8679,Western Metropolitan,773000
+Airport West,478 Fullarton Rd,3,h,PI,Barry,18/03/2017,13.5,3042,3,3,2,555,192,1980,Moonee Valley,-37.7285,144.8694,Western Metropolitan,810000
+Airport West,144 Marshall Rd,3,h,S,Rendina,18/03/2017,13.5,3042,3,2,2,422,126,1995,Moonee Valley,-37.7164,144.8792,Western Metropolitan,715000
+Airport West,106 Parer Rd,3,h,S,Nelson,18/03/2017,13.5,3042,3,1,3,614,,,Moonee Valley,-37.7194,144.8827,Western Metropolitan,790000
+Airport West,3/7 South Rd,3,t,SP,Nelson,18/06/2016,13.5,3042,2,2,1,161,101,2010,Moonee Valley,-37.7231,144.8802,Western Metropolitan,540000
+Airport West,37 North St,3,t,SP,Barry,19/11/2016,13.5,3042,3,2,1,293,102,1960,Moonee Valley,-37.72,144.8776,Western Metropolitan,825000
+Airport West,10 Hilbert Rd,3,h,S,Barry,22/05/2016,13.5,3042,3,1,1,579,113,1975,Moonee Valley,-37.7226,144.8733,Western Metropolitan,685000
+Airport West,110 Halsey Rd,3,h,S,Barry,22/08/2016,13.5,3042,3,1,1,623,,,Moonee Valley,-37.7184,144.882,Western Metropolitan,805000
+Airport West,2/13 North St,2,u,S,Nelson,22/08/2016,13.5,3042,2,1,1,141,76,,Moonee Valley,-37.7202,144.8797,Western Metropolitan,510000
+Airport West,105a Victory Rd,3,h,S,Nelson,22/08/2016,13.5,3042,3,2,1,212,,,Moonee Valley,-37.7181,144.8824,Western Metropolitan,612000
+Airport West,117 Marshall Rd,3,h,S,Brad,23/04/2016,13.5,3042,3,1,2,612,,,Moonee Valley,-37.7169,144.8815,Western Metropolitan,662000
+Airport West,34 Moorna Dr,4,h,S,Nelson,24/09/2016,13.5,3042,4,3,2,532,,,Moonee Valley,-37.7263,144.869,Western Metropolitan,978000
+Airport West,33 North St,3,h,PI,Nelson,25/02/2017,13.5,3042,3,1,1,585,,,Moonee Valley,-37.72,144.878,Western Metropolitan,720000
+Airport West,49 Roberts Rd,4,h,S,Prof.,27/11/2016,13.5,3042,4,1,2,509,,,Moonee Valley,-37.7261,144.8785,Western Metropolitan,765000
+Airport West,85 Roberts Rd,4,h,S,Harcourts,27/11/2016,13.5,3042,4,2,3,628,146,1975,Moonee Valley,-37.7256,144.8739,Western Metropolitan,900000
+Albert Park,105 Kerferd Rd,2,h,S,hockingstuart,3/9/2016,3.3,3206,2,1,0,120,82,1900,Port Phillip,-37.8459,144.9555,Southern Metropolitan,1275000
+Albert Park,85 Richardson St,2,h,S,Thomson,3/9/2016,3.3,3206,2,1,0,159,,,Port Phillip,-37.845,144.9538,Southern Metropolitan,1455000
+Albert Park,112 Beaconsfield Pde,3,h,PI,Buxton,4/3/2017,3.3,3206,3,2,0,211,198,1890,Port Phillip,-37.8481,144.9499,Southern Metropolitan,2850000
+Albert Park,94 Graham St,3,h,S,Greg,4/3/2017,3.3,3206,3,2,0,128,133,1890,Port Phillip,-37.8452,144.9488,Southern Metropolitan,1850000
+Albert Park,396 Montague St,2,h,S,RT,4/3/2017,3.3,3206,2,1,0,130,81,1900,Port Phillip,-37.8431,144.9565,Southern Metropolitan,1436000
+Albert Park,75 Graham St,2,h,S,Marshall,6/8/2016,3.3,3206,1,1,0,147,,1900,Port Phillip,-37.8444,144.9484,Southern Metropolitan,1110000
+Albert Park,54 Brooke St,2,h,S,Sotheby's,7/5/2016,3.3,3206,2,1,1,167,,,Port Phillip,-37.8405,144.9521,Southern Metropolitan,1550000
+Albert Park,104 Richardson St,4,h,S,Marshall,7/5/2016,3.3,3206,4,2,1,153,180,1880,Port Phillip,-37.8447,144.9523,Southern Metropolitan,2300000
+Albert Park,4a Mills St,3,t,VB,Marshall,7/11/2016,3.3,3206,3,2,2,718,,,Port Phillip,-37.8443,144.9598,Southern Metropolitan,1550000
+Albert Park,1 Moubray St,3,h,VB,Greg,7/11/2016,3.3,3206,3,2,1,132,159,1996,Port Phillip,-37.8415,144.952,Southern Metropolitan,1800000
+Albert Park,29 Faussett St,2,h,S,Greg,10/9/2016,3.3,3206,2,1,1,199,107,1900,Port Phillip,-37.8422,144.9554,Southern Metropolitan,2120000
+Albert Park,3 Herbert St,3,h,VB,Cayzer,10/9/2016,3.3,3206,3,1,1,253,,,Port Phillip,-37.8443,144.9579,Southern Metropolitan,1800000
+Albert Park,24 Kerferd Pl,3,h,S,Marshall,10/9/2016,3.3,3206,3,2,1,90,122,1900,Port Phillip,-37.8421,144.9571,Southern Metropolitan,1800000
+Albert Park,44 Draper St,2,h,PI,Greg,10/12/2016,3.3,3206,2,1,0,240,,,Port Phillip,-37.8379,144.9539,Southern Metropolitan,1810000
+Albert Park,2 Dundas Pl,3,h,S,Cayzer,10/12/2016,3.3,3206,3,2,1,177,181,1880,Port Phillip,-37.8415,144.9585,Southern Metropolitan,2615000
+Albert Park,23 Finlay St,5,h,S,Greg,10/12/2016,3.3,3206,5,2,1,237,,,Port Phillip,-37.8436,144.9557,Southern Metropolitan,2100000
+Albert Park,31 Richardson St,3,h,S,hockingstuart,10/12/2016,3.3,3206,3,1,0,129,,,Port Phillip,-37.8422,144.949,Southern Metropolitan,1300000
+Albert Park,4a Gatehouse La,3,h,S,Greg,12/6/2016,3.3,3206,3,2,2,0,85,2000,Port Phillip,-37.8451,144.9511,Southern Metropolitan,1370000
+Albert Park,60 Brooke St,2,h,S,Cayzer,12/11/2016,3.3,3206,2,1,0,288,,,Port Phillip,-37.8407,144.9523,Southern Metropolitan,1000000
+Albert Park,70 Barrett St,3,h,S,Greg,15/10/2016,3.3,3206,3,2,1,228,,,Port Phillip,-37.8445,144.9501,Southern Metropolitan,2575000
+Albert Park,65 Graham St,2,h,S,Greg,15/10/2016,3.3,3206,2,1,0,149,98,1890,Port Phillip,-37.8443,144.9481,Southern Metropolitan,1322500
+Albert Park,364 Montague St,2,h,S,Greg,15/10/2016,3.3,3206,2,1,0,141,83,1890,Port Phillip,-37.8424,144.9562,Southern Metropolitan,1562500
+Albert Park,86 Mills St,3,h,VB,RT,16/04/2016,3.3,3206,3,2,1,211,147,1900,Port Phillip,-37.847,144.9575,Southern Metropolitan,2000000
+Albert Park,129 Kerferd Rd,3,h,S,Greg,18/03/2017,3.3,3206,3,1,0,209,,1900,Port Phillip,-37.8468,144.9546,Southern Metropolitan,1900000
+Albert Park,97 Page St,3,h,S,Greg,18/03/2017,3.3,3206,3,2,0,147,146,1890,Port Phillip,-37.8473,144.9551,Southern Metropolitan,3010000
+Albert Park,55 Withers St,4,h,VB,Cayzer,18/06/2016,3.3,3206,4,3,1,327,254,1910,Port Phillip,-37.8467,144.9475,Southern Metropolitan,2800000
+Albert Park,10/140 Kerferd Rd,2,u,S,Greg,22/05/2016,3.3,3206,2,1,1,0,,,Port Phillip,-37.846,144.9542,Southern Metropolitan,647000
+Albert Park,55 Merton St,3,h,SP,Marshall,23/04/2016,3.3,3206,2,1,1,120,123,1900,Port Phillip,-37.8427,144.9546,Southern Metropolitan,2100000
+Albert Park,49 Page St,3,h,PI,Marshall,24/09/2016,3.3,3206,3,1,1,238,131,1890,Port Phillip,-37.8461,144.9528,Southern Metropolitan,2000000
+Albert Park,13/52 Moubray St,1,u,S,Marshall,25/02/2017,3.3,3206,1,1,0,0,34,1970,Port Phillip,-37.8421,144.9517,Southern Metropolitan,442500
+Albert Park,115 Page St,4,h,S,Marshall,25/02/2017,3.3,3206,4,2,1,330,207,1910,Port Phillip,-37.8477,144.9558,Southern Metropolitan,4735000
+Albert Park,32 Page St,2,h,S,Greg,25/02/2017,3.3,3206,2,1,0,136,,,Port Phillip,-37.846,144.9517,Southern Metropolitan,1340000
+Albert Park,34 Richardson St,3,h,S,hockingstuart,25/02/2017,3.3,3206,3,1,1,202,,,Port Phillip,-37.8429,144.9493,Southern Metropolitan,1801000
+Albert Park,2b Dundas Pl,3,h,S,Chisholm,26/07/2016,3.3,3206,3,3,1,0,,,Port Phillip,-37.8415,144.9585,Southern Metropolitan,1532000
+Albert Park,22 Greig St,3,h,S,Greg,26/07/2016,3.3,3206,3,2,2,325,,,Port Phillip,-37.8413,144.95,Southern Metropolitan,3755000
+Albert Park,27 Barrett St,4,h,S,Greg,27/06/2016,3.3,3206,3,2,1,183,145,1880,Port Phillip,-37.8434,144.9495,Southern Metropolitan,2140000
+Albert Park,44 Greig St,2,h,S,Marshall,27/11/2016,3.3,3206,2,1,1,162,,,Port Phillip,-37.8416,144.9488,Southern Metropolitan,1750000
+Albert Park,6 Brooke St,2,h,S,Greg,28/05/2016,3.3,3206,2,1,0,79,68,1890,Port Phillip,-37.8387,144.9519,Southern Metropolitan,980000
+Albert Park,227a Danks St,3,h,S,hockingstuart,28/08/2016,3.3,3206,3,2,0,152,,,Port Phillip,-37.8488,144.9551,Southern Metropolitan,2030000
+Albert Park,17 Reed St,3,h,PI,Marshall,28/08/2016,3.3,3206,3,2,2,147,134,1890,Port Phillip,-37.8448,144.9453,Southern Metropolitan,1740000
+Albert Park,74 Bridport St,3,h,VB,Buxton,30/07/2016,3.3,3206,3,3,1,0,,,Port Phillip,-37.8399,144.9577,Southern Metropolitan,2800000
+Albert Park,9 Durham St,1,h,S,Marshall,30/07/2016,3.3,3206,1,1,0,81,54,1900,Port Phillip,-37.8411,144.9497,Southern Metropolitan,985000
+Alphington,6 Smith St,4,h,S,Brace,3/9/2016,6.4,3078,3,2,4,853,263,1930,Darebin,-37.7707,145.0318,Northern Metropolitan,2000000
+Alphington,5/6 Yarralea St,3,h,S,Jellis,3/9/2016,6.4,3078,3,2,2,208,,2013,Yarra,-37.7854,145.0325,Northern Metropolitan,1110000
+Alphington,136A Fulham Rd,3,h,S,Jellis,4/3/2017,6.4,3078,3,2,2,411,,,Darebin,-37.7713,145.0279,Northern Metropolitan,1492000
+Alphington,44 Shiers St,4,h,S,Collins,8/10/2016,6.4,3078,4,2,1,599,203,1925,Darebin,-37.7717,145.031,Northern Metropolitan,1717500
+Alphington,83 Fulham Rd,5,h,S,Nelson,12/6/2016,6.4,3078,5,4,4,809,165,1910,Darebin,-37.775,145.0268,Northern Metropolitan,2840000
+Alphington,3/19 Harker St,2,u,S,Miles,12/11/2016,6.4,3078,2,1,1,88,60,1960,Darebin,-37.7791,145.0306,Northern Metropolitan,525500
+Alphington,4/2 Miller St,2,t,S,Miles,12/11/2016,6.4,3078,2,2,3,155,140,2004,Darebin,-37.7804,145.0308,Northern Metropolitan,805000
+Alphington,2/5 Yarana Rd,2,u,S,McGrath,12/11/2016,6.4,3078,2,1,1,0,,,Darebin,-37.7773,145.0314,Northern Metropolitan,465000
+Alphington,815 Heidelberg Rd,3,h,PI,hockingstuart,15/10/2016,6.4,3078,3,3,2,686,,,Darebin,-37.78,145.0341,Northern Metropolitan,2000000
+Alphington,44 Naroon Rd,3,h,S,Nelson,16/04/2016,6.4,3078,3,1,2,592,,,Darebin,-37.7755,145.0288,Northern Metropolitan,1540000
+Alphington,3/98 Grange Rd,2,u,S,Nelson,18/03/2017,6.4,3078,2,1,1,183,,,Darebin,-37.7747,145.0264,Northern Metropolitan,820000
+Alphington,10 Bennett St,4,h,S,Nelson,19/11/2016,6.4,3078,4,2,2,606,112,1970,Darebin,-37.7743,145.0316,Northern Metropolitan,1830000
+Alphington,38 Bennett St,4,h,S,Nelson,19/11/2016,6.4,3078,4,2,2,575,271,2008,Darebin,-37.7723,145.0319,Northern Metropolitan,2100000
+Alphington,2c Hamilton St,3,h,SP,hockingstuart,22/05/2016,6.4,3078,3,1,1,180,131,2010,Darebin,-37.7802,145.0243,Northern Metropolitan,865000
+Alphington,5/5 Yarana Rd,2,u,VB,Nelson,22/05/2016,6.4,3078,2,1,1,0,60,1960,Darebin,-37.7773,145.0314,Northern Metropolitan,390000
+Alphington,7/7 Chandler Hwy,2,t,SP,Brace,24/09/2016,6.4,3078,0,1,0,0,,,Yarra,-37.7848,145.025,Northern Metropolitan,650000
+Alphington,1/14 Fulham Rd,2,u,S,Love,25/02/2017,6.4,3078,2,1,1,0,61,1965,Darebin,-37.7805,145.0262,Northern Metropolitan,512000
+Alphington,22 Lowther St,3,h,S,Barry,27/06/2016,6.4,3078,3,1,2,979,,,Yarra,-37.7792,145.029,Northern Metropolitan,1165000
+Alphington,11 Margaret Gr,4,h,SP,McGrath,27/11/2016,6.4,3078,4,2,2,556,272,1930,Yarra,-37.7844,145.0225,Northern Metropolitan,1900000
+Alphington,6 Naroon Rd,3,h,SP,McGrath,28/08/2016,6.4,3078,3,0,0,597,,,Darebin,-37.7781,145.0284,Northern Metropolitan,1485000
+Alphington,42 Shiers St,4,h,S,Jellis,30/07/2016,6.4,3078,4,2,3,589,210,1920,Darebin,-37.7719,145.0309,Northern Metropolitan,1950000
+Altona,158 Queen St,3,h,VB,Greg,3/9/2016,13.8,3018,3,2,1,352,242,2015,Hobsons Bay,-37.87,144.825,Western Metropolitan,520000
+Altona,59 Bracken Gr,5,h,S,Greg,3/12/2016,13.8,3018,5,3,3,729,268,2005,Hobsons Bay,-37.8721,144.8105,Western Metropolitan,1525000
+Altona,1/123 Blyth St,2,t,S,hockingstuart,4/2/2016,13.8,3018,2,1,2,292,125,2013,Hobsons Bay,-37.8687,144.8197,Western Metropolitan,720000
+Altona,4 Blyth St,3,h,S,Barlow,4/3/2017,13.8,3018,3,1,2,506,120,1930,Hobsons Bay,-37.8693,144.8375,Western Metropolitan,1120000
+Altona,20 Linnet St,4,h,PI,Sweeney,4/6/2016,13.8,3018,4,1,4,655,,,Hobsons Bay,-37.868,144.8154,Western Metropolitan,780000
+Altona,29 Rose St,4,h,SP,Greg,4/6/2016,13.8,3018,4,3,6,1057,220,1962,Hobsons Bay,-37.8681,144.819,Western Metropolitan,1780000
+Altona,1/170 Blyth St,3,u,S,Barlow,6/8/2016,13.8,3018,2,1,2,311,94,1955,Hobsons Bay,-37.8702,144.8143,Western Metropolitan,630000
+Altona,5/35 Grieve Pde,2,u,SP,hockingstuart,6/8/2016,13.8,3018,2,1,1,65,,,Hobsons Bay,-37.8693,144.8171,Western Metropolitan,406000
+Altona,156 Maidstone St,3,h,VB,Greg,7/5/2016,13.8,3018,3,1,1,602,123,1955,Hobsons Bay,-37.8616,144.8116,Western Metropolitan,660000
+Altona,11 Keeshan Ct,3,h,S,Greg,7/11/2016,13.8,3018,3,1,1,530,,,Hobsons Bay,-37.8594,144.817,Western Metropolitan,683500
+Altona,1/136 Queen St,2,u,S,Barlow,8/10/2016,13.8,3018,2,1,1,225,93,1988,Hobsons Bay,-37.8696,144.827,Western Metropolitan,580000
+Altona,173 Queen St,3,h,S,hockingstuart,8/10/2016,13.8,3018,3,1,4,777,22,1953,Hobsons Bay,-37.8697,144.8249,Western Metropolitan,1335000
+Altona,1/265 Queen St,3,t,SP,hockingstuart,8/10/2016,13.8,3018,3,2,2,280,,1997,Hobsons Bay,-37.8734,144.8143,Western Metropolitan,800000
+Altona,3/26 Grieve Pde,2,u,S,Village,10/9/2016,13.8,3018,2,1,1,127,76,1990,Hobsons Bay,-37.8686,144.8182,Western Metropolitan,510000
+Altona,261 Queen St,4,h,S,Barlow,10/9/2016,13.8,3018,4,2,2,695,,,Hobsons Bay,-37.8733,144.8147,Western Metropolitan,1070000
+Altona,4/5 Rose St,2,u,S,hockingstuart,10/9/2016,13.8,3018,2,1,2,115,57,1980,Hobsons Bay,-37.871,144.8185,Western Metropolitan,425000
+Altona,1/60 David St,3,u,S,Jas,10/12/2016,13.8,3018,3,2,2,230,,,Hobsons Bay,-37.8646,144.827,Western Metropolitan,605000
+Altona,1A Merritt Ct,3,t,S,hockingstuart,11/2/2017,13.8,3018,3,2,2,197,152,,Hobsons Bay,-37.8579,144.8181,Western Metropolitan,705000
+Altona,4/31 Millers Rd,2,u,SP,Greg,11/2/2017,13.8,3018,2,1,1,0,65,1965,Hobsons Bay,-37.8678,144.8384,Western Metropolitan,391000
+Altona,111/112 Pier St,2,u,SP,hockingstuart,11/2/2017,13.8,3018,2,1,1,0,,,Hobsons Bay,-37.8659,144.831,Western Metropolitan,440000
+Altona,24 Wren St,4,h,S,hockingstuart,11/2/2017,13.8,3018,4,1,2,745,130,1950,Hobsons Bay,-37.8658,144.8155,Western Metropolitan,845000
+Altona,1/152 Blyth St,3,t,SP,Gunn&Co,12/11/2016,13.8,3018,3,2,2,211,176,,Hobsons Bay,-37.8698,144.816,Western Metropolitan,743000
+Altona,4/57 Blyth St,3,u,SP,Barlow,13/08/2016,13.8,3018,3,2,1,69,141,2014,Hobsons Bay,-37.868,144.8286,Western Metropolitan,730000
+Altona,164 Maidstone St,3,h,S,Sweeney,14/05/2016,13.8,3018,3,1,4,625,,1960,Hobsons Bay,-37.8611,144.8114,Western Metropolitan,635000
+Altona,3/25 Rayner St,2,u,SP,hockingstuart,14/05/2016,13.8,3018,2,1,1,168,,,Hobsons Bay,-37.8676,144.8202,Western Metropolitan,620000
+Altona,3/46 Sargood St,2,u,S,Burnham,15/10/2016,13.8,3018,2,1,1,137,77,1990,Hobsons Bay,-37.8655,144.8299,Western Metropolitan,447000
+Altona,1/57 Blyth St,3,u,SP,Barlow,16/04/2016,13.8,3018,3,2,1,70,,,Hobsons Bay,-37.868,144.8287,Western Metropolitan,730000
+Altona,22 Fenfield St,3,h,S,hockingstuart,16/04/2016,13.8,3018,3,1,2,606,87,1950,Hobsons Bay,-37.8608,144.8124,Western Metropolitan,678000
+Altona,5/8 David St,2,u,PI,Biggin,16/07/2016,13.8,3018,2,2,1,175,76,2013,Hobsons Bay,-37.8687,144.8268,Western Metropolitan,580000
+Altona,1/28 Seves St,3,h,S,hockingstuart,17/09/2016,13.8,3018,3,1,2,363,,,Hobsons Bay,-37.8674,144.8375,Western Metropolitan,712000
+Altona,27 McIntyre Dr,3,h,SP,Greg,18/03/2017,13.8,3018,3,2,2,534,136,1965,Hobsons Bay,-37.86,144.8245,Western Metropolitan,840000
+Altona,4 Boyd St,3,h,S,Barlow,19/11/2016,13.8,3018,3,1,2,724,,,Hobsons Bay,-37.8672,144.817,Western Metropolitan,980000
+Altona,12 Spear Ct,3,t,S,hockingstuart,22/05/2016,13.8,3018,3,2,0,265,,,Hobsons Bay,-37.8583,144.8172,Western Metropolitan,605100
+Altona,185 Queen St,3,h,PI,Barlow,22/08/2016,13.8,3018,3,3,1,577,,,Hobsons Bay,-37.8699,144.8235,Western Metropolitan,880000
+Altona,3/20 Mulga St,3,u,S,Williams,23/04/2016,13.8,3018,3,2,1,205,113,2007,Hobsons Bay,-37.8684,144.815,Western Metropolitan,577000
+Altona,51 Millers Rd,4,h,S,Barlow,25/02/2017,13.8,3018,4,1,0,797,,,Hobsons Bay,-37.8663,144.8387,Western Metropolitan,1030000
+Altona,2/119 Railway St N,3,u,S,Barlow,25/02/2017,13.8,3018,3,1,2,181,,,Hobsons Bay,-37.8659,144.822,Western Metropolitan,605000
+Altona,24 McIntyre Dr,3,h,S,Barlow,27/06/2016,13.8,3018,3,2,2,529,,,Hobsons Bay,-37.8612,144.8247,Western Metropolitan,753000
+Altona,104 Maidstone St,2,h,SP,hockingstuart,27/11/2016,13.8,3018,2,2,1,675,100,1950,Hobsons Bay,-37.8653,144.8129,Western Metropolitan,857000
+Altona,49 Bent St,3,h,S,Barlow,28/05/2016,13.8,3018,3,1,1,929,,,Hobsons Bay,-37.8651,144.832,Western Metropolitan,1500000
+Altona,5/57 Blyth St,3,u,SP,Barlow,28/05/2016,13.8,3018,3,2,1,70,3,2014,Hobsons Bay,-37.868,144.8285,Western Metropolitan,730000
+Altona,15 Kookaburra St,3,h,S,Sweeney,28/05/2016,13.8,3018,3,1,4,697,,,Hobsons Bay,-37.871,144.8075,Western Metropolitan,900000
+Altona,219 Civic Pde,3,h,S,Greg,28/08/2016,13.8,3018,3,1,2,604,,,Hobsons Bay,-37.8631,144.8195,Western Metropolitan,740000
+Altona,3 Curtin Ct,4,h,S,Sweeney,28/08/2016,13.8,3018,4,2,3,532,,1970,Hobsons Bay,-37.8637,144.8365,Western Metropolitan,931000
+Altona,2/60 David St,2,h,SP,Compton,30/07/2016,13.8,3018,2,1,1,154,91,1996,Hobsons Bay,-37.8646,144.8272,Western Metropolitan,535600
+Altona North,45 Hearn St,5,h,S,FN,3/9/2016,11.1,3025,5,3,6,592,251,1965,Hobsons Bay,-37.8388,144.8567,Western Metropolitan,1085000
+Altona North,4 Knapp St,3,h,S,Jas,3/9/2016,11.1,3025,3,1,2,533,117,1970,Hobsons Bay,-37.8291,144.835,Western Metropolitan,781000
+Altona North,21 Hatherley Gr,3,h,SP,Jas,4/3/2017,11.1,3025,3,1,3,554,,,Hobsons Bay,-37.8449,144.85,Western Metropolitan,750000
+Altona North,3/66 Marion St,2,t,S,hockingstuart,4/3/2017,11.1,3025,2,1,1,77,77,2009,Hobsons Bay,-37.8351,144.8529,Western Metropolitan,421000
+Altona North,153 Mills St,3,h,S,Sweeney,4/3/2017,11.1,3025,3,1,3,655,,,Hobsons Bay,-37.8338,144.8562,Western Metropolitan,1405000
+Altona North,33 Carthy St,3,h,S,FN,4/6/2016,11.1,3025,3,1,2,534,167,1967,Hobsons Bay,-37.8284,144.8355,Western Metropolitan,683000
+Altona North,16 Harris St,3,h,S,Sweeney,4/6/2016,11.1,3025,3,1,3,540,,,Hobsons Bay,-37.8267,144.8368,Western Metropolitan,623000
+Altona North,1/5 Little St,3,h,VB,Greg,6/8/2016,11.1,3025,3,2,1,0,130,2012,Hobsons Bay,-37.8379,144.8583,Western Metropolitan,720000
+Altona North,1/95 Mills St,3,h,S,Williams,7/5/2016,11.1,3025,3,1,1,328,118,1970,Hobsons Bay,-37.838,144.8555,Western Metropolitan,588000
+Altona North,5 Binns St,3,h,PI,Village,7/11/2016,11.1,3025,3,1,3,540,116,1960,Hobsons Bay,-37.8294,144.8378,Western Metropolitan,710000
+Altona North,25 Allan St,4,h,SP,Jas,8/10/2016,11.1,3025,3,1,4,559,169,1965,Hobsons Bay,-37.8448,144.8529,Western Metropolitan,875000
+Altona North,21 Hatherley Gr,3,h,VB,Jas,10/12/2016,11.1,3025,3,1,3,554,,,Hobsons Bay,-37.8449,144.85,Western Metropolitan,700000
+Altona North,1/256 Mason St,2,t,S,Williams,11/3/2017,11.1,3025,2,1,1,252,,1965,Hobsons Bay,-37.8397,144.8602,Western Metropolitan,640000
+Altona North,21 Allan St,4,h,SP,Williams,12/6/2016,11.1,3025,4,1,4,558,,,Hobsons Bay,-37.8451,144.8529,Western Metropolitan,650000
+Altona North,2/36 May St,3,h,S,hockingstuart,14/05/2016,11.1,3025,3,2,2,171,109,2012,Hobsons Bay,-37.8337,144.8554,Western Metropolitan,675000
+Altona North,11 Beevers St,3,h,S,Greg,15/10/2016,11.1,3025,3,1,2,585,97,1960,Hobsons Bay,-37.8258,144.8523,Western Metropolitan,708000
+Altona North,10 Murphy St,4,h,SP,Gunn&Co,15/10/2016,11.1,3025,4,1,4,851,,,Hobsons Bay,-37.8345,144.8444,Western Metropolitan,965000
+Altona North,16 Beevers St,3,h,S,Sweeney,19/11/2016,11.1,3025,3,1,3,551,,,Hobsons Bay,-37.8254,144.8514,Western Metropolitan,680000
+Altona North,21 Neal Ct,3,h,SP,hockingstuart,19/11/2016,11.1,3025,3,1,3,602,603,,Hobsons Bay,-37.8327,144.8451,Western Metropolitan,770000
+Altona North,31 Duosa Rd,3,h,S,Greg,22/05/2016,11.1,3025,3,1,2,740,,,Hobsons Bay,-37.8269,144.8455,Western Metropolitan,923000
+Altona North,252 Millers Rd,4,h,SP,Raine&Horne,22/05/2016,11.1,3025,4,2,4,315,170,2008,Hobsons Bay,-37.8391,144.8467,Western Metropolitan,693000
+Altona North,1/156 Chambers Rd,3,h,SP,Hunter,22/08/2016,11.1,3025,5,2,2,276,100,2010,Hobsons Bay,-37.8262,144.8443,Western Metropolitan,620000
+Altona North,2 Gadsden St,3,h,S,Jas,22/08/2016,11.1,3025,3,1,1,531,157,1960,Hobsons Bay,-37.8277,144.8385,Western Metropolitan,728500
+Altona North,24 Hansen St,3,h,S,hockingstuart,22/08/2016,11.1,3025,3,2,1,590,160,1950,Hobsons Bay,-37.8382,144.8649,Western Metropolitan,931000
+Altona North,4 Prismall St,3,h,S,Sweeney,22/08/2016,11.1,3025,3,1,4,715,,2008,Hobsons Bay,-37.8423,144.8632,Western Metropolitan,988000
+Altona North,122 McIntosh Rd,3,h,S,Village,23/04/2016,11.1,3025,3,1,2,561,,,Hobsons Bay,-37.8444,144.8491,Western Metropolitan,590000
+Altona North,35 May St,2,h,S,RT,24/09/2016,11.1,3025,2,1,2,691,,,Hobsons Bay,-37.834,144.8553,Western Metropolitan,610000
+Altona North,6 Hill St,3,h,S,hockingstuart,25/02/2017,11.1,3025,3,2,3,555,130,1960,Hobsons Bay,-37.8318,144.8388,Western Metropolitan,815000
+Altona North,84 May St,4,h,S,Greg,25/02/2017,11.1,3025,4,1,2,708,,,Hobsons Bay,-37.833,144.8494,Western Metropolitan,970000
+Altona North,155 Chambers Rd,4,h,S,Hunter,27/06/2016,11.1,3025,4,1,3,668,,,Hobsons Bay,-37.8262,144.8439,Western Metropolitan,760000
+Altona North,268d Mason St,4,t,S,RT,27/06/2016,11.1,3025,4,3,1,252,,,Hobsons Bay,-37.8393,144.8568,Western Metropolitan,847500
+Altona North,5 Cresser St,4,h,SP,RT,27/11/2016,11.1,3025,4,1,4,633,158,1960,Hobsons Bay,-37.8375,144.8541,Western Metropolitan,1200000
+Altona North,107 McIntosh Rd,3,h,SP,Hunter,27/11/2016,11.1,3025,3,1,1,557,,,Hobsons Bay,-37.8441,144.8505,Western Metropolitan,700000
+Altona North,10 Knapp St,3,h,PI,Hunter,28/05/2016,11.1,3025,3,1,1,536,,,Hobsons Bay,-37.8285,144.8351,Western Metropolitan,625000
+Altona North,4/221 Blackshaws Rd,2,u,S,Jas,28/08/2016,11.1,3025,2,1,1,153,70,1970,Hobsons Bay,-37.8332,144.8649,Western Metropolitan,292000
+Armadale,8/19 Mercer Rd,2,u,S,Jellis,3/9/2016,6.3,3143,2,1,1,0,76,1964,Stonnington,-37.8543,145.0262,Southern Metropolitan,599000
+Armadale,1/42 Adelaide St,2,u,VB,Noel,3/12/2016,6.3,3143,2,1,0,861,,,Stonnington,-37.8539,145.0284,Southern Metropolitan,550000
+Armadale,14/71 Denbigh Rd,3,u,S,Marshall,3/12/2016,6.3,3143,3,2,2,0,100,1998,Stonnington,-37.8552,145.016,Southern Metropolitan,995000
+Armadale,4/769 High St,3,t,S,Jellis,3/12/2016,6.3,3143,3,2,2,101,105,2000,Stonnington,-37.854,145.0135,Southern Metropolitan,1205000
+Armadale,7 Llaneast St,3,h,S,Jellis,3/12/2016,6.3,3143,3,2,2,296,150,1889,Stonnington,-37.8614,145.0274,Southern Metropolitan,1939000
+Armadale,9/55 Northcote Rd,1,u,S,Biggin,3/12/2016,6.3,3143,1,1,0,0,,,Stonnington,-37.853,145.0167,Southern Metropolitan,421500
+Armadale,28 Cambridge St,3,h,S,Hodges,4/3/2017,6.3,3143,3,1,1,217,116,1888,Stonnington,-37.8592,145.0182,Southern Metropolitan,1870000
+Armadale,3/16 Fulton St,2,u,S,hockingstuart,4/3/2017,6.3,3143,2,1,2,0,,,Stonnington,-37.8538,145.0127,Southern Metropolitan,678000
+Armadale,3/20 Mercer Rd,3,t,SP,Jellis,4/3/2017,6.3,3143,3,2,2,0,165,1995,Stonnington,-37.8537,145.0267,Southern Metropolitan,1918000
+Armadale,1/77 Wattletree Rd,2,u,SP,hockingstuart,4/3/2017,6.3,3143,2,1,1,0,,,Stonnington,-37.8619,145.0257,Southern Metropolitan,660000
+Armadale,12 Willis St,3,h,S,Marshall,4/3/2017,6.3,3143,3,2,1,205,116,1910,Stonnington,-37.8574,145.0281,Southern Metropolitan,2050000
+Armadale,8/71 Denbigh Rd,2,u,VB,Jellis,4/6/2016,6.3,3143,2,1,2,0,,,Stonnington,-37.8552,145.016,Southern Metropolitan,700000
+Armadale,11/17 Myamyn St,2,u,S,Jellis,4/6/2016,6.3,3143,3,2,2,0,,2006,Stonnington,-37.8555,145.0291,Southern Metropolitan,3625000
+Armadale,526 Orrong Rd,4,h,VB,Jellis,4/6/2016,6.3,3143,4,2,2,1581,,1934,Stonnington,-37.858,145.0111,Southern Metropolitan,3000000
+Armadale,553 Dandenong Rd,5,h,PI,Jellis,7/5/2016,6.3,3143,8,2,2,693,,,Stonnington,-37.8638,145.0229,Southern Metropolitan,1525000
+Armadale,9/19 Mercer Rd,3,u,PI,Marshall,7/5/2016,6.3,3143,3,2,1,2113,14,1970,Stonnington,-37.8543,145.0262,Southern Metropolitan,735000
+Armadale,6/26 Mercer Rd,2,u,S,Jellis,7/5/2016,6.3,3143,2,1,1,0,,,Stonnington,-37.8528,145.0268,Southern Metropolitan,825000
+Armadale,538a Orrong Rd,3,t,S,RT,7/5/2016,6.3,3143,2,2,2,246,,,Stonnington,-37.8566,145.0116,Southern Metropolitan,1586000
+Armadale,18/41 Kooyong Rd,2,u,S,Marshall,8/10/2016,6.3,3143,3,1,1,0,,1960,Stonnington,-37.8596,145.0198,Southern Metropolitan,645000
+Armadale,10 William St,1,h,SP,Jellis,8/10/2016,6.3,3143,2,2,1,144,107,1900,Stonnington,-37.8564,145.0228,Southern Metropolitan,1435000
+Armadale,15/405 Dandenong Rd,1,u,PI,hockingstuart,10/9/2016,6.3,3143,1,1,1,0,38,1975,Stonnington,-37.8619,145.0185,Southern Metropolitan,280000
+Armadale,1/2 Armadale St,1,u,PI,hockingstuart,10/12/2016,6.3,3143,1,1,1,0,,,Stonnington,-37.8605,145.0185,Southern Metropolitan,400000
+Armadale,4/20 Mercer Rd,2,h,S,Marshall,10/12/2016,6.3,3143,2,2,2,0,,,Stonnington,-37.8537,145.0267,Southern Metropolitan,1780000
+Armadale,8/58 Sutherland Rd,2,u,S,hockingstuart,10/12/2016,6.3,3143,2,1,1,0,73,1970,Stonnington,-37.8574,145.0174,Southern Metropolitan,592500
+Armadale,40 New St,2,h,S,Marshall,12/11/2016,6.3,3143,2,1,0,249,96,1910,Stonnington,-37.8543,145.016,Southern Metropolitan,1210000
+Armadale,35 Northcote Rd,4,h,S,Marshall,12/11/2016,6.3,3143,4,2,2,624,222,1900,Stonnington,-37.8536,145.0173,Southern Metropolitan,2801000
+Armadale,7/53 Wattletree Rd,1,u,S,Jellis,14/05/2016,6.3,3143,1,1,0,881,,,Stonnington,-37.8614,145.0222,Southern Metropolitan,390000
+Armadale,791 High St,3,h,PI,RT,15/10/2016,6.3,3143,3,2,2,405,121,1910,Stonnington,-37.8545,145.0145,Southern Metropolitan,1800000
+Armadale,25 Llaneast St,4,h,PI,Jellis,15/10/2016,6.3,3143,4,1,2,495,163,1900,Stonnington,-37.8613,145.0264,Southern Metropolitan,2200000
+Armadale,8/569 Orrong Rd,1,u,S,Jellis,16/04/2016,6.3,3143,1,1,1,0,,,Stonnington,-37.8537,145.0114,Southern Metropolitan,324000
+Armadale,367 Dandenong Rd,6,h,S,Marshall,17/09/2016,6.3,3143,5,3,4,1491,516,1935,Stonnington,-37.8602,145.013,Southern Metropolitan,5525000
+Armadale,34a Rose St,2,h,S,RT,17/09/2016,6.3,3143,3,1,2,169,,,Stonnington,-37.851,145.0161,Southern Metropolitan,1125000
+Armadale,42 Rose St,3,h,S,Marshall,17/09/2016,6.3,3143,3,3,1,301,,,Stonnington,-37.8511,145.0167,Southern Metropolitan,2250000
+Armadale,12 Auburn Gr,3,h,S,hockingstuart,18/03/2017,6.3,3143,3,2,0,336,,,Stonnington,-37.8558,145.015,Southern Metropolitan,2360000
+Armadale,31 Hume St,2,h,VB,Jellis,18/03/2017,6.3,3143,2,2,0,207,,,Stonnington,-37.8571,145.0224,Southern Metropolitan,1900000
+Armadale,10/581 Orrong Rd,1,u,SP,Jellis,18/03/2017,6.3,3143,1,1,1,0,53,1970,Stonnington,-37.8531,145.0115,Southern Metropolitan,440000
+Armadale,7/579 Dandenong Rd,2,u,PI,Ray,18/06/2016,6.3,3143,2,1,1,0,,1966,Stonnington,-37.8646,145.0247,Southern Metropolitan,490000
+Armadale,19 Glassford St,3,h,S,Marshall,18/06/2016,6.3,3143,3,2,1,316,,,Stonnington,-37.8521,145.019,Southern Metropolitan,2365000
+Armadale,14 New St,3,h,VB,Jellis,18/06/2016,6.3,3143,2,1,2,212,106,1900,Stonnington,-37.8542,145.0149,Southern Metropolitan,1300000
+Armadale,7/501 Orrong Rd,3,u,S,Gary,18/06/2016,6.3,3143,3,2,2,0,,,Stonnington,-37.8597,145.0104,Southern Metropolitan,732000
+Armadale,6/51 Armadale St,2,u,SP,Greg,19/11/2016,6.3,3143,2,1,1,0,74,1969,Stonnington,-37.8573,145.0186,Southern Metropolitan,704000
+Armadale,12/41 Kooyong Rd,2,u,VB,Marshall,19/11/2016,6.3,3143,3,1,1,0,98,1970,Stonnington,-37.8596,145.0198,Southern Metropolitan,620000
+Armadale,63 Denbigh Rd,3,h,S,Marshall,22/05/2016,6.3,3143,3,1,2,328,108,1900,Stonnington,-37.8559,145.0158,Southern Metropolitan,1900000
+Armadale,13/56 Sutherland Rd,1,u,SP,Fletchers,22/08/2016,6.3,3143,1,1,1,0,,,Stonnington,-37.8575,145.0174,Southern Metropolitan,315000
+Armadale,7/22 Derby St,1,u,PI,hockingstuart,24/09/2016,6.3,3143,1,1,1,0,,,Stonnington,-37.8509,145.0203,Southern Metropolitan,450000
+Armadale,10/51 Armadale St,2,u,S,Jellis,25/02/2017,6.3,3143,2,1,1,2471,80,1970,Stonnington,-37.8573,145.0186,Southern Metropolitan,710000
+Armadale,2/377 Dandenong Rd,2,u,S,Jellis,25/02/2017,6.3,3143,2,1,1,1194,,1953,Stonnington,-37.8604,145.0147,Southern Metropolitan,872000
+Armadale,1/14 Denbigh Rd,2,u,S,hockingstuart,25/02/2017,6.3,3143,2,1,1,0,88,1970,Stonnington,-37.8593,145.0156,Southern Metropolitan,598000
+Armadale,75 Sutherland Rd,3,h,S,Marshall,25/02/2017,6.3,3143,3,1,2,186,80,1920,Stonnington,-37.8554,145.0173,Southern Metropolitan,1285000
+Armadale,61 Union St,4,h,S,Jellis,25/02/2017,6.3,3143,4,3,2,421,,,Stonnington,-37.8593,145.0275,Southern Metropolitan,3660000
+Armadale,1/403 Dandenong Rd,2,u,S,hockingstuart,27/06/2016,6.3,3143,1,1,1,0,76,1970,Stonnington,-37.8618,145.0183,Southern Metropolitan,520000
+Armadale,44 Denbigh Rd,4,h,S,Jellis,27/11/2016,6.3,3143,4,1,2,709,251,1900,Stonnington,-37.8574,145.016,Southern Metropolitan,3625000
+Armadale,44 Hampden Rd,4,h,VB,Kay,27/11/2016,6.3,3143,4,3,3,563,333,2000,Stonnington,-37.8582,145.0138,Southern Metropolitan,4200000
+Armadale,3/769 High St,3,t,S,Jellis,27/11/2016,6.3,3143,3,1,2,103,3,2000,Stonnington,-37.8542,145.0135,Southern Metropolitan,1101000
+Armadale,4 Mercer Rd,3,h,S,Marshall,27/11/2016,6.3,3143,3,2,2,617,285,1998,Stonnington,-37.8557,145.0264,Southern Metropolitan,3512500
+Armadale,17 Kooyong Rd,4,h,PI,Marshall,28/05/2016,6.3,3143,4,3,4,544,,,Stonnington,-37.8611,145.0195,Southern Metropolitan,2000000
+Armadale,1/31 Mercer Rd,3,u,S,Jellis,28/05/2016,6.3,3143,2,1,1,0,91,1940,Stonnington,-37.853,145.0264,Southern Metropolitan,869000
+Armadale,16 Llaneast St,5,h,S,Marshall,28/08/2016,6.3,3143,5,2,2,617,,,Stonnington,-37.8611,145.0271,Southern Metropolitan,2810000
+Armadale,2/532 Orrong Rd,2,u,S,Ray,28/08/2016,6.3,3143,3,1,1,0,,,Stonnington,-37.8573,145.0112,Southern Metropolitan,565000
+Armadale,5/555 Orrong Rd,1,u,S,hockingstuart,28/08/2016,6.3,3143,1,1,1,0,53,2013,Stonnington,-37.8549,145.0113,Southern Metropolitan,567000
+Armadale,3/50 Denbigh Rd,2,u,SP,hockingstuart,30/07/2016,6.3,3143,2,0,0,0,,,Stonnington,-37.8568,145.0161,Southern Metropolitan,546000
+Armadale,7/844 Malvern Rd,2,u,S,Ray,30/07/2016,6.3,3143,2,1,1,0,,1980,Stonnington,-37.8503,145.0185,Southern Metropolitan,471500
+Ascot Vale,2/43 Roxburgh St,2,u,S,Nelson,3/9/2016,5.9,3032,3,1,2,0,,,Moonee Valley,-37.7756,144.9165,Western Metropolitan,455000
+Ascot Vale,30 Rothwell St,3,h,S,Nelson,3/12/2016,5.9,3032,3,1,2,298,108,1920,Moonee Valley,-37.7777,144.9195,Western Metropolitan,940000
+Ascot Vale,9/5 Rothwell St,2,u,SP,Brad,3/12/2016,5.9,3032,2,1,1,0,62,1980,Moonee Valley,-37.7761,144.9201,Western Metropolitan,467000
+Ascot Vale,7 Francis St,3,h,SP,Nelson,4/3/2017,5.9,3032,3,2,2,277,174,1910,Moonee Valley,-37.7777,144.9221,Western Metropolitan,1380000
+Ascot Vale,2/21 Harold St,2,u,VB,Jellis,4/3/2017,5.9,3032,2,1,1,423,62,1970,Moonee Valley,-37.7736,144.9015,Western Metropolitan,490000
+Ascot Vale,44 The Parade,4,h,S,Brad,4/3/2017,5.9,3032,4,3,1,478,270,1900,Moonee Valley,-37.7729,144.9179,Western Metropolitan,1850000
+Ascot Vale,97 Walter St,3,h,S,Woodards,4/3/2017,5.9,3032,3,1,2,623,,1938,Moonee Valley,-37.7758,144.9089,Western Metropolitan,1284000
+Ascot Vale,98 Epsom Rd,3,h,SP,Nelson,4/6/2016,5.9,3032,3,2,2,285,128,1900,Moonee Valley,-37.775,144.9091,Western Metropolitan,971000
+Ascot Vale,8 Geddes St,2,h,PI,Nelson,4/6/2016,5.9,3032,2,1,1,214,77,1890,Moonee Valley,-37.7776,144.9142,Western Metropolitan,710000
+Ascot Vale,75 Maribyrnong Rd,6,h,PI,Brad,4/6/2016,5.9,3032,6,3,2,1014,435,1887,Moonee Valley,-37.7721,144.9184,Western Metropolitan,2425000
+Ascot Vale,119 Roseberry St,2,h,SP,Maddison,4/6/2016,5.9,3032,2,1,1,226,92,1920,Moonee Valley,-37.7745,144.9093,Western Metropolitan,750000
+Ascot Vale,10 Fenton St,2,h,S,Nelson,6/8/2016,5.9,3032,2,1,1,269,109,1900,Moonee Valley,-37.7748,144.929,Western Metropolitan,1053000
+Ascot Vale,10 McCully St,3,h,S,Nelson,6/8/2016,5.9,3032,3,1,1,417,168,1900,Moonee Valley,-37.7756,144.9208,Western Metropolitan,1377000
+Ascot Vale,120 Epsom Rd,3,h,S,Brad,7/5/2016,5.9,3032,3,1,2,350,125,1904,Moonee Valley,-37.7759,144.91,Western Metropolitan,970000
+Ascot Vale,47 Hurtle St,2,h,S,Nelson,7/5/2016,5.9,3032,2,1,1,330,,,Moonee Valley,-37.773,144.9049,Western Metropolitan,940000
+Ascot Vale,63 Kent St,2,h,PI,Nelson,7/5/2016,5.9,3032,2,1,1,118,79,1890,Moonee Valley,-37.7807,144.9288,Western Metropolitan,751000
+Ascot Vale,4 The Parade,2,h,SP,Raine,7/5/2016,5.9,3032,2,1,1,173,102,1900,Moonee Valley,-37.7731,144.9206,Western Metropolitan,950000
+Ascot Vale,1/17 Epsom Rd,2,u,S,Brad,7/11/2016,5.9,3032,2,1,2,228,90,1995,Moonee Valley,-37.7718,144.9066,Western Metropolitan,685000
+Ascot Vale,41 Monash St,3,h,S,Nelson,8/10/2016,5.9,3032,4,1,2,594,148,1960,Moonee Valley,-37.7819,144.9064,Western Metropolitan,1230000
+Ascot Vale,2/78 Ormond Rd,2,h,S,Jellis,8/10/2016,5.9,3032,2,1,1,0,,,Moonee Valley,-37.7738,144.9345,Western Metropolitan,636500
+Ascot Vale,83 Roseberry St,3,h,S,Raine,8/10/2016,5.9,3032,3,1,0,317,,,Moonee Valley,-37.7746,144.9112,Western Metropolitan,910000
+Ascot Vale,51 Francis St,2,h,PI,Nelson,10/9/2016,5.9,3032,2,1,1,226,87,1900,Moonee Valley,-37.7774,144.9186,Western Metropolitan,770000
+Ascot Vale,33 Dalgety Dr,3,h,S,Walshe,10/12/2016,5.9,3032,3,2,2,229,,2011,Moonee Valley,-37.7778,144.9065,Western Metropolitan,960000
+Ascot Vale,12 Mirams St,4,h,SP,Raine,10/12/2016,5.9,3032,4,1,1,300,185,1890,Moonee Valley,-37.7766,144.9143,Western Metropolitan,890000
+Ascot Vale,2 The Parade,2,h,S,Nelson,10/12/2016,5.9,3032,2,1,1,170,,,Moonee Valley,-37.7732,144.9206,Western Metropolitan,965000
+Ascot Vale,78 The Parade,3,h,S,Nelson,11/2/2017,5.9,3032,3,1,1,487,131,1900,Moonee Valley,-37.7725,144.9146,Western Metropolitan,1440000
+Ascot Vale,11 Ascot St,2,h,S,Woodards,11/3/2017,5.9,3032,2,1,0,255,,,Moonee Valley,-37.7825,144.9208,Western Metropolitan,955000
+Ascot Vale,24/54 Epsom Rd,2,u,VB,Nelson,12/11/2016,5.9,3032,2,1,1,0,,2010,Moonee Valley,-37.7731,144.9074,Western Metropolitan,450000
+Ascot Vale,2 Farncomb St,3,h,S,Jellis,12/11/2016,5.9,3032,3,1,2,431,,1950,Moonee Valley,-37.781,144.9207,Western Metropolitan,801000
+Ascot Vale,26 Newsom St,3,h,PI,Brad,12/11/2016,5.9,3032,3,2,2,440,120,1955,Moonee Valley,-37.7746,144.9031,Western Metropolitan,1000000
+Ascot Vale,8 Pentland St,3,h,S,Nelson,12/11/2016,5.9,3032,3,2,2,532,147,1950,Moonee Valley,-37.7737,144.904,Western Metropolitan,1435000
+Ascot Vale,8/129 The Parade,1,u,S,Alexkarbon,12/11/2016,5.9,3032,1,1,1,0,58,1972,Moonee Valley,-37.7723,144.9094,Western Metropolitan,390000
+Ascot Vale,52 Monash St,3,h,PI,Jellis,13/08/2016,5.9,3032,3,2,2,495,139,1920,Moonee Valley,-37.7821,144.9055,Western Metropolitan,1425000
+Ascot Vale,58 Fenton St,4,h,S,Nelson,14/05/2016,5.9,3032,3,2,2,683,232,1978,Moonee Valley,-37.775,144.932,Western Metropolitan,1340000
+Ascot Vale,70 Munro St,3,h,S,Brad,14/05/2016,5.9,3032,3,1,1,263,117,1910,Moonee Valley,-37.7753,144.9116,Western Metropolitan,955000
+Ascot Vale,125 Epsom Rd,4,h,VB,Nelson,15/10/2016,5.9,3032,4,2,5,559,195,1920,Moonee Valley,-37.7791,144.9136,Western Metropolitan,1100000
+Ascot Vale,33 Hockey La,3,h,S,Nelson,15/10/2016,5.9,3032,3,2,2,308,,,Moonee Valley,-37.7759,144.9338,Western Metropolitan,1255000
+Ascot Vale,3/28 Ormond Rd,2,u,S,Biggin,15/10/2016,5.9,3032,2,1,1,0,62,1978,Moonee Valley,-37.773,144.9303,Western Metropolitan,432000
+Ascot Vale,7 Angler Pde,4,h,S,Raine,16/04/2016,5.9,3032,4,3,2,562,204,1890,Moonee Valley,-37.782,144.903,Western Metropolitan,1640000
+Ascot Vale,26 Ayr St,6,h,S,Nelson,16/04/2016,5.9,3032,4,2,1,461,286,1900,Moonee Valley,-37.78,144.9295,Western Metropolitan,1430000
+Ascot Vale,2/127 Epsom Rd,2,u,SP,Brad,16/04/2016,5.9,3032,2,1,1,301,104,1995,Moonee Valley,-37.7791,144.914,Western Metropolitan,610000
+Ascot Vale,57 The Parade,3,h,S,Nelson,16/04/2016,5.9,3032,3,3,1,491,127,1950,Moonee Valley,-37.7727,144.9136,Western Metropolitan,940000
+Ascot Vale,62 Mirams St,3,h,SP,Brad,16/07/2016,5.9,3032,3,1,1,242,110,1920,Moonee Valley,-37.7765,144.9114,Western Metropolitan,890000
+Ascot Vale,67 Hurtle St,3,h,SP,Brad,17/09/2016,5.9,3032,3,2,2,617,149,1930,Moonee Valley,-37.7742,144.906,Western Metropolitan,1180000
+Ascot Vale,95 Walter St,4,h,S,Raine,17/09/2016,5.9,3032,4,2,2,597,180,1939,Moonee Valley,-37.7757,144.9088,Western Metropolitan,1480000
+Ascot Vale,15 Bayview Tce,2,h,S,Brad,18/03/2017,5.9,3032,2,1,1,387,,,Moonee Valley,-37.7734,144.9191,Western Metropolitan,1150000
+Ascot Vale,57 Monash St,3,h,S,Brad,18/03/2017,5.9,3032,3,1,3,575,,,Moonee Valley,-37.7828,144.9049,Western Metropolitan,1350000
+Ascot Vale,54 South St,5,h,S,Nelson,18/03/2017,5.9,3032,5,2,2,521,,,Moonee Valley,-37.7778,144.9261,Western Metropolitan,1905000
+Ascot Vale,3/8 Walter St,2,t,SP,Nelson,18/03/2017,5.9,3032,2,2,1,146,132,2015,Moonee Valley,-37.7713,144.9038,Western Metropolitan,865000
+Ascot Vale,2/225 Maribyrnong Rd,2,t,S,Brad,18/06/2016,5.9,3032,2,2,1,113,,1998,Moonee Valley,-37.7712,144.9088,Western Metropolitan,705000
+Ascot Vale,12/9 Milton St,2,u,S,Alexkarbon,18/06/2016,5.9,3032,2,1,1,0,62,1975,Moonee Valley,-37.7733,144.9219,Western Metropolitan,442000
+Ascot Vale,107/8 Burrowes St,2,u,S,Jellis,19/11/2016,5.9,3032,2,2,1,0,,,Moonee Valley,-37.7786,144.9141,Western Metropolitan,540000
+Ascot Vale,21A Geddes St,3,h,S,Alexkarbon,19/11/2016,5.9,3032,3,1,2,506,110,1920,Moonee Valley,-37.7779,144.9133,Western Metropolitan,1037500
+Ascot Vale,1/20 Newsom St,3,t,S,Jellis,19/11/2016,5.9,3032,3,2,2,318,160,2013,Moonee Valley,-37.7744,144.9035,Western Metropolitan,1050000
+Ascot Vale,4/27 Roseberry St,2,u,S,McDonald,19/11/2016,5.9,3032,2,1,1,0,65,1970,Moonee Valley,-37.7749,144.9137,Western Metropolitan,440000
+Ascot Vale,126 The Parade,2,h,S,Brad,19/11/2016,5.9,3032,2,1,1,325,,,Moonee Valley,-37.7722,144.9117,Western Metropolitan,1010000
+Ascot Vale,43 Bloomfield Rd,4,h,S,Nelson,22/05/2016,5.9,3032,4,2,0,418,158,1900,Moonee Valley,-37.7766,144.9187,Western Metropolitan,1430000
+Ascot Vale,6/17 Geddes St,2,u,VB,Nelson,22/05/2016,5.9,3032,2,1,1,0,,,Moonee Valley,-37.7779,144.9137,Western Metropolitan,570000
+Ascot Vale,1/60 The Parade,2,u,S,Brad,22/05/2016,5.9,3032,2,1,1,0,,,Moonee Valley,-37.7728,144.9169,Western Metropolitan,690000
+Ascot Vale,45 Bloomfield Rd,3,h,S,Brad,23/04/2016,5.9,3032,3,1,2,414,,,Moonee Valley,-37.7766,144.9185,Western Metropolitan,1291000
+Ascot Vale,21 Middle St,3,h,S,Nelson,23/04/2016,5.9,3032,3,2,1,272,157,1900,Moonee Valley,-37.7774,144.928,Western Metropolitan,1130000
+Ascot Vale,78 Francis St,3,h,S,Brad,24/09/2016,5.9,3032,3,1,1,296,104,1910,Moonee Valley,-37.777,144.9176,Western Metropolitan,1135000
+Ascot Vale,25 Geddes St,4,h,PI,Nelson,24/09/2016,5.9,3032,4,2,1,298,147,1920,Moonee Valley,-37.7778,144.9131,Western Metropolitan,950000
+Ascot Vale,106/246 Union Rd,3,u,PI,Weda,24/09/2016,5.9,3032,3,2,1,0,148,,Moonee Valley,-37.7722,144.9163,Western Metropolitan,790000
+Ascot Vale,18/54 Epsom Rd,2,u,PI,Jellis,25/02/2017,5.9,3032,2,1,1,1957,69,2012,Moonee Valley,-37.7731,144.9074,Western Metropolitan,390000
+Ascot Vale,15 Mirams St,4,h,S,Jellis,25/02/2017,5.9,3032,4,1,1,552,155,1920,Moonee Valley,-37.7769,144.9138,Western Metropolitan,1345000
+Ascot Vale,44 Walter St,3,h,S,Barry,25/02/2017,5.9,3032,3,2,2,416,168,1900,Moonee Valley,-37.7727,144.9055,Western Metropolitan,1381500
+Ascot Vale,25 Dalgety Dr,3,h,S,Jellis,26/07/2016,5.9,3032,3,2,2,285,172,2011,Moonee Valley,-37.7778,144.9061,Western Metropolitan,940000
+Ascot Vale,7 Dalgety Dr,3,h,S,Nelson,26/07/2016,5.9,3032,3,2,1,314,177,2010,Moonee Valley,-37.7778,144.9042,Western Metropolitan,995000
+Ascot Vale,37 Epsom Rd,3,h,SP,Frank,26/07/2016,5.9,3032,3,1,3,536,,,Moonee Valley,-37.7728,144.9076,Western Metropolitan,1050000
+Ascot Vale,6 Waller Ct,3,h,S,Brad,26/07/2016,5.9,3032,3,2,1,576,120,1940,Moonee Valley,-37.7816,144.9217,Western Metropolitan,786000
+Ascot Vale,17 Ascot St,2,h,PI,Nelson,27/06/2016,5.9,3032,2,1,3,252,108,1910,Moonee Valley,-37.7825,144.9206,Western Metropolitan,705000
+Ascot Vale,73 Kent St,2,h,PI,Nelson,27/06/2016,5.9,3032,2,1,1,124,77,1900,Moonee Valley,-37.7807,144.9285,Western Metropolitan,760000
+Ascot Vale,9/129 The Parade,3,u,S,Hodges,27/06/2016,5.9,3032,3,1,3,0,,1972,Moonee Valley,-37.7723,144.9094,Western Metropolitan,487500
+Ascot Vale,1 East St,3,t,S,Nelson,27/11/2016,5.9,3032,3,2,2,200,144,2003,Moonee Valley,-37.7766,144.9277,Western Metropolitan,1000000
+Ascot Vale,32 Geddes St,4,h,PI,Nelson,27/11/2016,5.9,3032,4,2,1,349,,1920,Moonee Valley,-37.7775,144.913,Western Metropolitan,1110000
+Ascot Vale,30 Mirams St,4,h,PI,Jellis,27/11/2016,5.9,3032,4,1,4,664,,,Moonee Valley,-37.7765,144.9132,Western Metropolitan,1300000
+Ascot Vale,43 Mirams St,3,h,PI,Nelson,27/11/2016,5.9,3032,3,1,1,555,,,Moonee Valley,-37.7767,144.9125,Western Metropolitan,1060000
+Ascot Vale,45 Mirams St,3,h,PI,Nelson,27/11/2016,5.9,3032,3,2,2,459,,,Moonee Valley,-37.7767,144.9124,Western Metropolitan,1410000
+Ascot Vale,1 Bloomfield Rd,3,h,S,Barry,28/05/2016,5.9,3032,2,1,1,278,166,1900,Moonee Valley,-37.7768,144.9223,Western Metropolitan,1305000
+Ascot Vale,26 Milton St,3,h,S,Nelson,28/05/2016,5.9,3032,3,2,1,254,,,Moonee Valley,-37.7738,144.9215,Western Metropolitan,932500
+Ascot Vale,10 Ayr St,3,h,S,Alexkarbon,28/08/2016,5.9,3032,3,1,0,216,,,Moonee Valley,-37.7792,144.9297,Western Metropolitan,965000
+Ascot Vale,58 Bloomfield Rd,3,h,S,Stockdale,28/08/2016,5.9,3032,3,1,1,452,175,1960,Moonee Valley,-37.7762,144.9174,Western Metropolitan,1215000
+Ascot Vale,1/91 Epsom Rd,2,u,S,Nelson,28/08/2016,5.9,3032,2,1,2,194,71,1900,Moonee Valley,-37.7772,144.9118,Western Metropolitan,545000
+Ascot Vale,5 Doncaster St,4,h,S,Jellis,30/07/2016,5.9,3032,4,2,4,598,273,2012,Moonee Valley,-37.7774,144.9104,Western Metropolitan,1705000
+Ascot Vale,6 McCully St,3,h,S,Nelson,30/07/2016,5.9,3032,2,1,1,194,,,Moonee Valley,-37.7756,144.921,Western Metropolitan,970000
+Ascot Vale,75 Munro St,2,h,S,Barry,30/07/2016,5.9,3032,2,1,1,407,,,Moonee Valley,-37.7756,144.9105,Western Metropolitan,925000
+Ashburton,61 Dent St,4,h,S,Marshall,3/9/2016,11,3147,4,3,2,753,399,2015,Boroondara,-37.8669,145.0767,Southern Metropolitan,2650000
+Ashburton,69 Albion Rd,3,h,S,Jellis,3/12/2016,11,3147,3,2,2,599,220,1930,Boroondara,-37.8673,145.0688,Southern Metropolitan,1670000
+Ashburton,1/17 Ashburn Gr,3,t,S,Buxton,3/12/2016,11,3147,3,2,2,203,,,Boroondara,-37.8655,145.0807,Southern Metropolitan,955000
+Ashburton,3/39 Solway St,3,t,S,Fletchers,3/12/2016,11,3147,3,3,4,310,315,2014,Boroondara,-37.874,145.0714,Southern Metropolitan,2050000
+Ashburton,101/218 High St,2,u,VB,Fletchers,4/3/2017,11,3147,2,1,1,710,,2010,Boroondara,-37.8636,145.0794,Southern Metropolitan,500000
+Ashburton,51 Victory Bvd,2,h,S,Jellis,4/3/2017,11,3147,2,1,2,679,,,Boroondara,-37.869,145.0822,Southern Metropolitan,1575000
+Ashburton,3 Dunlop St,3,h,S,Jellis,4/6/2016,11,3147,3,2,2,731,149,1935,Boroondara,-37.8666,145.0676,Southern Metropolitan,1555000
+Ashburton,16a Nicholas St,3,h,PI,Marshall,8/10/2016,11,3147,3,3,2,276,178,2004,Boroondara,-37.8699,145.0778,Southern Metropolitan,1100000
+Ashburton,5 Nicholas St,3,h,S,Buxton,8/10/2016,11,3147,3,1,2,583,112,1950,Boroondara,-37.8685,145.0786,Southern Metropolitan,1337000
+Ashburton,115 Ashburn Gr,8,h,S,hockingstuart,10/9/2016,11,3147,9,7,4,1472,618,2009,Boroondara,-37.8729,145.0788,Southern Metropolitan,2950000
+Ashburton,33 Eleanor St,4,h,SP,Marshall,10/9/2016,11,3147,4,2,1,681,,1940,Boroondara,-37.8612,145.0858,Southern Metropolitan,2215000
+Ashburton,1/1 Nairn St,3,h,S,Jellis,10/9/2016,11,3147,3,2,2,516,145,1920,Boroondara,-37.8675,145.0668,Southern Metropolitan,1518000
+Ashburton,9 Gona Ct,3,h,S,hockingstuart,10/12/2016,11,3147,3,1,2,806,101,1950,Boroondara,-37.8695,145.084,Southern Metropolitan,1710000
+Ashburton,45 Yuile St,3,h,S,Jellis,10/12/2016,11,3147,3,1,3,780,152,1940,Boroondara,-37.8599,145.0815,Southern Metropolitan,1655000
+Ashburton,47 Yuile St,4,h,VB,Marshall,12/11/2016,11,3147,4,2,2,780,180,1938,Boroondara,-37.86,145.0817,Southern Metropolitan,1550000
+Ashburton,6a Glen Rd,3,h,S,Jellis,14/05/2016,11,3147,3,2,2,351,228,2006,Boroondara,-37.8742,145.07,Southern Metropolitan,1662000
+Ashburton,18 Glen Rd,3,h,S,Jellis,15/10/2016,11,3147,3,2,3,702,145,1945,Boroondara,-37.8737,145.0695,Southern Metropolitan,1665000
+Ashburton,95 Nicholas St,2,h,S,Jellis,16/04/2016,11,3147,2,1,2,704,,,Boroondara,-37.8745,145.0738,Southern Metropolitan,1445000
+Ashburton,29A Yuile St,5,h,S,Jellis,18/03/2017,11,3147,5,5,2,755,444,2015,Boroondara,-37.8598,145.0796,Southern Metropolitan,3510000
+Ashburton,3/75 Victory Bvd,3,t,S,Jellis,18/06/2016,11,3147,3,1,1,227,,,Boroondara,-37.8709,145.0857,Southern Metropolitan,968000
+Ashburton,2/17 Ashburn Gr,3,t,S,Jellis,19/11/2016,11,3147,3,2,2,153,110,1990,Boroondara,-37.8655,145.0808,Southern Metropolitan,900000
+Ashburton,4 Baker Pde,3,h,S,hockingstuart,22/05/2016,11,3147,3,1,2,545,,,Boroondara,-37.8605,145.0833,Southern Metropolitan,1500000
+Ashburton,15 Comas Gr,5,h,S,Jellis,22/08/2016,11,3147,6,4,2,1075,390,2010,Boroondara,-37.8714,145.073,Southern Metropolitan,2752000
+Ashburton,3 Mustang Ct,3,h,VB,Jellis,22/08/2016,11,3147,3,2,2,710,139,1945,Boroondara,-37.8653,145.0897,Southern Metropolitan,1500000
+Ashburton,63 Dent St,4,h,S,Jellis,25/02/2017,11,3147,4,2,4,749,206,1950,Boroondara,-37.8669,145.077,Southern Metropolitan,1800000
+Ashburton,4 Vears Rd,3,h,S,Jellis,25/02/2017,11,3147,3,2,3,724,168,1940,Boroondara,-37.8619,145.0879,Southern Metropolitan,1830000
+Ashburton,14 Lucerne St,3,h,S,Buxton,27/06/2016,11,3147,3,1,1,605,111,1950,Boroondara,-37.8703,145.0774,Southern Metropolitan,1415000
+Ashburton,5 Pitt St,2,h,PI,Jellis,27/06/2016,11,3147,2,1,1,687,104,1940,Boroondara,-37.872,145.0692,Southern Metropolitan,1440000
+Ashburton,1/65 Ashburn Gr,4,t,VB,Noel,27/11/2016,11,3147,4,2,2,321,199,2007,Boroondara,-37.8693,145.08,Southern Metropolitan,1250000
+Ashburton,12 Meaden St,3,h,S,Buxton,27/11/2016,11,3147,3,1,2,583,,,Boroondara,-37.8679,145.0781,Southern Metropolitan,1422000
+Ashburton,48 Nicholas St,5,h,S,Marshall,27/11/2016,11,3147,5,3,4,700,266,1950,Boroondara,-37.8724,145.0758,Southern Metropolitan,1600000
+Ashburton,5 Taylor St,4,h,S,Jellis,27/11/2016,11,3147,4,2,3,696,274,2000,Boroondara,-37.8711,145.0746,Southern Metropolitan,1860000
+Ashburton,1/7 Y St,3,t,S,Marshall,27/11/2016,11,3147,3,2,2,295,,1990,Boroondara,-37.8624,145.0798,Southern Metropolitan,1710000
+Ashburton,33 Highgate Gr,4,h,PI,hockingstuart,28/05/2016,11,3147,4,2,2,514,240,1935,Boroondara,-37.8664,145.0772,Southern Metropolitan,1790000
+Ashburton,9 Pitt St,4,h,S,Tim,28/05/2016,11,3147,4,2,2,844,278,1940,Boroondara,-37.8715,145.0688,Southern Metropolitan,1950000
+Ashburton,9 Ward St,3,h,S,Fletchers,28/05/2016,11,3147,3,1,2,637,,,Boroondara,-37.8645,145.0797,Southern Metropolitan,1600000
+Ashburton,159 Ashburn Gr,3,h,PI,Marshall,28/08/2016,11,3147,3,1,2,1063,,,Boroondara,-37.8752,145.0754,Southern Metropolitan,1320000
+Ashburton,19 Poulter St,3,h,S,Marshall,28/08/2016,11,3147,3,1,1,697,164,1947,Boroondara,-37.8636,145.0903,Southern Metropolitan,1650000
+Ashwood,18 Teck St,2,h,S,Tim,3/9/2016,12.2,3147,2,1,1,583,,1950,Monash,-37.8693,145.1082,Southern Metropolitan,995000
+Ashwood,28 Raymond St,3,h,S,Woodards,3/12/2016,12.2,3147,3,1,1,842,,,Monash,-37.867,145.1092,Southern Metropolitan,1250000
+Ashwood,31a Douglas St,3,u,S,Tim,4/3/2017,12.2,3147,3,2,2,467,,,Monash,-37.8639,145.0968,Southern Metropolitan,1045000
+Ashwood,1/53 Winbirra Pde,4,h,SP,Purplebricks,4/3/2017,12.2,3147,4,3,2,372,201,2016,Monash,-37.8716,145.0999,Southern Metropolitan,1200000
+Ashwood,18 Montrose St,2,h,VB,Jellis,4/6/2016,12.2,3147,2,1,2,695,114,1950,Monash,-37.8694,145.0944,Southern Metropolitan,1075000
+Ashwood,4 Scenic Dr,4,h,S,Fletchers,6/8/2016,12.2,3147,2,2,2,621,203,2000,Monash,-37.8647,145.1023,Southern Metropolitan,1500000
+Ashwood,8 Rocklands Rd,3,h,S,Tim,7/5/2016,12.2,3147,3,1,2,723,,,Monash,-37.8642,145.1109,Southern Metropolitan,1120000
+Ashwood,1/7 Farmer St,2,t,S,hockingstuart,7/11/2016,12.2,3147,2,1,2,367,110,1970,Monash,-37.8662,145.109,Southern Metropolitan,700000
+Ashwood,1/136 High Street Rd,3,h,PI,Fletchers,7/11/2016,12.2,3147,3,2,4,400,94,1950,Monash,-37.8675,145.106,Southern Metropolitan,761000
+Ashwood,10 Maroondah Rd,4,h,SP,Buxton,8/10/2016,12.2,3147,4,2,1,724,,,Monash,-37.8651,145.1109,Southern Metropolitan,1270000
+Ashwood,4 Peppermint Ct,4,h,S,Buxton,8/10/2016,12.2,3147,4,2,2,526,,,Monash,-37.8661,145.1013,Southern Metropolitan,1510000
+Ashwood,35 Douglas St,3,h,S,Fletchers,10/9/2016,12.2,3147,3,1,1,792,792,1950,Monash,-37.864,145.0972,Southern Metropolitan,1365000
+Ashwood,95 Huntingdale Rd,4,h,VB,Tim,10/12/2016,12.2,3147,3,2,2,803,152,1970,Monash,-37.8621,145.1126,Southern Metropolitan,1100000
+Ashwood,8 Maroondah Rd,4,h,S,Buxton,13/08/2016,12.2,3147,4,3,2,724,,,Monash,-37.8651,145.1107,Southern Metropolitan,1415000
+Ashwood,1/7 Murra Ct,2,u,S,Ray,14/05/2016,12.2,3147,2,1,1,216,90,2003,Monash,-37.8711,145.1017,Southern Metropolitan,690000
+Ashwood,58 Ashwood Dr,3,h,S,Jellis,15/10/2016,12.2,3147,3,2,3,782,215,1950,Monash,-37.8621,145.1021,Southern Metropolitan,1631000
+Ashwood,3 Harold St,4,h,S,Buxton,15/10/2016,12.2,3147,4,2,1,593,255,1930,Monash,-37.8655,145.096,Southern Metropolitan,1500000
+Ashwood,9 Katta Ct,3,h,S,Harcourts,16/07/2016,12.2,3147,2,1,2,772,,,Monash,-37.8707,145.1036,Southern Metropolitan,1060000
+Ashwood,16 Scenic Dr,5,h,S,Buxton,17/09/2016,12.2,3147,5,3,2,585,317,2000,Monash,-37.8637,145.1024,Southern Metropolitan,1529500
+Ashwood,4/36 Queens Pde,2,u,S,Noel,18/03/2017,12.2,3147,2,1,1,153,80,1970,Monash,-37.8696,145.0962,Southern Metropolitan,600000
+Ashwood,4/24 Mulgrave St,2,u,S,Woodards,18/06/2016,12.2,3147,2,1,1,72,,,Monash,-37.8702,145.1042,Southern Metropolitan,535000
+Ashwood,147 Huntingdale Rd,3,h,S,Buxton,19/11/2016,12.2,3147,3,1,1,557,,1960,Monash,-37.8671,145.1117,Southern Metropolitan,785000
+Ashwood,17 Parkhill Dr,4,h,S,Tim,19/11/2016,12.2,3147,4,2,2,766,192,1950,Monash,-37.8629,145.1097,Southern Metropolitan,1240000
+Ashwood,2/6 Murra Ct,2,u,S,hockingstuart,22/08/2016,12.2,3147,2,1,2,192,88,2007,Monash,-37.8709,145.102,Southern Metropolitan,700000
+Ashwood,12 Leonard St,4,h,S,Buxton,24/09/2016,12.2,3147,4,2,1,727,,,Monash,-37.8669,145.1106,Southern Metropolitan,1350000
+Ashwood,4 Teck St,2,h,S,Fletchers,24/09/2016,12.2,3147,2,1,1,586,86,1950,Monash,-37.8683,145.1082,Southern Metropolitan,1110000
+Ashwood,14 Ashwood Dr,3,h,S,Jellis,25/02/2017,12.2,3147,3,1,1,760,120,1960,Monash,-37.858,145.1038,Southern Metropolitan,1305000
+Ashwood,1/2 Condah Ct,3,h,S,Noel,25/02/2017,12.2,3147,3,2,1,320,85,1958,Monash,-37.87,145.1103,Southern Metropolitan,855000
+Ashwood,1/16 Raymond St,3,t,S,Jellis,27/11/2016,12.2,3147,3,2,2,256,134,2012,Monash,-37.8655,145.1096,Southern Metropolitan,900500
+Ashwood,4 Newbury Ct,3,h,VB,Buxton,28/05/2016,12.2,3147,3,2,2,839,198,1970,Monash,-37.8614,145.1098,Southern Metropolitan,1200000
+Ashwood,2/53 Salisbury Rd,3,t,S,Barry,28/08/2016,12.2,3147,2,1,2,212,130,2012,Monash,-37.8723,145.1089,Southern Metropolitan,830000
+Avondale Heights,8 Norma Ct,3,h,S,Moonee,3/9/2016,10.5,3034,3,1,1,593,118,1970,Moonee Valley,-37.7677,144.8674,Western Metropolitan,850000
+Avondale Heights,9 Rogerson St,3,h,SP,Moonee,3/9/2016,10.5,3034,3,1,1,0,103,1980,Moonee Valley,-37.7634,144.8611,Western Metropolitan,750000
+Avondale Heights,157 Canning St,3,t,S,Nelson,3/12/2016,10.5,3034,3,3,1,557,181,2017,Moonee Valley,-37.77,144.8572,Western Metropolitan,851000
+Avondale Heights,105 Canning St,3,h,S,Nelson,4/3/2017,10.5,3034,3,1,2,542,,,Moonee Valley,-37.7706,144.8629,Western Metropolitan,848000
+Avondale Heights,36 Wood St,4,h,S,Moonee,4/3/2017,10.5,3034,4,2,1,350,,2008,Moonee Valley,-37.7676,144.859,Western Metropolitan,806000
+Avondale Heights,2 Arbor Tce,4,h,S,Nelson,4/6/2016,10.5,3034,3,2,2,569,225,2008,Moonee Valley,-37.7654,144.8655,Western Metropolitan,1155000
+Avondale Heights,3 Karen Ct,3,h,VB,Nelson,4/6/2016,10.5,3034,3,2,2,671,,,Moonee Valley,-37.7593,144.871,Western Metropolitan,670000
+Avondale Heights,6 Lovett Dr,4,h,S,Nelson,4/6/2016,10.5,3034,4,5,4,673,,,Moonee Valley,-37.7545,144.8736,Western Metropolitan,1200000
+Avondale Heights,12 Skewes St,3,h,S,Nelson,4/6/2016,10.5,3034,2,1,2,571,,,Moonee Valley,-37.7605,144.8581,Western Metropolitan,636000
+Avondale Heights,68 Thompson St,3,h,S,Nelson,6/8/2016,10.5,3034,3,1,2,570,120,1970,Moonee Valley,-37.7591,144.8542,Western Metropolitan,680000
+Avondale Heights,14 Lovett Dr,4,h,S,Moonee,7/5/2016,10.5,3034,4,3,2,789,,,Moonee Valley,-37.7537,144.8729,Western Metropolitan,1160000
+Avondale Heights,31 Duke St,3,h,S,Barry,8/10/2016,10.5,3034,3,1,1,529,,,Moonee Valley,-37.7721,144.8576,Western Metropolitan,750000
+Avondale Heights,97 Military Rd,3,h,SP,Moonee,8/10/2016,10.5,3034,3,1,1,550,143,1970,Moonee Valley,-37.7632,144.8622,Western Metropolitan,627500
+Avondale Heights,21 River Dr,3,t,S,Moonee,8/10/2016,10.5,3034,3,2,2,339,,,Moonee Valley,-37.7519,144.8534,Western Metropolitan,880000
+Avondale Heights,3 Clive Ct,4,h,S,Moonee,10/12/2016,10.5,3034,4,3,3,761,281,1970,Moonee Valley,-37.7524,144.8714,Western Metropolitan,950000
+Avondale Heights,22 Warrick Ct,4,h,PI,Nelson,10/12/2016,10.5,3034,4,3,3,1801,,,Moonee Valley,-37.7532,144.8766,Western Metropolitan,1600000
+Avondale Heights,2/6 Nelson Ct,2,t,S,Barry,11/2/2017,10.5,3034,2,1,1,136,,2012,Moonee Valley,-37.7623,144.8613,Western Metropolitan,585000
+Avondale Heights,7 Monmouth St,3,h,SP,Moonee,15/10/2016,10.5,3034,3,1,3,574,,,Moonee Valley,-37.7627,144.857,Western Metropolitan,650000
+Avondale Heights,15 River Dr,3,h,SP,Moonee,15/10/2016,10.5,3034,3,1,4,606,,,Moonee Valley,-37.752,144.854,Western Metropolitan,725000
+Avondale Heights,16a Arbor Tce,3,u,S,Brad,16/04/2016,10.5,3034,3,2,1,289,,,Moonee Valley,-37.7644,144.8657,Western Metropolitan,665000
+Avondale Heights,40a Herbert St,3,h,S,Nelson,16/04/2016,10.5,3034,3,1,1,177,,,Moonee Valley,-37.7664,144.8583,Western Metropolitan,560500
+Avondale Heights,185 Military Rd,3,h,SP,Moonee,16/07/2016,10.5,3034,3,1,2,649,,,Moonee Valley,-37.758,144.86,Western Metropolitan,615000
+Avondale Heights,33 Wood St,3,h,S,Nelson,16/07/2016,10.5,3034,3,1,3,704,,,Moonee Valley,-37.7681,144.8592,Western Metropolitan,845000
+Avondale Heights,14 Herbert St,3,h,SA,Barry,17/09/2016,10.5,3034,3,1,2,322,,,Moonee Valley,-37.7686,144.8576,Western Metropolitan,585000
+Avondale Heights,2/10 Military Rd,2,u,S,Nelson,18/03/2017,10.5,3034,2,1,1,263,,1999,Moonee Valley,-37.7697,144.8657,Western Metropolitan,440000
+Avondale Heights,9 Willow Dr,3,h,S,Moonee,18/03/2017,10.5,3034,3,1,2,766,149,,Moonee Valley,-37.7522,144.8518,Western Metropolitan,850000
+Avondale Heights,8 Westminster Dr,5,h,SP,Moonee,18/06/2016,10.5,3034,5,2,4,574,,,Moonee Valley,-37.7639,144.8615,Western Metropolitan,850000
+Avondale Heights,8 Herbert St,3,h,S,Nelson,22/05/2016,10.5,3034,3,1,1,581,106,1960,Moonee Valley,-37.7691,144.8575,Western Metropolitan,705000
+Avondale Heights,2 Hillman Ct,4,h,VB,Brad,22/05/2016,10.5,3034,4,3,2,873,395,1992,Moonee Valley,-37.7609,144.8639,Western Metropolitan,1100000
+Avondale Heights,20 Westminster Dr,3,h,S,Nelson,22/05/2016,10.5,3034,3,1,1,586,118,1965,Moonee Valley,-37.7642,144.8603,Western Metropolitan,892500
+Avondale Heights,8 Moffat St,3,h,S,HAR,23/04/2016,10.5,3034,3,1,2,588,,,Moonee Valley,-37.771,144.8586,Western Metropolitan,695000
+Avondale Heights,1/24 Bordeaux St,2,h,S,Nelson,24/09/2016,10.5,3034,2,1,1,220,101,1995,Moonee Valley,-37.756,144.8641,Western Metropolitan,522500
+Avondale Heights,72 Military Rd,4,h,PI,Nelson,24/09/2016,10.5,3034,4,2,2,554,140,1960,Moonee Valley,-37.7649,144.8633,Western Metropolitan,680000
+Avondale Heights,1/5 South Tce,3,u,S,Nelson,24/09/2016,10.5,3034,3,1,1,260,,1990,Moonee Valley,-37.7507,144.8576,Western Metropolitan,500000
+Avondale Heights,1/4 Weyburn Pl,2,t,SP,Moonee,24/09/2016,10.5,3034,2,1,2,158,,1993,Moonee Valley,-37.7592,144.8681,Western Metropolitan,550000
+Avondale Heights,19 Clarendon St,3,h,S,Jas,25/02/2017,10.5,3034,3,2,2,705,,,Moonee Valley,-37.766,144.8596,Western Metropolitan,730000
+Avondale Heights,2 Drake Ct,3,h,S,Edward,25/02/2017,10.5,3034,3,1,3,812,117,1960,Moonee Valley,-37.765,144.8578,Western Metropolitan,875000
+Avondale Heights,11 South Tce,3,h,SP,Moonee,25/02/2017,10.5,3034,3,2,8,585,,,Moonee Valley,-37.751,144.8571,Western Metropolitan,850000
+Avondale Heights,61 Doyle St,3,h,SP,Moonee,26/07/2016,10.5,3034,3,1,1,597,,,Moonee Valley,-37.7568,144.8572,Western Metropolitan,635000
+Avondale Heights,109 North Rd,4,h,S,Nelson,26/07/2016,10.5,3034,4,2,2,589,150,1961,Moonee Valley,-37.7573,144.8534,Western Metropolitan,762000
+Avondale Heights,2/4 Carmyle Ct,2,u,PI,Barry,27/11/2016,10.5,3034,2,1,1,0,85,1995,Moonee Valley,-37.7608,144.863,Western Metropolitan,411000
+Avondale Heights,10 Intervale Dr,4,h,S,Barry,27/11/2016,10.5,3034,4,2,2,570,,,Moonee Valley,-37.7513,144.859,Western Metropolitan,790000
+Avondale Heights,328 Milleara Rd,4,h,S,Barry,27/11/2016,10.5,3034,4,1,0,569,,,Moonee Valley,-37.7563,144.8601,Western Metropolitan,605000
+Avondale Heights,10 Skewes St,3,h,S,Nelson,27/11/2016,10.5,3034,3,2,2,593,103,1970,Moonee Valley,-37.7607,144.8581,Western Metropolitan,805000
+Avondale Heights,62 Skewes St,4,h,S,Moonee,27/11/2016,10.5,3034,4,2,4,585,,1960,Moonee Valley,-37.757,144.8566,Western Metropolitan,890000
+Avondale Heights,49 Rogerson St,3,h,S,Barry,28/05/2016,10.5,3034,3,1,1,549,,,Moonee Valley,-37.7644,144.8575,Western Metropolitan,795000
+Avondale Heights,43 Skewes St,3,h,S,Nelson,28/05/2016,10.5,3034,4,2,1,582,153,1950,Moonee Valley,-37.7584,144.8568,Western Metropolitan,634000
+Avondale Heights,63 Doyle St,3,h,SP,Moonee,28/08/2016,10.5,3034,3,1,1,590,,1960,Moonee Valley,-37.7567,144.8572,Western Metropolitan,642000
+Avondale Heights,235 Military Rd,3,h,S,Barry,28/08/2016,10.5,3034,3,2,3,638,,,Moonee Valley,-37.7546,144.8585,Western Metropolitan,863000
+Avondale Heights,57 North Rd,3,h,SP,Moonee,28/08/2016,10.5,3034,3,1,2,607,,,Moonee Valley,-37.7546,144.857,Western Metropolitan,740000
+Balaclava,18 Linton St,4,h,S,Gary,3/9/2016,6.6,3183,3,2,1,244,180,1900,Port Phillip,-37.8668,144.9928,Southern Metropolitan,1819000
+Balaclava,7/72 Grosvenor St,2,u,PI,hockingstuart,3/12/2016,6.6,3183,2,1,2,0,61,1965,Port Phillip,-37.8731,144.9958,Southern Metropolitan,410000
+Balaclava,3/88 Grosvenor St,1,u,VB,hockingstuart,7/5/2016,6.6,3183,1,1,1,0,,,Port Phillip,-37.8733,144.997,Southern Metropolitan,280000
+Balaclava,1/34 Gourlay St,2,t,S,Gary,7/11/2016,6.6,3183,2,1,2,114,120,2000,Port Phillip,-37.8723,144.9961,Southern Metropolitan,1015000
+Balaclava,4/9 Gourlay St,2,u,S,Buxton,15/10/2016,6.6,3183,2,1,1,0,65,1960,Port Phillip,-37.8725,144.9952,Southern Metropolitan,502500
+Balaclava,1/22 Sycamore Gr,2,u,S,Gary,15/10/2016,6.6,3183,2,1,0,0,58,1970,Port Phillip,-37.8742,144.9972,Southern Metropolitan,520000
+Balaclava,6/23 Gourlay St,2,u,SP,Buxton,17/09/2016,6.6,3183,2,1,1,0,61,1960,Port Phillip,-37.8726,144.9962,Southern Metropolitan,442000
+Balaclava,6 Blenheim St,3,h,S,McGrath,18/06/2016,6.6,3183,3,1,1,178,100,1920,Port Phillip,-37.8663,144.9948,Southern Metropolitan,1193000
+Balaclava,3/20 Orange Gr,2,u,S,Chisholm,18/06/2016,6.6,3183,2,1,1,0,49,1960,Port Phillip,-37.8678,144.9966,Southern Metropolitan,416000
+Balaclava,2/360 Carlisle St,2,u,S,Gary,19/11/2016,6.6,3183,2,1,1,0,,,Port Phillip,-37.8691,144.9974,Southern Metropolitan,820000
+Balaclava,2/19 Camden St,2,u,S,hockingstuart,22/05/2016,6.6,3183,2,1,1,0,59,1970,Port Phillip,-37.8667,144.9917,Southern Metropolitan,474000
+Balaclava,1/17 Albion St,2,h,S,Buxton,25/02/2017,6.6,3183,2,1,0,159,84,1930,Port Phillip,-37.874,144.9933,Southern Metropolitan,981000
+Balaclava,10 Grosvenor St,3,h,S,McGrath,25/02/2017,6.6,3183,3,2,2,339,159,1890,Port Phillip,-37.872,144.9909,Southern Metropolitan,1690000
+Balaclava,3/33 Gourlay St,2,u,VB,McGrath,27/06/2016,6.6,3183,2,1,1,483,51,1970,Port Phillip,-37.8727,144.9969,Southern Metropolitan,540000
+Balaclava,41 Marlborough St,3,h,S,Buxton,27/06/2016,6.6,3183,3,1,1,157,,1928,Port Phillip,-37.8696,144.9925,Southern Metropolitan,1080000
+Balaclava,15/36 Brighton Rd,1,u,SP,Biggin,27/11/2016,6.6,3183,1,1,0,0,,,Port Phillip,-37.873,144.9907,Southern Metropolitan,500000
+Balaclava,5/11 Albion St,2,u,PI,hockingstuart,28/08/2016,6.6,3183,2,0,0,0,,,Port Phillip,-37.8739,144.9929,Southern Metropolitan,497500
+Balwyn,166 Gordon St,2,h,S,Marshall,3/9/2016,9.7,3103,2,1,1,659,123,1920,Boroondara,-37.8094,145.0807,Southern Metropolitan,2100000
+Balwyn,36 Narrak Rd,4,h,VB,Marshall,3/9/2016,9.7,3103,4,2,2,715,218,1985,Boroondara,-37.811,145.0958,Southern Metropolitan,1800000
+Balwyn,2/16 Westminster St,2,t,S,Noel,3/9/2016,9.7,3103,2,1,1,208,129,2000,Boroondara,-37.8128,145.0975,Southern Metropolitan,1255000
+Balwyn,2/74 Balwyn Rd,3,u,SA,Philip,3/12/2016,9.7,3103,3,2,2,206,112,1998,Boroondara,-37.8161,145.0812,Southern Metropolitan,1070000
+Balwyn,112 Belmore Rd,5,h,PI,RT,3/12/2016,9.7,3103,5,3,2,715,420,2009,Boroondara,-37.8028,145.0768,Southern Metropolitan,2570000
+Balwyn,27 Bevan St,4,h,VB,RW,3/12/2016,9.7,3103,4,2,2,744,226,1985,Boroondara,-37.8147,145.0748,Southern Metropolitan,2400000
+Balwyn,129 Gordon St,3,h,S,North,3/12/2016,9.7,3103,3,3,2,651,266,,Boroondara,-37.8085,145.0764,Southern Metropolitan,2200000
+Balwyn,4 Melba Ct,5,h,PI,hockingstuart,3/12/2016,9.7,3103,5,5,2,651,410,,Boroondara,-37.8071,145.0908,Southern Metropolitan,3250000
+Balwyn,5/14 Parring Rd,2,u,S,Noel,3/12/2016,9.7,3103,2,1,1,122,97,1977,Boroondara,-37.8124,145.0916,Southern Metropolitan,806000
+Balwyn,349 Union Rd,6,h,VB,Jellis,3/12/2016,9.7,3103,6,4,7,2051,449,1935,Boroondara,-37.8051,145.1016,Southern Metropolitan,4000000
+Balwyn,3/10 Westminster St,2,h,S,Jellis,3/12/2016,9.7,3103,2,2,2,0,,,Boroondara,-37.8134,145.0972,Southern Metropolitan,1215000
+Balwyn,22 Yongala St,5,h,PI,Noel,3/12/2016,9.7,3103,5,3,2,600,356,2006,Boroondara,-37.8061,145.0801,Southern Metropolitan,2250000
+Balwyn,3/30 Cremorne St,2,u,S,Jellis,4/3/2017,9.7,3103,2,1,1,206,,,Boroondara,-37.8092,145.0778,Southern Metropolitan,812000
+Balwyn,9/5 Boston Rd,3,h,S,Nelson,4/6/2016,9.7,3103,3,2,2,175,,1976,Boroondara,-37.8162,145.0771,Southern Metropolitan,1140000
+Balwyn,17 Gordon St,3,h,S,Marshall,4/6/2016,9.7,3103,3,2,1,853,,,Boroondara,-37.807,145.0635,Southern Metropolitan,2330000
+Balwyn,40 Metung St,5,h,VB,Marshall,4/6/2016,9.7,3103,5,3,2,678,349,2001,Boroondara,-37.8048,145.0708,Southern Metropolitan,2800000
+Balwyn,4/30 Weir St,2,u,S,Marshall,4/6/2016,9.7,3103,2,1,1,0,,,Boroondara,-37.8152,145.0843,Southern Metropolitan,605000
+Balwyn,1/37 Yongala St,3,h,PI,Noel,4/6/2016,9.7,3103,3,2,2,308,,,Boroondara,-37.8056,145.0788,Southern Metropolitan,1255000
+Balwyn,142 Balwyn Rd,2,h,VB,Fletchers,6/8/2016,9.7,3103,3,1,1,1015,166,1930,Boroondara,-37.8074,145.0826,Southern Metropolitan,1850000
+Balwyn,9/11 Parring Rd,2,u,S,Noel,6/8/2016,9.7,3103,3,1,1,209,,1975,Boroondara,-37.8125,145.0901,Southern Metropolitan,805000
+Balwyn,4/3 King St,3,h,VB,Marshall,7/5/2016,9.7,3103,3,1,1,188,110,1970,Boroondara,-37.8065,145.065,Southern Metropolitan,700000
+Balwyn,27 Nungerner St,4,h,PI,Jellis,7/5/2016,9.7,3103,4,2,2,664,,,Boroondara,-37.8055,145.0699,Southern Metropolitan,2130000
+Balwyn,3/18 Weir St,2,h,S,Marshall,7/5/2016,9.7,3103,2,1,1,0,72,1960,Boroondara,-37.8162,145.0841,Southern Metropolitan,500000
+Balwyn,3 Westminster St,3,h,SP,Jellis,7/5/2016,9.7,3103,3,2,2,699,252,1985,Boroondara,-37.814,145.0966,Southern Metropolitan,2125000
+Balwyn,13 Naroo St,4,h,PI,Jellis,8/10/2016,9.7,3103,3,2,2,577,200,1948,Boroondara,-37.8032,145.0693,Southern Metropolitan,1800000
+Balwyn,101/201 Whitehorse Rd,2,u,S,Fletchers,8/10/2016,9.7,3103,2,1,1,0,70,2014,Boroondara,-37.8116,145.0724,Southern Metropolitan,635000
+Balwyn,1/252 Union Rd,2,u,S,hockingstuart,10/9/2016,9.7,3103,2,1,1,0,73,1960,Boroondara,-37.8144,145.0993,Southern Metropolitan,526000
+Balwyn,9/204 Whitehorse Rd,1,h,VB,Jellis,10/9/2016,9.7,3103,1,1,1,740,,,Boroondara,-37.8125,145.0775,Southern Metropolitan,390000
+Balwyn,1/18 Belmore Rd,3,h,S,Kay,10/12/2016,9.7,3103,3,1,2,281,150,1995,Boroondara,-37.8013,145.0652,Southern Metropolitan,905000
+Balwyn,316 Belmore Rd,4,h,PI,Ascend,10/12/2016,9.7,3103,4,3,2,453,308,2016,Boroondara,-37.8044,145.1006,Southern Metropolitan,1750000
+Balwyn,11/22 Brenbeal St,2,t,S,Christopher,10/12/2016,9.7,3103,2,1,1,121,100,1960,Boroondara,-37.8112,145.0881,Southern Metropolitan,760000
+Balwyn,18 Fitzgerald St,4,h,S,Kay,10/12/2016,9.7,3103,4,3,4,1148,,,Boroondara,-37.8088,145.0991,Southern Metropolitan,3180000
+Balwyn,3/3 Iramoo St,3,t,S,Jellis,10/12/2016,9.7,3103,3,2,2,219,164,2003,Boroondara,-37.8125,145.0849,Southern Metropolitan,1367000
+Balwyn,18 Metung St,5,h,SP,Marshall,10/12/2016,9.7,3103,5,3,2,678,,,Boroondara,-37.8063,145.0705,Southern Metropolitan,3600000
+Balwyn,25 Percy St,5,h,S,Marshall,10/12/2016,9.7,3103,5,3,2,642,,1930,Boroondara,-37.8096,145.0735,Southern Metropolitan,2550000
+Balwyn,2/8 Evelina St,4,t,PI,Noel,12/11/2016,9.7,3103,4,3,2,241,240,2009,Boroondara,-37.8042,145.1042,Southern Metropolitan,1400000
+Balwyn,5 Millah Rd,4,h,S,Fletchers,12/11/2016,9.7,3103,4,2,4,935,241,1927,Boroondara,-37.8157,145.0795,Southern Metropolitan,3270000
+Balwyn,6/10 Brenbeal St,2,u,PI,Jellis,13/08/2016,9.7,3103,2,1,1,115,104,1960,Boroondara,-37.8122,145.0879,Southern Metropolitan,625000
+Balwyn,4/4 Raynes St,2,t,VB,Noel,13/08/2016,9.7,3103,2,1,1,104,,,Boroondara,-37.8061,145.0878,Southern Metropolitan,700000
+Balwyn,1 Weston St,3,h,S,Marshall,14/05/2016,9.7,3103,3,1,4,671,465,,Boroondara,-37.8117,145.0775,Southern Metropolitan,1860000
+Balwyn,38 Frederick St,4,h,S,RT,15/10/2016,9.7,3103,4,3,2,674,336,1997,Boroondara,-37.8068,145.0786,Southern Metropolitan,2730000
+Balwyn,7 Power St,5,h,S,Marshall,16/04/2016,9.7,3103,5,2,2,611,,,Boroondara,-37.8116,145.0789,Southern Metropolitan,2020000
+Balwyn,6/29 Weir St,2,u,VB,Jellis,16/04/2016,9.7,3103,2,1,1,0,79,1950,Boroondara,-37.8152,145.0839,Southern Metropolitan,460000
+Balwyn,150 Balwyn Rd,4,h,SA,Jellis,16/07/2016,9.7,3103,3,1,2,832,,,Boroondara,-37.8068,145.0827,Southern Metropolitan,2250000
+Balwyn,3/94 Balwyn Rd,2,u,S,Fletchers,16/07/2016,9.7,3103,2,1,2,231,98,1985,Boroondara,-37.8123,145.0821,Southern Metropolitan,1053000
+Balwyn,1/7 Boston Rd,3,h,VB,Marshall,16/07/2016,9.7,3103,3,2,2,380,,1980,Boroondara,-37.8161,145.0772,Southern Metropolitan,1800000
+Balwyn,1/32 Yerrin St,3,t,S,Noel,16/07/2016,9.7,3103,3,2,2,306,170,1995,Boroondara,-37.8106,145.0848,Southern Metropolitan,1472000
+Balwyn,53 Metung St,3,h,S,Jellis,17/09/2016,9.7,3103,3,1,2,651,,,Boroondara,-37.8036,145.0715,Southern Metropolitan,2120000
+Balwyn,87 Yerrin St,3,h,S,Jellis,17/09/2016,9.7,3103,3,1,2,697,,,Boroondara,-37.8044,145.0853,Southern Metropolitan,1910000
+Balwyn,5/95 Balwyn Rd,2,u,PI,Marshall,18/03/2017,9.7,3103,2,1,1,87,88,1990,Boroondara,-37.8134,145.081,Southern Metropolitan,754000
+Balwyn,2 Birtles Ct,5,h,VB,Jellis,18/06/2016,9.7,3103,5,5,2,671,,,Boroondara,-37.8025,145.0665,Southern Metropolitan,3000000
+Balwyn,49 Metung St,5,h,VB,Jellis,18/06/2016,9.7,3103,5,6,4,739,502,,Boroondara,-37.8039,145.0714,Southern Metropolitan,3400000
+Balwyn,29 Bevan St,4,h,S,Marshall,19/11/2016,9.7,3103,4,2,2,752,253,1981,Boroondara,-37.8149,145.0747,Southern Metropolitan,2188000
+Balwyn,2/30 Kalimna St,2,u,PI,Noel,19/11/2016,9.7,3103,2,1,1,213,92,1980,Boroondara,-37.8092,145.0789,Southern Metropolitan,755000
+Balwyn,1 Knutsford St,4,h,VB,Marshall,22/05/2016,9.7,3103,4,3,2,596,,,Boroondara,-37.815,145.076,Southern Metropolitan,2900000
+Balwyn,262 Union Rd,4,h,S,Jellis,22/05/2016,9.7,3103,4,3,2,1007,350,1910,Boroondara,-37.8135,145.0995,Southern Metropolitan,3290000
+Balwyn,25 Kalimna St,5,h,S,Jellis,22/08/2016,9.7,3103,4,3,2,674,,,Boroondara,-37.8095,145.0782,Southern Metropolitan,2665000
+Balwyn,7 Naroo St,4,h,S,Noel,22/08/2016,9.7,3103,4,2,2,583,,,Boroondara,-37.8027,145.0694,Southern Metropolitan,1801000
+Balwyn,27 Metung St,4,h,S,Fletchers,24/09/2016,9.7,3103,4,2,1,685,207,1940,Boroondara,-37.8056,145.071,Southern Metropolitan,2410000
+Balwyn,4/35 Weir St,2,u,S,Jellis,24/09/2016,9.7,3103,2,1,1,0,150,1960,Boroondara,-37.8147,145.084,Southern Metropolitan,650000
+Balwyn,34 Nott St,4,h,VB,Jellis,25/02/2017,9.7,3103,4,2,1,842,,,Boroondara,-37.8054,145.0771,Southern Metropolitan,2275000
+Balwyn,275 Union Rd,5,h,PI,Jellis,25/02/2017,9.7,3103,5,3,4,1468,,,Boroondara,-37.8131,145.1,Southern Metropolitan,2810000
+Balwyn,3/14 Weir St,3,t,S,Jellis,25/02/2017,9.7,3103,3,2,2,190,,,Boroondara,-37.8164,145.0846,Southern Metropolitan,1385000
+Balwyn,26 Wills St,4,h,PI,hockingstuart,27/06/2016,9.7,3103,3,1,2,739,291,1930,Boroondara,-37.8039,145.0631,Southern Metropolitan,2000000
+Balwyn,165 Balwyn Rd,4,h,S,Mandy,27/11/2016,9.7,3103,4,2,1,665,155,1940,Boroondara,-37.8057,145.0825,Southern Metropolitan,1900000
+Balwyn,17 Knutsford St,3,h,S,Jellis,27/11/2016,9.7,3103,3,2,1,706,166,1930,Boroondara,-37.8161,145.0748,Southern Metropolitan,3401000
+Balwyn,47 Naroo St,3,h,VB,Jellis,27/11/2016,9.7,3103,3,2,3,613,193,1943,Boroondara,-37.8056,145.0688,Southern Metropolitan,1750000
+Balwyn,8 Raynes St,5,h,VB,RT,27/11/2016,9.7,3103,5,4,3,1437,,,Boroondara,-37.8058,145.0882,Southern Metropolitan,4000000
+Balwyn,1/74 Balwyn Rd,3,t,S,hockingstuart,28/05/2016,9.7,3103,3,2,1,259,,1940,Boroondara,-37.8161,145.0809,Southern Metropolitan,1100000
+Balwyn,112 Belmore Rd,5,h,PI,Jellis,28/05/2016,9.7,3103,5,3,2,715,420,2009,Boroondara,-37.8028,145.0768,Southern Metropolitan,3020000
+Balwyn,2 Pembroke Rd,3,h,S,Jellis,28/05/2016,9.7,3103,4,2,2,650,,,Boroondara,-37.8167,145.0797,Southern Metropolitan,2950000
+Balwyn,12 Wills St,5,h,S,Marshall,28/05/2016,9.7,3103,4,2,2,981,260,1960,Boroondara,-37.8058,145.0627,Southern Metropolitan,2450000
+Balwyn,23 Wills St,3,h,S,Fletchers,28/05/2016,9.7,3103,2,1,2,844,,,Boroondara,-37.8037,145.0636,Southern Metropolitan,1912000
+Balwyn,3/12 Brenbeal St,2,u,S,hockingstuart,28/08/2016,9.7,3103,2,1,1,130,80,1960,Boroondara,-37.812,145.0876,Southern Metropolitan,730000
+Balwyn,29 Sevenoaks St,5,h,PI,Jellis,28/08/2016,9.7,3103,5,7,6,0,,,Boroondara,-37.8049,145.0748,Southern Metropolitan,3900000
+Balwyn,321a Union Rd,3,h,SP,Noel,28/08/2016,9.7,3103,3,2,2,404,190,2011,Boroondara,-37.8075,145.1011,Southern Metropolitan,1500000
+Balwyn,46 Yongala St,3,h,S,Fletchers,28/08/2016,9.7,3103,3,1,1,607,,1950,Boroondara,-37.8058,145.0781,Southern Metropolitan,1850000
+Balwyn,33 Power St,4,h,VB,Marshall,30/07/2016,9.7,3103,3,1,1,672,115,1935,Boroondara,-37.8099,145.0792,Southern Metropolitan,1700000
+Balwyn,5 Shrimpton Ct,2,h,PI,Marshall,30/07/2016,9.7,3103,2,0,0,1611,,,Boroondara,-37.8092,145.1016,Southern Metropolitan,1010000
+Balwyn North,3/41 Clifton St,3,t,S,hockingstuart,3/9/2016,9.2,3104,3,2,2,260,167,2000,Boroondara,-37.7966,145.1021,Southern Metropolitan,1315000
+Balwyn North,153 Doncaster Rd,3,h,PI,Jellis,3/9/2016,9.2,3104,3,2,1,778,154,1950,Boroondara,-37.7939,145.0789,Southern Metropolitan,1500000
+Balwyn North,19 Jacka St,4,h,S,Jellis,3/9/2016,9.2,3104,4,4,3,1135,275,1960,Boroondara,-37.8014,145.0892,Southern Metropolitan,3230000
+Balwyn North,32 Jaserfold St,2,h,S,Jellis,3/9/2016,9.2,3104,2,1,1,253,,,Boroondara,-37.7912,145.085,Southern Metropolitan,1080000
+Balwyn North,30 Abbott St,7,h,PI,Barry,3/12/2016,9.2,3104,7,2,0,942,,,Boroondara,-37.7923,145.1029,Southern Metropolitan,1350000
+Balwyn North,25 Bolinda Rd,4,h,S,Noel,3/12/2016,9.2,3104,4,2,2,647,185,1955,Boroondara,-37.7917,145.0868,Southern Metropolitan,1905000
+Balwyn North,3 Dumblane St,5,h,PI,hockingstuart,3/12/2016,9.2,3104,5,4,2,760,477,2015,Boroondara,-37.7907,145.0907,Southern Metropolitan,3300000
+Balwyn North,30 Hood St,4,h,VB,Fletchers,3/12/2016,9.2,3104,4,2,2,642,215,1955,Boroondara,-37.7988,145.0726,Southern Metropolitan,1900000
+Balwyn North,36 Kenny St,3,h,S,Marshall,3/12/2016,9.2,3104,3,1,2,888,137,1950,Boroondara,-37.8002,145.0949,Southern Metropolitan,2251000
+Balwyn North,13 Riverview Rd,4,h,PI,RW,3/12/2016,9.2,3104,4,2,2,750,214,1950,Boroondara,-37.7906,145.0788,Southern Metropolitan,2205000
+Balwyn North,43 Sweyn St,3,h,S,hockingstuart,3/12/2016,9.2,3104,3,2,1,347,160,2011,Boroondara,-37.7947,145.1035,Southern Metropolitan,1265000
+Balwyn North,3 Highbury St,3,h,S,R&H,4/3/2017,9.2,3104,3,1,3,772,,,Boroondara,-37.7938,145.0732,Southern Metropolitan,2000000
+Balwyn North,14 Kawarren St,4,h,S,Kay,4/3/2017,9.2,3104,4,2,2,673,185,1960,Boroondara,-37.7856,145.0918,Southern Metropolitan,1750000
+Balwyn North,88 Longview Rd,3,h,VB,Jellis,4/3/2017,9.2,3104,3,1,2,665,124,1950,Boroondara,-37.7862,145.0781,Southern Metropolitan,1450000
+Balwyn North,113 Maud St,4,h,S,Fletchers,4/3/2017,9.2,3104,4,2,2,772,150,1955,Boroondara,-37.7959,145.0787,Southern Metropolitan,2614000
+Balwyn North,6 Stuart Ct,4,h,S,Fletchers,4/3/2017,9.2,3104,4,2,3,736,225,1958,Boroondara,-37.7944,145.1028,Southern Metropolitan,1825000
+Balwyn North,61 Sutton St,4,h,S,Fletchers,4/3/2017,9.2,3104,4,1,4,847,,,Boroondara,-37.7954,145.0838,Southern Metropolitan,2550000
+Balwyn North,38 Nevada St,4,h,SP,Jellis,4/6/2016,9.2,3104,4,2,1,546,,,Boroondara,-37.7863,145.0905,Southern Metropolitan,1570000
+Balwyn North,325 Belmore Rd,5,h,PI,Jellis,6/8/2016,9.2,3104,3,4,2,886,520,2013,Boroondara,-37.804,145.0951,Southern Metropolitan,3250000
+Balwyn North,45 Cityview Rd,4,h,PI,Ray,6/8/2016,9.2,3104,4,3,3,667,,,Boroondara,-37.7898,145.079,Southern Metropolitan,1750000
+Balwyn North,15 Ellendale St,3,t,S,Christopher,6/8/2016,9.2,3104,3,2,1,207,144,2003,Boroondara,-37.7893,145.092,Southern Metropolitan,1150000
+Balwyn North,85 Tannock St,3,h,PI,Noel,6/8/2016,9.2,3104,3,2,2,645,,1953,Boroondara,-37.7851,145.0957,Southern Metropolitan,1575000
+Balwyn North,6 Abassia St,6,h,S,hockingstuart,7/5/2016,9.2,3104,4,2,2,724,,,Boroondara,-37.8021,145.0985,Southern Metropolitan,1505000
+Balwyn North,30 Clifton St,4,h,S,hockingstuart,7/5/2016,9.2,3104,4,2,2,662,330,1965,Boroondara,-37.798,145.1007,Southern Metropolitan,1572000
+Balwyn North,10 Seattle St,4,h,VB,Jellis,7/5/2016,9.2,3104,3,2,2,610,,,Boroondara,-37.784,145.0878,Southern Metropolitan,1500000
+Balwyn North,3/54 Severn St,4,t,S,Jellis,7/5/2016,9.2,3104,4,2,1,283,,,Boroondara,-37.7982,145.0688,Southern Metropolitan,1400000
+Balwyn North,108 Bulleen Rd,5,h,VB,Jellis,7/11/2016,9.2,3104,5,3,2,705,365,2013,Boroondara,-37.7851,145.0775,Southern Metropolitan,1750000
+Balwyn North,5 Carrington St,4,h,VB,Jellis,7/11/2016,9.2,3104,4,2,2,619,254,1990,Boroondara,-37.8025,145.0843,Southern Metropolitan,1850000
+Balwyn North,40 Winfield Rd,3,h,PI,Marshall,7/11/2016,9.2,3104,3,1,2,992,,,Boroondara,-37.7977,145.1037,Southern Metropolitan,1480000
+Balwyn North,7 Clifton St,4,h,PI,hockingstuart,8/10/2016,9.2,3104,4,2,2,714,,,Boroondara,-37.8007,145.1002,Southern Metropolitan,1400000
+Balwyn North,3 Clive Ct,4,h,PI,RW,8/10/2016,9.2,3104,4,3,2,1274,275,1970,Boroondara,-37.7822,145.0907,Southern Metropolitan,2130000
+Balwyn North,2/34 Doncaster Rd,3,u,S,Fletchers,8/10/2016,9.2,3104,3,2,2,244,,,Boroondara,-37.7933,145.0672,Southern Metropolitan,1050000
+Balwyn North,7 Page St,5,h,S,RW,8/10/2016,9.2,3104,4,4,2,624,154,1967,Boroondara,-37.802,145.0797,Southern Metropolitan,3690000
+Balwyn North,8 Cash St,4,h,VB,Jellis,10/9/2016,9.2,3104,4,2,2,610,275,1993,Boroondara,-37.7843,145.0891,Southern Metropolitan,1740000
+Balwyn North,7 Grieve St,4,h,PI,Jellis,10/9/2016,9.2,3104,4,3,2,657,355,2006,Boroondara,-37.7981,145.0904,Southern Metropolitan,2575000
+Balwyn North,39 Kawarren St,4,h,S,Jellis,10/9/2016,9.2,3104,3,2,1,517,247,1970,Boroondara,-37.783,145.0926,Southern Metropolitan,1388800
+Balwyn North,185 Doncaster Rd,4,h,PI,Jellis,10/12/2016,9.2,3104,4,2,2,715,,1939,Boroondara,-37.7943,145.083,Southern Metropolitan,1702000
+Balwyn North,41 Helston St,4,h,VB,Fletchers/One,10/12/2016,9.2,3104,4,2,4,587,165,1960,Boroondara,-37.7841,145.0953,Southern Metropolitan,1800000
+Balwyn North,15 Moody St,4,h,S,Marshall,10/12/2016,9.2,3104,4,3,2,1070,247,1992,Boroondara,-37.7975,145.0716,Southern Metropolitan,2910000
+Balwyn North,53 Sweyn St,2,h,S,Noel,10/12/2016,9.2,3104,2,1,1,694,,,Boroondara,-37.7941,145.1042,Southern Metropolitan,1400000
+Balwyn North,2/11 Winfield Rd,2,t,S,hockingstuart,10/12/2016,9.2,3104,2,2,2,204,,,Boroondara,-37.8008,145.104,Southern Metropolitan,860000
+Balwyn North,13 Lucifer St,4,h,SP,Marshall,11/3/2017,9.2,3104,4,3,2,689,,,Boroondara,-37.7871,145.0843,Southern Metropolitan,1670000
+Balwyn North,141 Greythorn Rd,5,h,S,hockingstuart,12/6/2016,9.2,3104,3,1,1,800,,1950,Boroondara,-37.8023,145.0976,Southern Metropolitan,1500000
+Balwyn North,23a The Boulevard,5,h,VB,Noel,12/6/2016,9.2,3104,5,3,2,900,355,1955,Boroondara,-37.7868,145.0677,Southern Metropolitan,2200000
+Balwyn North,62 Clifton St,4,h,VB,Jellis,12/11/2016,9.2,3104,4,2,2,815,,,Boroondara,-37.794,145.1019,Southern Metropolitan,1350000
+Balwyn North,5 Lemon Rd,5,h,SP,Jellis,12/11/2016,9.2,3104,5,2,1,1138,,,Boroondara,-37.7928,145.1006,Southern Metropolitan,2070000
+Balwyn North,21 Maud St,3,h,S,Marshall,12/11/2016,9.2,3104,3,1,2,464,,,Boroondara,-37.7945,145.0667,Southern Metropolitan,1300000
+Balwyn North,1 Bolinda Rd,3,h,VB,Fletchers,13/08/2016,9.2,3104,3,2,3,763,168,1960,Boroondara,-37.7935,145.0865,Southern Metropolitan,1700000
+Balwyn North,35 Corhampton Rd,3,h,VB,Noel,13/08/2016,9.2,3104,2,1,2,854,,1948,Boroondara,-37.7971,145.0672,Southern Metropolitan,1750000
+Balwyn North,151 Bulleen Rd,3,h,SP,Fletchers,14/05/2016,9.2,3104,3,1,1,542,,,Boroondara,-37.7832,145.0779,Southern Metropolitan,980000
+Balwyn North,56a Clifton St,3,h,S,Noel,14/05/2016,9.2,3104,3,3,1,310,188,2012,Boroondara,-37.7949,145.1014,Southern Metropolitan,1230000
+Balwyn North,2 Tudor Ct,7,h,PI,Barry,14/05/2016,9.2,3104,5,3,3,637,529,2008,Boroondara,-37.7898,145.0967,Southern Metropolitan,2600000
+Balwyn North,28 Walnut Rd,4,h,S,Fletchers,14/05/2016,9.2,3104,3,3,2,665,232,1970,Boroondara,-37.7889,145.0904,Southern Metropolitan,1950000
+Balwyn North,14 Dumblane St,5,h,PI,RW,15/10/2016,9.2,3104,5,2,2,710,170,1955,Boroondara,-37.7907,145.0916,Southern Metropolitan,1750000
+Balwyn North,64 Greythorn Rd,5,h,S,Fletchers,15/10/2016,9.2,3104,5,2,2,1002,244,1950,Boroondara,-37.796,145.0984,Southern Metropolitan,2000000
+Balwyn North,42 Maud St,3,h,PI,Jellis,15/10/2016,9.2,3104,3,1,4,605,116,1950,Boroondara,-37.7951,145.0696,Southern Metropolitan,1480000
+Balwyn North,11 Stephens St,4,h,PI,Nelson,15/10/2016,9.2,3104,4,3,2,1247,50,,Boroondara,-37.7964,145.086,Southern Metropolitan,3000000
+Balwyn North,54 Sutton St,3,h,S,Fletchers,15/10/2016,9.2,3104,3,1,1,722,90,1930,Boroondara,-37.7956,145.0829,Southern Metropolitan,1818000
+Balwyn North,3 Alpha St,4,h,SP,Fletchers,16/04/2016,9.2,3104,4,2,2,1040,,,Boroondara,-37.7992,145.0907,Southern Metropolitan,2170000
+Balwyn North,48 Hosken St,4,h,PI,Jellis,16/04/2016,9.2,3104,4,2,2,1235,196,1960,Boroondara,-37.7988,145.089,Southern Metropolitan,2525000
+Balwyn North,17 Stephens St,4,h,S,Assisi,16/04/2016,9.2,3104,4,3,1,904,420,2003,Boroondara,-37.797,145.086,Southern Metropolitan,3360000
+Balwyn North,20 Ajax St,4,h,S,Jellis,16/07/2016,9.2,3104,4,2,1,654,,1960,Boroondara,-37.7885,145.0854,Southern Metropolitan,1620000
+Balwyn North,15 Illawarra Rd,3,h,S,Noel,16/07/2016,9.2,3104,3,1,2,713,720,1950,Boroondara,-37.7982,145.0816,Southern Metropolitan,1903000
+Balwyn North,45 Woodville St,4,h,S,Fletchers,17/09/2016,9.2,3104,3,2,2,639,,,Boroondara,-37.7879,145.0929,Southern Metropolitan,1712000
+Balwyn North,12 Clifton St,4,h,PI,Marshall,18/03/2017,9.2,3104,4,3,2,869,170,1950,Boroondara,-37.8002,145.0999,Southern Metropolitan,1720000
+Balwyn North,6 Leicester St,4,h,S,Jellis,18/03/2017,9.2,3104,4,1,4,1042,,,Boroondara,-37.7908,145.101,Southern Metropolitan,1670000
+Balwyn North,23 Maud St,2,h,SP,Nelson,18/03/2017,9.2,3104,2,1,2,467,,,Boroondara,-37.7945,145.067,Southern Metropolitan,1350000
+Balwyn North,9 Seattle St,4,h,S,Fletchers,18/03/2017,9.2,3104,4,2,2,667,201,1974,Boroondara,-37.7835,145.0883,Southern Metropolitan,1675000
+Balwyn North,16 Sylvan St,4,t,S,Noel,18/03/2017,9.2,3104,4,3,1,362,200,2014,Boroondara,-37.7987,145.0788,Southern Metropolitan,1680000
+Balwyn North,49 Aylmer St,3,h,PI,hockingstuart,18/06/2016,9.2,3104,3,1,1,809,,,Boroondara,-37.7976,145.0684,Southern Metropolitan,1800000
+Balwyn North,14 Hedderwick St,4,h,S,Noel,18/06/2016,9.2,3104,4,3,4,707,,,Boroondara,-37.8005,145.0986,Southern Metropolitan,1550000
+Balwyn North,9 Stephens St,5,h,PI,Marshall,18/06/2016,9.2,3104,5,5,4,1364,518,2013,Boroondara,-37.7961,145.0859,Southern Metropolitan,4000000
+Balwyn North,31 Tuxen St,3,h,S,Jellis,18/06/2016,9.2,3104,4,2,2,917,,,Boroondara,-37.7968,145.0873,Southern Metropolitan,2900000
+Balwyn North,5 Grieve St,4,h,S,Fletchers,19/11/2016,9.2,3104,4,2,2,1010,250,1950,Boroondara,-37.7982,145.0903,Southern Metropolitan,2205000
+Balwyn North,2/22 Severn St,3,t,S,Fletchers,19/11/2016,9.2,3104,3,2,2,349,,,Boroondara,-37.7955,145.0694,Southern Metropolitan,1137000
+Balwyn North,28 Severn St,3,h,VB,Jellis,19/11/2016,9.2,3104,3,2,3,949,175,1940,Boroondara,-37.796,145.0696,Southern Metropolitan,2100000
+Balwyn North,3 Capella St,2,h,S,Jellis,22/05/2016,9.2,3104,2,1,4,701,,,Boroondara,-37.7867,145.0718,Southern Metropolitan,1389000
+Balwyn North,3/1 Corhampton Rd,2,h,SP,Jellis,22/05/2016,9.2,3104,2,1,1,177,85,1975,Boroondara,-37.7935,145.0679,Southern Metropolitan,685000
+Balwyn North,1 Morris St,6,h,VB,hockingstuart,22/05/2016,9.2,3104,6,1,6,691,5,,Boroondara,-37.8022,145.0775,Southern Metropolitan,1900000
+Balwyn North,85a Woodville St,3,h,S,Fletchers,22/05/2016,9.2,3104,3,2,2,368,177,2009,Boroondara,-37.7846,145.0935,Southern Metropolitan,1335000
+Balwyn North,13 Bernard St,3,h,VB,Marshall,22/08/2016,9.2,3104,3,2,2,760,,,Boroondara,-37.7867,145.0797,Southern Metropolitan,1600000
+Balwyn North,4a Corhampton Rd,3,h,S,Fletchers,22/08/2016,9.2,3104,3,2,2,493,,,Boroondara,-37.7938,145.0675,Southern Metropolitan,1830000
+Balwyn North,41 Helston St,4,h,VB,One,22/08/2016,9.2,3104,4,2,4,587,165,1960,Boroondara,-37.7841,145.0953,Southern Metropolitan,1900000
+Balwyn North,11 Highview Rd,5,h,VB,hockingstuart,23/04/2016,9.2,3104,5,2,2,605,,,Boroondara,-37.7832,145.0796,Southern Metropolitan,1500000
+Balwyn North,3/52 Maud St,2,u,S,Christopher,23/04/2016,9.2,3104,2,1,1,1075,,1970,Boroondara,-37.7953,145.0712,Southern Metropolitan,735000
+Balwyn North,3/48 Alpha St,2,u,S,Fletchers,24/09/2016,9.2,3104,2,1,1,250,112,1995,Boroondara,-37.7996,145.0959,Southern Metropolitan,1040000
+Balwyn North,66 Almond St,3,h,S,Jellis,25/02/2017,9.2,3104,3,1,2,622,,,Boroondara,-37.7882,145.0882,Southern Metropolitan,1520000
+Balwyn North,19 Hedderwick St,4,h,VB,Marshall,25/02/2017,9.2,3104,4,2,2,644,153,1950,Boroondara,-37.7997,145.0993,Southern Metropolitan,1250000
+Balwyn North,34 Kawarren St,6,h,S,Fletchers,25/02/2017,9.2,3104,6,3,2,808,,1974,Boroondara,-37.7842,145.0921,Southern Metropolitan,1900000
+Balwyn North,430 Balwyn Rd,5,h,PI,Fletchers,27/06/2016,9.2,3104,5,3,2,842,200,1961,Boroondara,-37.7854,145.0869,Southern Metropolitan,1875000
+Balwyn North,43 Helston St,4,h,PI,hockingstuart,27/06/2016,9.2,3104,4,2,2,701,198,1960,Boroondara,-37.7839,145.0954,Southern Metropolitan,1530000
+Balwyn North,16 Nevada St,4,h,VB,Jellis,27/06/2016,9.2,3104,3,2,5,754,175,1960,Boroondara,-37.786,145.0886,Southern Metropolitan,1700000
+Balwyn North,3/191 Balwyn Rd,3,t,S,Fletchers,27/11/2016,9.2,3104,3,2,2,186,,2010,Boroondara,-37.8028,145.0828,Southern Metropolitan,1238000
+Balwyn North,233 Balwyn Rd,3,h,S,Noel,27/11/2016,9.2,3104,3,1,0,635,,1960,Boroondara,-37.7982,145.0839,Southern Metropolitan,1320000
+Balwyn North,5/133 Maud St,2,u,S,hockingstuart,27/11/2016,9.2,3104,2,1,1,0,,1950,Boroondara,-37.7961,145.0808,Southern Metropolitan,560000
+Balwyn North,11 Milfay Ct,3,h,S,Nelson,27/11/2016,9.2,3104,3,1,2,657,151,1960,Boroondara,-37.7895,145.0985,Southern Metropolitan,1651000
+Balwyn North,23A The Boulevard,5,h,S,Marshall,27/11/2016,9.2,3104,5,3,2,900,355,1955,Boroondara,-37.7868,145.0677,Southern Metropolitan,1920000
+Balwyn North,123 Winfield Rd,5,h,S,RT,27/11/2016,9.2,3104,5,2,3,845,199,1980,Boroondara,-37.7898,145.1021,Southern Metropolitan,1560000
+Balwyn North,30 Abbott St,5,h,VB,Fletchers,28/05/2016,9.2,3104,7,2,0,942,,,Boroondara,-37.7923,145.1029,Southern Metropolitan,1550000
+Balwyn North,15 Ellendale St,3,h,S,Christopher,28/05/2016,9.2,3104,3,2,1,207,144,2003,Boroondara,-37.7893,145.092,Southern Metropolitan,1038000
+Balwyn North,15 Maughan Pde,5,h,PI,hockingstuart,28/05/2016,9.2,3104,4,3,2,737,193,1950,Boroondara,-37.7975,145.0961,Southern Metropolitan,1660000
+Balwyn North,61 Ray Dr,3,h,PI,hockingstuart,28/05/2016,9.2,3104,3,2,2,458,,1997,Boroondara,-37.7908,145.0991,Southern Metropolitan,1260000
+Balwyn North,9 Gildan St,3,h,VB,Kay,28/08/2016,9.2,3104,3,1,2,75100,,,Boroondara,-37.8002,145.07,Southern Metropolitan,2000000
+Balwyn North,10 Hood St,4,h,S,Jellis,28/08/2016,9.2,3104,4,2,3,620,,,Boroondara,-37.7985,145.0707,Southern Metropolitan,2155000
+Balwyn North,3/8 Severn St,3,h,VB,Fletchers,28/08/2016,9.2,3104,3,2,2,282,,,Boroondara,-37.7936,145.0697,Southern Metropolitan,1225000
+Balwyn North,40 Stephens St,4,h,PI,Noel,28/08/2016,9.2,3104,4,2,2,730,,1960,Boroondara,-37.7993,145.0869,Southern Metropolitan,2150000
+Balwyn North,24 Willis St,3,h,PI,Fletchers,28/08/2016,9.2,3104,3,2,1,720,147,1955,Boroondara,-37.7938,145.0838,Southern Metropolitan,1770000
+Balwyn North,2/3 Hatfield St,2,u,S,Fletchers,30/07/2016,9.2,3104,3,1,1,0,102,1968,Boroondara,-37.7938,145.0666,Southern Metropolitan,691500
+Balwyn North,1 Tovey St,5,h,S,Jellis,30/07/2016,9.2,3104,4,2,2,939,,1957,Boroondara,-37.7998,145.0862,Southern Metropolitan,1836000
+Bentleigh,5/205 Centre Rd,2,u,S,hockingstuart,3/9/2016,13,3204,2,1,2,202,,1974,Glen Eira,-37.9165,145.0259,Southern Metropolitan,636000
+Bentleigh,22 Hobart St,2,h,S,Woodards,3/9/2016,13,3204,2,1,2,599,,,Glen Eira,-37.925,145.046,Southern Metropolitan,1275000
+Bentleigh,1/236 Patterson Rd,3,u,S,hockingstuart,3/9/2016,13,3204,3,1,2,348,121,1950,Glen Eira,-37.9273,145.0479,Southern Metropolitan,875000
+Bentleigh,2/531 South Rd,3,t,PI,Ray,3/9/2016,13,3204,3,2,2,362,,1997,Glen Eira,-37.9336,145.043,Southern Metropolitan,895000
+Bentleigh,32 Leckie St,2,h,S,Woodards,3/12/2016,13,3204,2,1,4,730,,,Glen Eira,-37.9207,145.0479,Southern Metropolitan,1550000
+Bentleigh,7 Marquis Rd,4,h,S,Woodards,3/12/2016,13,3204,4,1,4,786,,,Glen Eira,-37.9305,145.0449,Southern Metropolitan,1420000
+Bentleigh,11 Rogers Rd,3,h,S,Buxton,3/12/2016,13,3204,3,2,2,613,143,1960,Glen Eira,-37.9311,145.0428,Southern Metropolitan,1425000
+Bentleigh,3/2 Scotts St,2,t,S,hockingstuart,3/12/2016,13,3204,2,1,1,140,250,1970,Glen Eira,-37.9204,145.0443,Southern Metropolitan,851000
+Bentleigh,11A Mortimore St,3,h,S,Ray,4/2/2016,13,3204,3,2,2,299,181,2000,Glen Eira,-37.9272,145.0406,Southern Metropolitan,1222500
+Bentleigh,127 Tucker Rd,4,h,PI,hockingstuart,4/3/2017,13,3204,4,2,2,793,,,Glen Eira,-37.9232,145.0502,Southern Metropolitan,1260000
+Bentleigh,37 Godfrey St,4,h,S,hockingstuart,4/6/2016,13,3204,4,3,2,628,,,Glen Eira,-37.9155,145.0401,Southern Metropolitan,2700000
+Bentleigh,174 Jasper Rd,3,t,PI,hockingstuart,4/6/2016,13,3204,3,2,1,418,,1925,Glen Eira,-37.9172,145.0421,Southern Metropolitan,900000
+Bentleigh,15 Miles St,3,h,VB,Buxton,4/6/2016,13,3204,3,2,2,0,,,Glen Eira,-37.922,145.0302,Southern Metropolitan,1100000
+Bentleigh,143 Patterson Rd,7,h,S,Ray,4/6/2016,13,3204,7,3,4,607,,1950,Glen Eira,-37.9269,145.047,Southern Metropolitan,1005000
+Bentleigh,13 Somers St,3,h,S,Buxton,4/6/2016,13,3204,3,1,1,576,127,1945,Glen Eira,-37.9149,145.0254,Southern Metropolitan,1317500
+Bentleigh,8/11 Brentwood St,2,u,PI,Buxton,6/8/2016,13,3204,2,1,1,0,69,1965,Glen Eira,-37.9332,145.045,Southern Metropolitan,360000
+Bentleigh,12b Coates St,4,t,S,hockingstuart,6/8/2016,13,3204,3,3,2,291,212,2012,Glen Eira,-37.9278,145.0337,Southern Metropolitan,1435000
+Bentleigh,156 Patterson Rd,3,h,S,Buxton,6/8/2016,13,3204,3,1,2,692,164,1940,Glen Eira,-37.9263,145.04,Southern Metropolitan,1110000
+Bentleigh,8 Rose St,4,h,S,Buxton,6/8/2016,13,3204,3,2,2,795,250,1928,Glen Eira,-37.9166,145.0314,Southern Metropolitan,2435000
+Bentleigh,23 Yawla St,3,h,PI,hockingstuart,7/5/2016,13,3204,3,2,1,565,222,1940,Glen Eira,-37.9134,145.0263,Southern Metropolitan,1500000
+Bentleigh,39 Luckins Rd,4,h,PI,Buxton,7/11/2016,13,3204,4,2,2,697,194,1940,Glen Eira,-37.9318,145.0474,Southern Metropolitan,1300000
+Bentleigh,1/19 Patterson Rd,2,h,S,Buxton,7/11/2016,13,3204,2,1,1,298,,,Glen Eira,-37.9247,145.0287,Southern Metropolitan,855000
+Bentleigh,592 Centre Rd,3,h,S,hockingstuart,8/10/2016,13,3204,3,1,2,584,116,1948,Glen Eira,-37.9199,145.0477,Southern Metropolitan,1125000
+Bentleigh,32 Luckins Rd,3,h,SP,O'Brien,8/10/2016,13,3204,3,1,2,627,,,Glen Eira,-37.9321,145.0472,Southern Metropolitan,1135000
+Bentleigh,575 South Rd,3,h,S,hockingstuart,8/10/2016,13,3204,3,2,1,578,,,Glen Eira,-37.9344,145.0481,Southern Metropolitan,867000
+Bentleigh,74 Fromer St,4,h,S,hockingstuart,10/9/2016,13,3204,3,2,2,610,112,1940,Glen Eira,-37.9291,145.0472,Southern Metropolitan,1328000
+Bentleigh,4 Gordon St,3,h,S,hockingstuart,10/9/2016,13,3204,3,2,1,526,135,1910,Glen Eira,-37.9279,145.031,Southern Metropolitan,1340000
+Bentleigh,58 London St,4,t,S,Buxton,10/9/2016,13,3204,4,3,2,271,205,2010,Glen Eira,-37.9252,145.0494,Southern Metropolitan,1155000
+Bentleigh,182 Patterson Rd,3,h,S,Buxton,10/9/2016,13,3204,3,1,4,758,138,1960,Glen Eira,-37.9267,145.043,Southern Metropolitan,1275000
+Bentleigh,548 Centre Rd,3,h,VB,Woodards,10/12/2016,13,3204,3,2,2,0,,1987,Glen Eira,-37.9193,145.0438,Southern Metropolitan,770000
+Bentleigh,1/30 Daley St,2,h,SP,Marshall,10/12/2016,13,3204,2,1,1,296,103,1940,Glen Eira,-37.9243,145.0376,Southern Metropolitan,855000
+Bentleigh,1/26 Harding St,3,t,SP,Buxton,10/12/2016,13,3204,3,2,2,333,,,Glen Eira,-37.9292,145.0341,Southern Metropolitan,1100000
+Bentleigh,13/27 Patterson Rd,2,u,SP,hockingstuart,10/12/2016,13,3204,2,1,1,116,92,1960,Glen Eira,-37.9245,145.0336,Southern Metropolitan,650000
+Bentleigh,112 Tucker Rd,4,h,S,Buxton,10/12/2016,13,3204,4,2,4,902,233,1950,Glen Eira,-37.924,145.0504,Southern Metropolitan,1815000
+Bentleigh,9 Yawla St,4,h,S,hockingstuart,10/12/2016,13,3204,4,3,2,557,353,2008,Glen Eira,-37.9132,145.0251,Southern Metropolitan,2255000
+Bentleigh,66 Fromer St,3,h,S,McGrath,11/2/2017,13,3204,3,2,2,613,,1950,Glen Eira,-37.929,145.0464,Southern Metropolitan,1470000
+Bentleigh,10/21 Bent St,2,u,PI,Buxton,12/11/2016,13,3204,2,1,0,1045,,,Glen Eira,-37.9158,145.0379,Southern Metropolitan,420000
+Bentleigh,2/7 Gordon St,2,u,S,hockingstuart,12/11/2016,13,3204,2,2,3,226,475,2005,Glen Eira,-37.9274,145.031,Southern Metropolitan,855000
+Bentleigh,11 Somers St,4,h,S,hockingstuart,12/11/2016,13,3204,4,1,1,567,,,Glen Eira,-37.9149,145.0252,Southern Metropolitan,1450000
+Bentleigh,103 Tucker Rd,3,h,PI,hockingstuart,12/11/2016,13,3204,3,2,2,590,,,Glen Eira,-37.9256,145.0497,Southern Metropolitan,1200000
+Bentleigh,11 Wheatley Rd,4,h,PI,McGrath,12/11/2016,13,3204,4,2,3,855,197,1930,Glen Eira,-37.9163,145.0324,Southern Metropolitan,1860000
+Bentleigh,2/15 Jasper Rd,2,u,S,hockingstuart,13/08/2016,13,3204,2,1,1,227,100,1990,Glen Eira,-37.9326,145.0387,Southern Metropolitan,725000
+Bentleigh,6 Atkinson St,3,h,S,Buxton,15/10/2016,13,3204,3,1,1,632,108,1950,Glen Eira,-37.9282,145.0367,Southern Metropolitan,1293000
+Bentleigh,38 Leckie St,3,h,S,Buxton,15/10/2016,13,3204,3,1,2,723,,1925,Glen Eira,-37.9203,145.048,Southern Metropolitan,1390000
+Bentleigh,15 Luckins Rd,3,h,SP,Buxton,15/10/2016,13,3204,3,2,1,699,,,Glen Eira,-37.9316,145.0454,Southern Metropolitan,1400000
+Bentleigh,33 Luckins Rd,3,h,S,Woodards,15/10/2016,13,3204,3,2,2,690,245,1970,Glen Eira,-37.9317,145.0469,Southern Metropolitan,1328000
+Bentleigh,4a Rosina St,4,t,S,hockingstuart,15/10/2016,13,3204,4,2,3,354,255,2008,Glen Eira,-37.9326,145.0441,Southern Metropolitan,1247000
+Bentleigh,14 Sandra Gr,3,h,S,Buxton,15/10/2016,13,3204,3,2,2,592,,,Glen Eira,-37.933,145.0466,Southern Metropolitan,1311000
+Bentleigh,4 The Highway,3,h,S,hockingstuart,15/10/2016,13,3204,3,1,2,382,,,Glen Eira,-37.9187,145.0461,Southern Metropolitan,1100000
+Bentleigh,4 Leckie St,3,h,S,hockingstuart,16/04/2016,13,3204,3,1,2,700,,,Glen Eira,-37.9228,145.0476,Southern Metropolitan,1327500
+Bentleigh,43 Wavell St,4,h,PI,Buxton,16/04/2016,13,3204,4,3,1,695,,,Glen Eira,-37.9149,145.0469,Southern Metropolitan,1560000
+Bentleigh,4 Daley St,3,h,S,hockingstuart,16/07/2016,13,3204,3,1,2,624,143,1950,Glen Eira,-37.9256,145.0374,Southern Metropolitan,1370000
+Bentleigh,145a Jasper Rd,3,h,S,Buxton,16/07/2016,13,3204,3,1,2,632,,,Glen Eira,-37.921,145.0411,Southern Metropolitan,1100000
+Bentleigh,15 Wilson St,4,h,S,hockingstuart,16/07/2016,13,3204,4,2,1,576,,1920,Glen Eira,-37.9152,145.0244,Southern Metropolitan,1385000
+Bentleigh,59b Fromer St,3,t,S,hockingstuart,17/09/2016,13,3204,3,2,2,309,,,Glen Eira,-37.9287,145.0461,Southern Metropolitan,1275000
+Bentleigh,64 Tucker Rd,3,h,S,Buxton,17/09/2016,13,3204,3,2,1,581,170,1965,Glen Eira,-37.9286,145.0495,Southern Metropolitan,1095000
+Bentleigh,1/96 Tucker Rd,2,u,S,Ray,17/09/2016,13,3204,2,1,2,321,,,Glen Eira,-37.9257,145.0501,Southern Metropolitan,797500
+Bentleigh,3/18 Bleazby St,2,u,S,hockingstuart,18/03/2017,13,3204,2,1,1,677,88,2012,Glen Eira,-37.9173,145.0359,Southern Metropolitan,725000
+Bentleigh,2/1 Corbie St,3,t,S,Buxton,18/03/2017,13,3204,3,2,2,147,149,2007,Glen Eira,-37.9317,145.0352,Southern Metropolitan,825000
+Bentleigh,77B Fromer St,3,t,S,Buxton,18/03/2017,13,3204,3,2,2,0,160,2012,Glen Eira,-37.9289,145.0478,Southern Metropolitan,1235000
+Bentleigh,19 Godfrey St,5,h,VB,Gary,18/06/2016,13,3204,5,3,2,772,,1986,Glen Eira,-37.9168,145.04,Southern Metropolitan,1600000
+Bentleigh,5 Luckins Rd,3,h,PI,Buxton,18/06/2016,13,3204,3,1,2,694,125,1950,Glen Eira,-37.9315,145.0445,Southern Metropolitan,1165000
+Bentleigh,147 Tucker Rd,4,h,S,hockingstuart,18/06/2016,13,3204,4,2,3,591,,,Glen Eira,-37.9215,145.0505,Southern Metropolitan,1355000
+Bentleigh,13 Wood St,4,h,S,hockingstuart,18/06/2016,13,3204,4,2,4,736,284,1950,Glen Eira,-37.9224,145.0462,Southern Metropolitan,1910000
+Bentleigh,25 Mitchell St,3,h,S,hockingstuart,19/11/2016,13,3204,3,2,3,568,,,Glen Eira,-37.9246,145.0383,Southern Metropolitan,1448000
+Bentleigh,1/7 Uonga Rd,2,u,S,hockingstuart,19/11/2016,13,3204,2,1,3,336,109,1960,Glen Eira,-37.929,145.0375,Southern Metropolitan,820000
+Bentleigh,2 Marquis Rd,3,h,S,Buxton,22/05/2016,13,3204,3,1,2,0,,,Glen Eira,-37.9307,145.0444,Southern Metropolitan,895000
+Bentleigh,3 Somers St,4,h,S,Woodards,22/05/2016,13,3204,4,2,1,292,,,Glen Eira,-37.9148,145.0243,Southern Metropolitan,1041000
+Bentleigh,81 Fromer St,4,h,S,hockingstuart,22/08/2016,13,3204,4,2,2,611,168,1970,Glen Eira,-37.9289,145.0481,Southern Metropolitan,1430000
+Bentleigh,13 Horsley St,2,h,S,Buxton,22/08/2016,13,3204,2,1,2,274,96,1970,Glen Eira,-37.9178,145.0413,Southern Metropolitan,910000
+Bentleigh,11 Wilson St,4,h,PI,Buxton,22/08/2016,13,3204,4,4,2,579,361,2012,Glen Eira,-37.9155,145.0243,Southern Metropolitan,2520000
+Bentleigh,68 Mortimore St,3,h,S,C21,24/09/2016,13,3204,3,1,1,617,,,Glen Eira,-37.9282,145.047,Southern Metropolitan,1350000
+Bentleigh,11/27 Patterson Rd,2,u,S,hockingstuart,24/09/2016,13,3204,2,1,2,118,,,Glen Eira,-37.9245,145.0336,Southern Metropolitan,635000
+Bentleigh,21 Charlton St,3,h,S,Buxton,25/02/2017,13,3204,3,2,4,587,,,Glen Eira,-37.9217,145.0315,Southern Metropolitan,1280000
+Bentleigh,43 Godfrey St,5,h,S,Woodards,25/02/2017,13,3204,5,2,2,567,250,1926,Glen Eira,-37.9144,145.0401,Southern Metropolitan,1900000
+Bentleigh,7 Whitmuir Rd,3,h,S,hockingstuart,25/02/2017,13,3204,3,1,2,676,,,Glen Eira,-37.9161,145.0284,Southern Metropolitan,1230000
+Bentleigh,20 Wright St,4,h,PI,Buxton,25/02/2017,13,3204,4,2,2,384,766,,Glen Eira,-37.9155,145.0301,Southern Metropolitan,1150000
+Bentleigh,48 Vickery St,4,h,S,Hodges,26/07/2016,13,3204,3,2,2,570,,1930,Glen Eira,-37.9139,145.0395,Southern Metropolitan,1650000
+Bentleigh,1a Werona St,2,t,PI,Buxton,26/07/2016,13,3204,2,2,1,123,90,2007,Glen Eira,-37.9307,145.0379,Southern Metropolitan,670000
+Bentleigh,40 Coates St,2,t,PI,Bayside,27/11/2016,13,3204,2,1,1,83,107,1998,Glen Eira,-37.9259,145.0341,Southern Metropolitan,680000
+Bentleigh,8B McKittrick Rd,4,t,S,Buxton,27/11/2016,13,3204,4,3,3,346,220,2010,Glen Eira,-37.9294,145.041,Southern Metropolitan,1320000
+Bentleigh,99 Patterson Rd,4,h,S,C21,27/11/2016,13,3204,4,1,2,580,,,Glen Eira,-37.9263,145.0422,Southern Metropolitan,1380000
+Bentleigh,17 Smith St,6,h,S,hockingstuart,27/11/2016,13,3204,6,3,2,708,275,1988,Glen Eira,-37.9181,145.044,Southern Metropolitan,1900000
+Bentleigh,21 Bruce St,3,h,S,Buxton,28/08/2016,13,3204,2,2,2,572,150,1930,Glen Eira,-37.9148,145.0404,Southern Metropolitan,1535000
+Bentleigh,72 Daley St,4,h,S,hockingstuart,28/08/2016,13,3204,3,1,5,594,150,1940,Glen Eira,-37.9206,145.0383,Southern Metropolitan,1281000
+Bentleigh,15a Dickens St,3,u,S,C21,28/08/2016,13,3204,3,2,2,292,,,Glen Eira,-37.9273,145.0324,Southern Metropolitan,1096000
+Bentleigh,22 Hutchinson St,5,h,S,Buxton,28/08/2016,13,3204,5,2,2,664,178,1950,Glen Eira,-37.9241,145.048,Southern Metropolitan,1385000
+Bentleigh,8/187 Tucker Rd,3,u,S,Buxton,28/08/2016,13,3204,3,1,1,0,,1970,Glen Eira,-37.9178,145.0511,Southern Metropolitan,517500
+Bentleigh,63 Tucker Rd,4,t,S,Buxton,28/08/2016,13,3204,4,2,2,345,,,Glen Eira,-37.9291,145.0491,Southern Metropolitan,1245000
+Bentleigh,5/9 Whitmuir Rd,2,u,S,Buxton,28/08/2016,13,3204,2,1,1,0,,1960,Glen Eira,-37.9159,145.0285,Southern Metropolitan,503000
+Bentleigh,11 Wilson St,4,h,S,Buxton,28/08/2016,13,3204,4,4,2,579,361,2012,Glen Eira,-37.9155,145.0243,Southern Metropolitan,2620000
+Bentleigh,2/1 Marion St,2,u,S,Buxton,30/07/2016,13,3204,2,1,1,192,,,Glen Eira,-37.9193,145.0484,Southern Metropolitan,760000
+Bentleigh,6/25 Vickery St,2,u,S,Gary,30/07/2016,13,3204,2,1,1,0,,1968,Glen Eira,-37.9159,145.039,Southern Metropolitan,405000
+Bentleigh East,18 Mervin St,2,h,S,hockingstuart,3/9/2016,13.9,3165,2,1,2,768,,,Glen Eira,-37.9305,145.0547,Southern Metropolitan,1410000
+Bentleigh East,1/69 Purtell St,3,t,PI,hockingstuart,3/9/2016,13.9,3165,3,1,2,287,,,Glen Eira,-37.9261,145.0566,Southern Metropolitan,760000
+Bentleigh East,30 Veronica St,2,h,S,Buxton,3/9/2016,13.9,3165,2,2,1,176,125,2008,Glen Eira,-37.9237,145.0763,Southern Metropolitan,825000
+Bentleigh East,2a Bessie St,2,u,S,hockingstuart,3/12/2016,13.9,3165,2,1,2,281,95,2002,Glen Eira,-37.9255,145.0796,Southern Metropolitan,746000
+Bentleigh East,14a Daphne St,1,u,S,Woodards,3/12/2016,13.9,3165,1,1,1,105,,,Glen Eira,-37.9181,145.0586,Southern Metropolitan,580000
+Bentleigh East,19 Denver St,5,h,SP,Buxton,3/12/2016,13.9,3165,5,2,2,683,190,1960,Glen Eira,-37.9333,145.0602,Southern Metropolitan,1275000
+Bentleigh East,93 Parkmore Rd,3,h,S,C21,3/12/2016,13.9,3165,3,1,2,603,,,Glen Eira,-37.9155,145.0723,Southern Metropolitan,1206000
+Bentleigh East,14B Boronia St,3,t,S,Buxton,4/3/2017,13.9,3165,3,2,2,297,,,Glen Eira,-37.9135,145.0774,Southern Metropolitan,1115000
+Bentleigh East,76 Castlewood St,4,h,S,Ray,4/3/2017,13.9,3165,4,2,3,591,,,Glen Eira,-37.9166,145.0719,Southern Metropolitan,1190000
+Bentleigh East,38 Edinburgh St,4,h,S,C21,4/3/2017,13.9,3165,4,2,1,0,,,Glen Eira,-37.9174,145.0717,Southern Metropolitan,1270000
+Bentleigh East,1/41 Elizabeth St,3,u,S,Woodards,4/3/2017,13.9,3165,3,2,2,384,120,1999,Glen Eira,-37.9229,145.0557,Southern Metropolitan,1025000
+Bentleigh East,6/12 Neville St,3,u,PI,Hodges,4/3/2017,13.9,3165,3,2,1,258,,,Glen Eira,-37.9244,145.0547,Southern Metropolitan,740000
+Bentleigh East,27 Neville St,4,h,S,hockingstuart,4/3/2017,13.9,3165,4,2,4,601,,,Glen Eira,-37.9234,145.0533,Southern Metropolitan,1960000
+Bentleigh East,2/25 Birdwood St,2,u,S,Woodards,4/6/2016,13.9,3165,2,1,1,76,79,1980,Glen Eira,-37.91,145.0842,Southern Metropolitan,495000
+Bentleigh East,8a Bray Ct,2,u,S,hockingstuart,4/6/2016,13.9,3165,2,1,1,145,,,Glen Eira,-37.9193,145.0659,Southern Metropolitan,570000
+Bentleigh East,24 Brooks St,4,h,S,Hodges,4/6/2016,13.9,3165,3,2,2,585,178,1950,Glen Eira,-37.9167,145.0771,Southern Metropolitan,1220000
+Bentleigh East,13 Claronga St,3,h,S,C21,4/6/2016,13.9,3165,3,1,2,565,110,1950,Glen Eira,-37.9262,145.0808,Southern Metropolitan,885000
+Bentleigh East,17a Edinburgh St,3,t,PI,Buxton,4/6/2016,13.9,3165,0,2,2,292,141,2012,Glen Eira,-37.9168,145.069,Southern Metropolitan,830000
+Bentleigh East,49 Gowrie St,4,h,S,Woodards,4/6/2016,13.9,3165,4,1,2,696,,,Glen Eira,-37.9157,145.0802,Southern Metropolitan,1137500
+Bentleigh East,1 Konrad St,4,h,S,Hodges,4/6/2016,13.9,3165,4,2,2,633,,1975,Glen Eira,-37.9272,145.0644,Southern Metropolitan,1100000
+Bentleigh East,19 Kurrajong St,3,h,PI,hockingstuart,6/8/2016,13.9,3165,3,2,2,598,,1970,Glen Eira,-37.9132,145.0782,Southern Metropolitan,1040000
+Bentleigh East,34b Lesden St,4,t,S,hockingstuart,6/8/2016,13.9,3165,3,3,2,291,222,2014,Glen Eira,-37.9347,145.0546,Southern Metropolitan,1210000
+Bentleigh East,59 Tambet St,4,t,S,hockingstuart,6/8/2016,13.9,3165,3,2,2,321,180,2006,Glen Eira,-37.914,145.0714,Southern Metropolitan,1160000
+Bentleigh East,24 Barrani St,3,h,S,Woodards,7/5/2016,13.9,3165,3,2,3,730,110,1970,Glen Eira,-37.9119,145.0705,Southern Metropolitan,1215000
+Bentleigh East,71 Bignell Rd,4,h,S,hockingstuart,7/5/2016,13.9,3165,4,2,2,619,191,1960,Glen Eira,-37.9358,145.0688,Southern Metropolitan,1200000
+Bentleigh East,96 Brady Rd,3,h,S,Buxton,7/5/2016,13.9,3165,3,2,2,627,140,1950,Glen Eira,-37.9284,145.0668,Southern Metropolitan,1050000
+Bentleigh East,25 Connie St,5,h,VB,Woodards,7/5/2016,13.9,3165,5,2,4,618,146,1950,Glen Eira,-37.9209,145.0757,Southern Metropolitan,950000
+Bentleigh East,9/7 Derry St,2,u,PI,Buxton,7/5/2016,13.9,3165,3,2,1,0,78,1970,Glen Eira,-37.9212,145.0674,Southern Metropolitan,380000
+Bentleigh East,3/32 Elizabeth St,2,h,S,hockingstuart,7/5/2016,13.9,3165,2,1,1,169,87,,Glen Eira,-37.9232,145.0537,Southern Metropolitan,689000
+Bentleigh East,33 Molden St,3,h,PI,hockingstuart,7/5/2016,13.9,3165,3,2,2,653,,,Glen Eira,-37.9069,145.0568,Southern Metropolitan,1400000
+Bentleigh East,20 Normdale Rd,3,h,S,hockingstuart,7/5/2016,13.9,3165,3,1,4,574,,,Glen Eira,-37.9309,145.0685,Southern Metropolitan,965000
+Bentleigh East,38 Northam Rd,3,h,S,Buxton,7/5/2016,13.9,3165,3,2,2,610,177,1970,Glen Eira,-37.9231,145.066,Southern Metropolitan,1338000
+Bentleigh East,48a Purtell St,3,t,S,Buxton,7/5/2016,13.9,3165,3,2,1,353,,,Glen Eira,-37.9262,145.055,Southern Metropolitan,800000
+Bentleigh East,1/6 Richard St,2,u,S,Gary,7/5/2016,13.9,3165,2,1,1,265,150,1960,Glen Eira,-37.9223,145.0747,Southern Metropolitan,651000
+Bentleigh East,12 Rudyard St,3,h,PI,Buxton,7/5/2016,13.9,3165,3,1,3,583,,1955,Glen Eira,-37.9272,145.0804,Southern Metropolitan,920000
+Bentleigh East,3 Veronica St,3,h,S,Buxton,7/5/2016,13.9,3165,4,2,2,590,118,1960,Glen Eira,-37.9256,145.0757,Southern Metropolitan,1390000
+Bentleigh East,2/12 Blenheim St,2,u,SP,Woodards,8/10/2016,13.9,3165,2,1,1,96,,,Glen Eira,-37.9102,145.0709,Southern Metropolitan,495000
+Bentleigh East,4/19 Gray St,1,u,PI,Buxton,8/10/2016,13.9,3165,1,1,1,0,,1970,Glen Eira,-37.9205,145.0528,Southern Metropolitan,370000
+Bentleigh East,4 Tambet St,3,h,SP,Buxton,8/10/2016,13.9,3165,3,1,2,578,163,1955,Glen Eira,-37.9186,145.0709,Southern Metropolitan,1100000
+Bentleigh East,109 Victor Rd,4,h,S,Woodards,8/10/2016,13.9,3165,4,2,4,653,,,Glen Eira,-37.9244,145.0792,Southern Metropolitan,1100000
+Bentleigh East,7 Wallace St,3,h,S,Buxton,8/10/2016,13.9,3165,0,1,2,818,,,Glen Eira,-37.9241,145.0539,Southern Metropolitan,1355000
+Bentleigh East,21 Wards Gr,4,h,S,Hodges,8/10/2016,13.9,3165,4,1,1,636,138,1940,Glen Eira,-37.925,145.0612,Southern Metropolitan,1206000
+Bentleigh East,2/3 Wonga Ct,2,t,S,hockingstuart,8/10/2016,13.9,3165,2,1,1,0,75,1960,Glen Eira,-37.9082,145.0681,Southern Metropolitan,486500
+Bentleigh East,26 Boronia St,2,h,S,hockingstuart,10/9/2016,13.9,3165,3,1,1,597,,,Glen Eira,-37.9126,145.0776,Southern Metropolitan,1010000
+Bentleigh East,16 Leigh St,3,h,S,Buxton,10/9/2016,13.9,3165,3,1,1,583,,,Glen Eira,-37.9312,145.0795,Southern Metropolitan,899000
+Bentleigh East,87 Parkmore Rd,4,h,S,Buxton,10/9/2016,13.9,3165,4,2,2,604,177,1970,Glen Eira,-37.9153,145.0707,Southern Metropolitan,1415000
+Bentleigh East,1A Brian St,4,t,S,hockingstuart,10/12/2016,13.9,3165,4,2,2,305,207,2012,Glen Eira,-37.9245,145.0507,Southern Metropolitan,1185000
+Bentleigh East,13 Brooks St,4,t,S,Woodards,10/12/2016,13.9,3165,4,3,1,313,166,1960,Glen Eira,-37.9164,145.0765,Southern Metropolitan,1060000
+Bentleigh East,4/738 Centre Rd,2,u,S,Buxton,10/12/2016,13.9,3165,2,1,2,212,,,Glen Eira,-37.9218,145.0607,Southern Metropolitan,716000
+Bentleigh East,18 May St,3,h,S,Paul,10/12/2016,13.9,3165,3,1,1,581,,,Glen Eira,-37.9177,145.0535,Southern Metropolitan,1550000
+Bentleigh East,1098 North Rd,3,h,S,Buxton,10/12/2016,13.9,3165,3,2,2,697,,,Glen Eira,-37.9092,145.0813,Southern Metropolitan,840000
+Bentleigh East,106 Parkmore Rd,3,h,S,Woodards,10/12/2016,13.9,3165,3,1,4,612,,,Glen Eira,-37.9159,145.0733,Southern Metropolitan,1110000
+Bentleigh East,8 Tambet St,3,h,S,McGrath,10/12/2016,13.9,3165,3,1,2,584,,,Glen Eira,-37.9183,145.071,Southern Metropolitan,1106000
+Bentleigh East,41 Bradford St,3,h,S,Ray,12/11/2016,13.9,3165,3,2,2,295,145,1998,Glen Eira,-37.9239,145.0781,Southern Metropolitan,845000
+Bentleigh East,2/41 Elizabeth St,3,t,VB,Buxton,12/11/2016,13.9,3165,3,2,1,254,117,1995,Glen Eira,-37.9227,145.0558,Southern Metropolitan,860000
+Bentleigh East,40 Kennedy St,3,h,S,Woodards,12/11/2016,13.9,3165,3,1,1,747,,,Glen Eira,-37.9198,145.0791,Southern Metropolitan,1208000
+Bentleigh East,5b MacKie Rd,3,t,S,Buxton,12/11/2016,13.9,3165,3,2,2,167,140,2009,Glen Eira,-37.9219,145.0733,Southern Metropolitan,921000
+Bentleigh East,13 Norville St,3,h,S,Buxton,12/11/2016,13.9,3165,3,1,1,732,,,Glen Eira,-37.9334,145.0667,Southern Metropolitan,1165000
+Bentleigh East,37 Orange St,3,h,S,Buxton,12/11/2016,13.9,3165,3,1,2,694,,,Glen Eira,-37.9174,145.0779,Southern Metropolitan,1270000
+Bentleigh East,1/112 Tambet St,2,h,S,Woodards,12/11/2016,13.9,3165,2,1,1,300,135,1960,Glen Eira,-37.9099,145.0726,Southern Metropolitan,742500
+Bentleigh East,25 Thornton St,3,h,PI,Buxton,12/11/2016,13.9,3165,3,2,2,578,120,1950,Glen Eira,-37.9303,145.0805,Southern Metropolitan,920000
+Bentleigh East,53 Purtell St,3,h,S,Woodards,13/08/2016,13.9,3165,3,2,4,684,,,Glen Eira,-37.926,145.0551,Southern Metropolitan,1307000
+Bentleigh East,33 Schulz St,4,h,S,Ray,13/08/2016,13.9,3165,4,1,2,658,112,,Glen Eira,-37.9343,145.0607,Southern Metropolitan,1010000
+Bentleigh East,12 Tambet St,2,h,PI,Buxton,13/08/2016,13.9,3165,2,1,1,591,102,1960,Glen Eira,-37.9179,145.071,Southern Metropolitan,702000
+Bentleigh East,1/93 Tambet St,2,h,S,Buxton,13/08/2016,13.9,3165,2,1,1,306,,,Glen Eira,-37.9111,145.072,Southern Metropolitan,813000
+Bentleigh East,2/15 Liverpool St,3,t,S,hockingstuart,14/05/2016,13.9,3165,3,2,1,268,117,2000,Glen Eira,-37.9196,145.0691,Southern Metropolitan,805000
+Bentleigh East,47 MacKie Rd,3,h,PI,hockingstuart,14/05/2016,13.9,3165,2,1,3,660,,,Glen Eira,-37.9173,145.0742,Southern Metropolitan,880000
+Bentleigh East,23 Yarraburn Cl,4,h,S,Hodges,14/05/2016,13.9,3165,4,2,1,274,190,2004,Glen Eira,-37.9257,145.0735,Southern Metropolitan,1100000
+Bentleigh East,14 Vasey St,3,h,S,Woodards,15/10/2016,13.9,3165,3,2,4,710,,,Glen Eira,-37.9348,145.0634,Southern Metropolitan,1085000
+Bentleigh East,32a Argyle St,3,t,S,Buxton,16/04/2016,13.9,3165,3,2,1,343,,,Glen Eira,-37.9112,145.0738,Southern Metropolitan,920000
+Bentleigh East,12 Barrani St,3,h,S,Woodards,16/04/2016,13.9,3165,3,1,4,726,131,1950,Glen Eira,-37.9117,145.0695,Southern Metropolitan,1050000
+Bentleigh East,45 Browns Rd,3,h,S,Woodards,16/04/2016,13.9,3165,3,1,2,841,,,Glen Eira,-37.9217,145.056,Southern Metropolitan,1560000
+Bentleigh East,25 Glover St,4,h,PI,Hodges,16/04/2016,13.9,3165,4,2,2,601,,,Glen Eira,-37.9278,145.081,Southern Metropolitan,800000
+Bentleigh East,21 Highview Rd,2,h,S,Buxton,16/04/2016,13.9,3165,2,2,1,201,79,2005,Glen Eira,-37.9293,145.0657,Southern Metropolitan,722000
+Bentleigh East,18 Normanby Rd,3,h,SP,Buxton,16/04/2016,13.9,3165,3,1,2,588,133,1960,Glen Eira,-37.9286,145.069,Southern Metropolitan,930000
+Bentleigh East,93 Tudor St,3,h,S,Buxton,16/04/2016,13.9,3165,3,2,1,291,119,2000,Glen Eira,-37.919,145.0829,Southern Metropolitan,921000
+Bentleigh East,23 York St,4,h,PI,First,16/04/2016,13.9,3165,3,1,2,610,160,1950,Glen Eira,-37.9193,145.0691,Southern Metropolitan,1035000
+Bentleigh East,2/34 Adrian St,3,u,PI,Gary,16/07/2016,13.9,3165,3,2,1,228,,1996,Glen Eira,-37.9329,145.0617,Southern Metropolitan,720000
+Bentleigh East,20 Elizabeth St,3,h,S,hockingstuart,16/07/2016,13.9,3165,3,1,2,618,,,Glen Eira,-37.9228,145.0527,Southern Metropolitan,1185000
+Bentleigh East,7 England St,4,h,S,hockingstuart,16/07/2016,13.9,3165,4,2,2,618,196,1950,Glen Eira,-37.9252,145.0562,Southern Metropolitan,1352000
+Bentleigh East,11b Lilac St,4,t,SP,Woodards,16/07/2016,13.9,3165,4,2,2,296,205,2006,Glen Eira,-37.9197,145.057,Southern Metropolitan,1005000
+Bentleigh East,53 Molden St,2,u,S,Ray,16/07/2016,13.9,3165,2,1,2,282,,,Glen Eira,-37.9073,145.0599,Southern Metropolitan,761000
+Bentleigh East,790 North Rd,5,h,S,Buxton,16/07/2016,13.9,3165,4,2,2,659,315,1930,Glen Eira,-37.906,145.0547,Southern Metropolitan,1600000
+Bentleigh East,26 Almurta Rd,3,h,S,hockingstuart,17/09/2016,13.9,3165,3,1,1,721,120,1970,Glen Eira,-37.9244,145.0665,Southern Metropolitan,1200000
+Bentleigh East,1/57 Brooks St,3,h,PI,Buxton,17/09/2016,13.9,3165,3,2,2,421,126,1950,Glen Eira,-37.9168,145.0809,Southern Metropolitan,780000
+Bentleigh East,48a Celia St,4,t,PI,Buxton,17/09/2016,13.9,3165,4,2,2,314,231,2010,Glen Eira,-37.9299,145.0598,Southern Metropolitan,1250000
+Bentleigh East,30 Chauvel St,3,h,PI,Buxton,17/09/2016,13.9,3165,3,2,1,337,,,Glen Eira,-37.9115,145.0844,Southern Metropolitan,750000
+Bentleigh East,36 Kennedy St,3,h,S,Woodards,17/09/2016,13.9,3165,3,1,4,746,,,Glen Eira,-37.9198,145.0787,Southern Metropolitan,1300000
+Bentleigh East,5 Kennedy St,5,h,S,Woodards,17/09/2016,13.9,3165,5,2,2,729,,,Glen Eira,-37.9191,145.075,Southern Metropolitan,1475000
+Bentleigh East,8 Leo St,4,h,S,Buxton,17/09/2016,13.9,3165,4,2,2,583,176,1960,Glen Eira,-37.9262,145.0624,Southern Metropolitan,1110000
+Bentleigh East,42 Marlborough St,2,u,S,Woodards,17/09/2016,13.9,3165,2,2,1,362,,,Glen Eira,-37.9149,145.0676,Southern Metropolitan,835000
+Bentleigh East,11 Moylan St,4,h,S,Gary,17/09/2016,13.9,3165,4,2,2,700,165,1950,Glen Eira,-37.9117,145.0534,Southern Metropolitan,1690000
+Bentleigh East,42 Paloma St,3,u,S,Woodards,17/09/2016,13.9,3165,3,3,1,391,122,1950,Glen Eira,-37.9149,145.0788,Southern Metropolitan,791000
+Bentleigh East,601 South Rd,3,h,VB,Beller,17/09/2016,13.9,3165,3,1,3,780,140,1940,Glen Eira,-37.9347,145.0507,Southern Metropolitan,900000
+Bentleigh East,1/51 Valkstone St,3,h,S,hockingstuart,17/09/2016,13.9,3165,4,2,2,337,,2010,Glen Eira,-37.9144,145.0582,Southern Metropolitan,1189000
+Bentleigh East,75 Victor Rd,3,t,S,hockingstuart,17/09/2016,13.9,3165,3,1,1,642,,,Glen Eira,-37.9269,145.0787,Southern Metropolitan,825000
+Bentleigh East,2/11 Francesco St,3,t,S,Buxton,18/03/2017,13.9,3165,3,2,2,327,,,Glen Eira,-37.9195,145.0555,Southern Metropolitan,1030000
+Bentleigh East,2/40 Francesco St,3,t,S,Matthew,18/03/2017,13.9,3165,3,2,2,267,156,2000,Glen Eira,-37.9176,145.0566,Southern Metropolitan,970000
+Bentleigh East,16 Greenview Ct,3,h,S,hockingstuart,18/03/2017,13.9,3165,3,1,2,580,,,Glen Eira,-37.9369,145.0751,Southern Metropolitan,930000
+Bentleigh East,5 Malane St,4,h,SP,C21,18/03/2017,13.9,3165,4,2,2,640,,,Glen Eira,-37.9198,145.0545,Southern Metropolitan,1510000
+Bentleigh East,2/1 Mervin St,3,t,S,Buxton,18/03/2017,13.9,3165,3,2,2,518,,,Glen Eira,-37.9316,145.0542,Southern Metropolitan,1240000
+Bentleigh East,1002 North Rd,3,h,S,C21,18/03/2017,13.9,3165,3,2,2,213,143,2003,Glen Eira,-37.9079,145.0707,Southern Metropolitan,823000
+Bentleigh East,27 Parkmore Rd,4,h,S,Woodards,18/03/2017,13.9,3165,4,2,2,606,,,Glen Eira,-37.9147,145.0645,Southern Metropolitan,1310000
+Bentleigh East,71 Victor Rd,4,h,S,hockingstuart,18/03/2017,13.9,3165,4,2,2,674,,,Glen Eira,-37.9272,145.0786,Southern Metropolitan,1475000
+Bentleigh East,40 Waratah St,4,t,PI,Buxton,18/03/2017,13.9,3165,4,2,1,450,,1940,Glen Eira,-37.9133,145.0837,Southern Metropolitan,950000
+Bentleigh East,1/38 Kennedy St,4,t,S,Buxton,18/06/2016,13.9,3165,4,2,1,316,190,2010,Glen Eira,-37.9198,145.0789,Southern Metropolitan,1045000
+Bentleigh East,3/14 Malane St,3,h,PI,Hodges,18/06/2016,13.9,3165,3,2,1,188,,,Glen Eira,-37.9193,145.0553,Southern Metropolitan,750000
+Bentleigh East,2/111 Marlborough St,3,u,PI,Buxton,18/06/2016,13.9,3165,3,2,2,252,,1994,Glen Eira,-37.9085,145.0683,Southern Metropolitan,800000
+Bentleigh East,2/119 Marlborough St,2,u,S,hockingstuart,18/06/2016,13.9,3165,2,1,1,154,80,2000,Glen Eira,-37.9079,145.0685,Southern Metropolitan,655000
+Bentleigh East,3 Molden St,5,h,S,Hodges,18/06/2016,13.9,3165,5,3,2,623,257,1950,Glen Eira,-37.9066,145.0541,Southern Metropolitan,1550000
+Bentleigh East,2/53 Moylan St,3,h,S,Woodards,18/06/2016,13.9,3165,3,1,1,250,105,1980,Glen Eira,-37.9087,145.0537,Southern Metropolitan,835000
+Bentleigh East,75 Orange St,3,h,S,hockingstuart,18/06/2016,13.9,3165,4,1,3,701,,,Glen Eira,-37.9178,145.0815,Southern Metropolitan,1140000
+Bentleigh East,18 Paloma St,2,h,S,hockingstuart,18/06/2016,13.9,3165,3,1,2,678,,,Glen Eira,-37.9146,145.0767,Southern Metropolitan,1120000
+Bentleigh East,31b Purtell St,4,t,S,Buxton,18/06/2016,13.9,3165,3,2,2,319,256,2015,Glen Eira,-37.9256,145.0533,Southern Metropolitan,1465000
+Bentleigh East,24 Veronica St,3,h,S,Buxton,18/06/2016,13.9,3165,3,1,1,587,96,1950,Glen Eira,-37.9241,145.0763,Southern Metropolitan,910000
+Bentleigh East,2/14 Wamba Rd,3,u,SP,Buxton,18/06/2016,13.9,3165,3,2,1,388,123,2007,Glen Eira,-37.9329,145.053,Southern Metropolitan,920000
+Bentleigh East,14 Charles St,3,t,S,hockingstuart,19/11/2016,13.9,3165,3,2,2,230,160,2012,Glen Eira,-37.9179,145.0592,Southern Metropolitan,935000
+Bentleigh East,14 Florence St,3,h,S,Buxton,19/11/2016,13.9,3165,3,1,2,543,163,1970,Glen Eira,-37.9242,145.0705,Southern Metropolitan,977000
+Bentleigh East,1 Jassa St,3,h,S,Woodards,19/11/2016,13.9,3165,3,1,2,686,122,1950,Glen Eira,-37.9113,145.0765,Southern Metropolitan,1352000
+Bentleigh East,12 Millard St,4,h,SP,Buxton,19/11/2016,13.9,3165,4,2,2,575,160,1960,Glen Eira,-37.9274,145.0654,Southern Metropolitan,1115000
+Bentleigh East,4 Adrian St,3,h,VB,hockingstuart,22/05/2016,13.9,3165,3,1,1,710,,1966,Glen Eira,-37.9324,145.0577,Southern Metropolitan,780000
+Bentleigh East,40 Chesterville Dr,3,h,SP,hockingstuart,22/05/2016,13.9,3165,3,2,2,1080,,,Glen Eira,-37.9233,145.0674,Southern Metropolitan,1115000
+Bentleigh East,54 Elizabeth St,3,h,S,Buxton,22/05/2016,13.9,3165,3,1,2,692,147,1949,Glen Eira,-37.9232,145.0563,Southern Metropolitan,1197000
+Bentleigh East,2/10 Matthews Rd,2,u,SP,Buxton,22/05/2016,13.9,3165,2,2,2,0,83,2011,Glen Eira,-37.9292,145.0708,Southern Metropolitan,485000
+Bentleigh East,1/26 Patricia St,3,u,S,Woodards,22/05/2016,13.9,3165,3,2,1,316,,1950,Glen Eira,-37.9245,145.0773,Southern Metropolitan,810000
+Bentleigh East,39 Shrewsbury St,4,h,PI,Marshall,22/05/2016,13.9,3165,4,1,1,582,151,1960,Glen Eira,-37.9129,145.0598,Southern Metropolitan,1365000
+Bentleigh East,579 Warrigal Rd,3,h,S,Thomson,22/05/2016,13.9,3165,0,0,0,456,,,Glen Eira,-37.9314,145.0808,Southern Metropolitan,700000
+Bentleigh East,10 Boronia St,4,h,S,hockingstuart,22/08/2016,13.9,3165,4,2,2,598,337,2006,Glen Eira,-37.9138,145.0774,Southern Metropolitan,1698888
+Bentleigh East,20 McGuinness Rd,4,h,S,Buxton,22/08/2016,13.9,3165,4,2,2,639,,,Glen Eira,-37.9258,145.075,Southern Metropolitan,1150000
+Bentleigh East,6/1126 North Rd,2,u,VB,Gary,22/08/2016,13.9,3165,2,1,1,0,,2012,Glen Eira,-37.9096,145.0843,Southern Metropolitan,340000
+Bentleigh East,76 Bignell Rd,3,h,S,Woodards,24/09/2016,13.9,3165,3,1,2,576,,,Glen Eira,-37.9362,145.0691,Southern Metropolitan,1000000
+Bentleigh East,5a Cavalier St,3,t,S,Buxton,24/09/2016,13.9,3165,3,2,1,283,28,2010,Glen Eira,-37.9142,145.08,Southern Metropolitan,965000
+Bentleigh East,2/5 Connie St,3,u,S,Woodards,24/09/2016,13.9,3165,3,2,2,365,150,2011,Glen Eira,-37.9225,145.0754,Southern Metropolitan,870000
+Bentleigh East,23 Gardeners Rd,3,h,S,Woodards,24/09/2016,13.9,3165,3,1,1,764,,,Glen Eira,-37.9143,145.0629,Southern Metropolitan,1405000
+Bentleigh East,123 MacKie Rd,3,h,S,hockingstuart,24/09/2016,13.9,3165,3,2,3,629,168,1950,Glen Eira,-37.912,145.0752,Southern Metropolitan,1161000
+Bentleigh East,11 Melball St,3,h,S,hockingstuart,24/09/2016,13.9,3165,3,1,3,676,146,1970,Glen Eira,-37.9307,145.0531,Southern Metropolitan,1266000
+Bentleigh East,2/8 Rudyard St,3,t,PI,hockingstuart,24/09/2016,13.9,3165,3,2,2,194,200,2008,Glen Eira,-37.9272,145.0801,Southern Metropolitan,700000
+Bentleigh East,2A Barrani St,4,t,S,Buxton,25/02/2017,13.9,3165,4,4,2,363,265,2012,Glen Eira,-37.9116,145.0686,Southern Metropolitan,1325000
+Bentleigh East,2/16 Bessie St,3,u,PI,hockingstuart,25/02/2017,13.9,3165,3,2,1,281,132,2005,Glen Eira,-37.9257,145.0811,Southern Metropolitan,770000
+Bentleigh East,177 Bignell Rd,3,h,S,hockingstuart,25/02/2017,13.9,3165,3,1,6,542,538,,Glen Eira,-37.9272,145.0705,Southern Metropolitan,1110000
+Bentleigh East,1/6 Brad St,1,u,S,hockingstuart,25/02/2017,13.9,3165,1,1,1,0,99,1970,Glen Eira,-37.9315,145.0619,Southern Metropolitan,380000
+Bentleigh East,98 Brady Rd,4,h,S,RT,25/02/2017,13.9,3165,4,2,2,620,158,1980,Glen Eira,-37.9281,145.0669,Southern Metropolitan,1175000
+Bentleigh East,3 Forrest St,3,h,S,Woodards,25/02/2017,13.9,3165,3,1,1,640,120,1960,Glen Eira,-37.916,145.0776,Southern Metropolitan,1200000
+Bentleigh East,88 MacKie Rd,4,h,SP,Gary,25/02/2017,13.9,3165,4,1,2,684,196,1970,Glen Eira,-37.9147,145.0751,Southern Metropolitan,1370000
+Bentleigh East,4 Mawby Rd,4,h,S,Hodges,25/02/2017,13.9,3165,4,1,1,725,186,1950,Glen Eira,-37.9289,145.0502,Southern Metropolitan,1433500
+Bentleigh East,370 McKinnon Rd,2,h,S,C21,25/02/2017,13.9,3165,2,1,2,724,,,Glen Eira,-37.9135,145.0557,Southern Metropolitan,1630000
+Bentleigh East,43 Wards Gr,3,h,SP,Woodards,25/02/2017,13.9,3165,3,1,3,676,,,Glen Eira,-37.9233,145.0616,Southern Metropolitan,1360000
+Bentleigh East,45 Chesterville Dr,4,h,VB,Gary,26/07/2016,13.9,3165,3,1,2,741,,,Glen Eira,-37.9229,145.0673,Southern Metropolitan,900000
+Bentleigh East,61 Molden St,3,t,PI,hockingstuart,26/07/2016,13.9,3165,3,2,1,210,131,2005,Glen Eira,-37.9075,145.061,Southern Metropolitan,860000
+Bentleigh East,30 Browns Rd,2,u,S,Anderson,27/06/2016,13.9,3165,2,1,2,318,,,Glen Eira,-37.9218,145.0563,Southern Metropolitan,772500
+Bentleigh East,15 Cormick St,3,h,S,Gary,27/06/2016,13.9,3165,3,1,1,598,,,Glen Eira,-37.9216,145.073,Southern Metropolitan,1001000
+Bentleigh East,3/2 Garden Rd,2,u,S,hockingstuart,27/06/2016,13.9,3165,2,1,1,194,114,1995,Glen Eira,-37.9107,145.0598,Southern Metropolitan,715000
+Bentleigh East,6 Gray St,3,h,S,Buxton,27/06/2016,13.9,3165,3,1,1,0,,,Glen Eira,-37.9218,145.053,Southern Metropolitan,801000
+Bentleigh East,2/5 Pell St,3,t,S,Ray,27/06/2016,13.9,3165,3,2,2,208,,,Glen Eira,-37.9108,145.0794,Southern Metropolitan,882000
+Bentleigh East,41 Wards Gr,2,h,S,Buxton,27/06/2016,13.9,3165,2,1,1,687,,,Glen Eira,-37.9234,145.0616,Southern Metropolitan,1180000
+Bentleigh East,30A Almurta Rd,3,t,S,Buxton,27/11/2016,13.9,3165,3,2,2,222,,,Glen Eira,-37.9241,145.0668,Southern Metropolitan,840000
+Bentleigh East,1/811 Centre Rd,2,h,S,Buxton,27/11/2016,13.9,3165,2,1,1,0,115,1950,Glen Eira,-37.9212,145.0606,Southern Metropolitan,710000
+Bentleigh East,335 Chesterville Rd,4,h,VB,Buxton,27/11/2016,13.9,3165,4,2,2,643,,,Glen Eira,-37.9295,145.063,Southern Metropolitan,1040000
+Bentleigh East,71 Deakin St,5,h,PI,hockingstuart,27/11/2016,13.9,3165,5,3,2,583,296,2007,Glen Eira,-37.9143,145.0699,Southern Metropolitan,1550000
+Bentleigh East,2/42 Gowrie St,3,h,S,Buxton,27/11/2016,13.9,3165,3,2,2,258,,,Glen Eira,-37.9162,145.0799,Southern Metropolitan,930000
+Bentleigh East,2/12 Hodgson Gr,3,u,S,hockingstuart,27/11/2016,13.9,3165,3,1,2,406,100,1996,Glen Eira,-37.9286,145.0737,Southern Metropolitan,790000
+Bentleigh East,5 Konrad St,3,h,S,Hodges,27/11/2016,13.9,3165,3,1,2,625,,,Glen Eira,-37.927,145.0645,Southern Metropolitan,1040000
+Bentleigh East,18 Patricia St,3,h,S,Nick,27/11/2016,13.9,3165,3,1,2,596,144,1960,Glen Eira,-37.9251,145.0771,Southern Metropolitan,1020000
+Bentleigh East,2 Sanicki Ct,3,t,PI,Bayside,27/11/2016,13.9,3165,3,1,2,233,,,Glen Eira,-37.9376,145.0784,Southern Metropolitan,670000
+Bentleigh East,2/25 Brooks St,3,u,S,Woodards,28/05/2016,13.9,3165,3,2,2,261,,,Glen Eira,-37.9163,145.0779,Southern Metropolitan,800000
+Bentleigh East,2/34 Browns Rd,4,t,PI,Buxton,28/05/2016,13.9,3165,3,2,2,209,,,Glen Eira,-37.9213,145.0565,Southern Metropolitan,1120000
+Bentleigh East,16a Daphne St,3,t,VB,hockingstuart,28/05/2016,13.9,3165,3,2,2,321,,,Glen Eira,-37.9181,145.0586,Southern Metropolitan,970000
+Bentleigh East,1/4 Daphne St,3,t,S,Hodges,28/05/2016,13.9,3165,3,2,1,300,,,Glen Eira,-37.9189,145.0584,Southern Metropolitan,787500
+Bentleigh East,24 Kurrajong St,3,h,PI,Greg,28/05/2016,13.9,3165,3,1,1,598,,,Glen Eira,-37.9129,145.0786,Southern Metropolitan,950000
+Bentleigh East,3b Manuka St,3,h,S,Ray,28/05/2016,13.9,3165,3,2,1,185,122,2012,Glen Eira,-37.9159,145.0787,Southern Metropolitan,886000
+Bentleigh East,36a Barrington St,3,t,PI,Buxton,28/08/2016,13.9,3165,3,2,1,209,,,Glen Eira,-37.9131,145.07,Southern Metropolitan,780000
+Bentleigh East,3 Belinda Ct,4,h,S,C21,28/08/2016,13.9,3165,4,2,3,625,198,1997,Glen Eira,-37.9374,145.0726,Southern Metropolitan,1015000
+Bentleigh East,1/3 Brady Rd,3,u,S,Woodards,28/08/2016,13.9,3165,3,2,2,395,,2001,Glen Eira,-37.9364,145.0649,Southern Metropolitan,830000
+Bentleigh East,9 Colin St,3,h,S,Hodges,28/08/2016,13.9,3165,3,1,1,643,,,Glen Eira,-37.9237,145.0527,Southern Metropolitan,1241000
+Bentleigh East,27 Connie St,4,h,S,Buxton,28/08/2016,13.9,3165,4,2,2,610,167,1950,Glen Eira,-37.9207,145.0757,Southern Metropolitan,1255000
+Bentleigh East,8 Marlborough St,3,h,S,Buxton,28/08/2016,13.9,3165,3,1,1,593,94,1950,Glen Eira,-37.9178,145.067,Southern Metropolitan,1320000
+Bentleigh East,1/39 Neville St,3,h,S,Gary,28/08/2016,13.9,3165,3,2,1,326,133,1950,Glen Eira,-37.9236,145.0545,Southern Metropolitan,870000
+Bentleigh East,4 Wingate St,4,h,S,hockingstuart,28/08/2016,13.9,3165,4,2,2,592,219,2013,Glen Eira,-37.9351,145.0572,Southern Metropolitan,1472500
+Bentleigh East,25 Anarth St,2,h,PI,hockingstuart,30/07/2016,13.9,3165,2,2,2,298,118,2005,Glen Eira,-37.908,145.0716,Southern Metropolitan,640000
+Bentleigh East,115 Bignell Rd,2,h,S,Buxton,30/07/2016,13.9,3165,2,1,2,750,,,Glen Eira,-37.9325,145.0694,Southern Metropolitan,1160000
+Bentleigh East,12 John St,4,h,S,Buxton,30/07/2016,13.9,3165,3,2,1,651,,,Glen Eira,-37.919,145.0558,Southern Metropolitan,1306000
+Bentleigh East,41 Mawby Rd,3,h,S,hockingstuart,30/07/2016,13.9,3165,3,1,2,635,,,Glen Eira,-37.9291,145.0538,Southern Metropolitan,1291000
+Box Hill,32 Margaret St,4,h,S,hockingstuart,3/9/2016,13.1,3128,4,2,2,697,255,1940,Whitehorse,-37.8151,145.135,Eastern Metropolitan,1620000
+Box Hill,6/29 Barkly St,2,u,S,McGrath,4/3/2017,13.1,3128,2,1,1,140,81,1965,Whitehorse,-37.8271,145.1299,Eastern Metropolitan,645000
+Box Hill,1/1 Cherryhinton St,2,u,S,Noel,4/3/2017,13.1,3128,2,1,1,195,,,Whitehorse,-37.826,145.129,Eastern Metropolitan,790000
+Box Hill,4/425 Station St,4,h,S,Ray,4/3/2017,13.1,3128,4,2,2,206,,2003,Whitehorse,-37.828,145.1215,Eastern Metropolitan,880000
+Box Hill,18 Glenmore St,4,h,PI,Jellis,10/9/2016,13.1,3128,3,2,3,729,167,1905,Whitehorse,-37.8233,145.1267,Eastern Metropolitan,1560000
+Box Hill,3 Alexander St,3,h,SP,Marshall,10/12/2016,13.1,3128,3,2,2,458,170,1950,Whitehorse,-37.8257,145.1216,Eastern Metropolitan,1715000
+Box Hill,21 Barkly St,3,h,SP,Marshall,10/12/2016,13.1,3128,3,1,2,550,110,1950,Whitehorse,-37.8275,145.1298,Eastern Metropolitan,1200000
+Box Hill,17 Combarton St,3,h,S,Fletchers,10/12/2016,13.1,3128,3,1,0,741,151,1910,Whitehorse,-37.8258,145.1246,Eastern Metropolitan,1760000
+Box Hill,1/7 Glenmore St,1,u,SP,hockingstuart,12/6/2016,13.1,3128,1,1,1,774,,1970,Whitehorse,-37.8241,145.1262,Eastern Metropolitan,288000
+Box Hill,15 Davey St,3,h,S,Ray,12/11/2016,13.1,3128,3,1,2,384,108,1950,Whitehorse,-37.8167,145.1373,Eastern Metropolitan,948000
+Box Hill,89 Thames St,4,h,S,Lindellas,12/11/2016,13.1,3128,4,1,2,715,,1950,Whitehorse,-37.8135,145.1218,Eastern Metropolitan,2770000
+Box Hill,19 Wavell St,3,h,S,Noel,12/11/2016,13.1,3128,3,1,1,590,,,Whitehorse,-37.8274,145.1274,Eastern Metropolitan,1412000
+Box Hill,31/41 Harrow St,2,u,S,Ray,13/08/2016,13.1,3128,2,2,1,0,65,2010,Whitehorse,-37.8216,145.127,Eastern Metropolitan,465000
+Box Hill,1/14 Barkly St,4,t,VB,Lindellas,15/10/2016,13.1,3128,4,2,2,299,158,2008,Whitehorse,-37.8282,145.1301,Eastern Metropolitan,975000
+Box Hill,23 Bass St,3,h,S,Lindellas,15/10/2016,13.1,3128,3,1,1,702,134,1950,Whitehorse,-37.827,145.1209,Eastern Metropolitan,1325000
+Box Hill,3/14 Bedford St,3,t,S,Jellis,15/10/2016,13.1,3128,3,2,1,150,3,2000,Whitehorse,-37.8287,145.1319,Eastern Metropolitan,750000
+Box Hill,5 Wavell St,3,h,S,hockingstuart,15/10/2016,13.1,3128,3,2,1,643,159,1940,Whitehorse,-37.8285,145.1272,Eastern Metropolitan,1400000
+Box Hill,22 William St,3,h,SP,Ray,15/10/2016,13.1,3128,3,1,2,664,106,1930,Whitehorse,-37.8235,145.1276,Eastern Metropolitan,1500000
+Box Hill,55 Albion Rd,4,h,S,Fletchers,16/04/2016,13.1,3128,4,2,1,692,195,1890,Whitehorse,-37.8247,145.1281,Eastern Metropolitan,1600000
+Box Hill,126 Carrington Rd,2,u,S,Philip,16/07/2016,13.1,3128,3,1,1,155,,,Whitehorse,-37.8193,145.1149,Eastern Metropolitan,616000
+Box Hill,54 Watts St,4,h,S,Noel,16/07/2016,13.1,3128,4,2,2,729,,,Whitehorse,-37.8143,145.1262,Eastern Metropolitan,1661000
+Box Hill,12 Barcelona St,4,h,S,Allens,17/09/2016,13.1,3128,3,2,2,780,235,1927,Whitehorse,-37.8244,145.1319,Eastern Metropolitan,1461400
+Box Hill,2/4 Collins St,3,u,S,Fletchers,17/09/2016,13.1,3128,3,1,1,211,108,1980,Whitehorse,-37.8275,145.1232,Eastern Metropolitan,775000
+Box Hill,12 Pendle St,4,h,S,hockingstuart,17/09/2016,13.1,3128,4,2,3,669,,,Whitehorse,-37.818,145.1354,Eastern Metropolitan,1506000
+Box Hill,33 Pendle St,4,h,S,Noel,17/09/2016,13.1,3128,4,4,4,707,162,1926,Whitehorse,-37.8166,145.1354,Eastern Metropolitan,1670000
+Box Hill,7/12 Oxford St,1,u,SP,Lindellas,18/03/2017,13.1,3128,1,1,1,29,,,Whitehorse,-37.8215,145.1214,Eastern Metropolitan,340000
+Box Hill,6 Archibald St,3,h,VB,Lindellas,18/06/2016,13.1,3128,3,1,2,763,120,1945,Whitehorse,-37.8166,145.1215,Eastern Metropolitan,4000000
+Box Hill,19 Kent Rd,3,h,S,Lindellas,18/06/2016,13.1,3128,3,1,1,307,106,1890,Whitehorse,-37.8247,145.1206,Eastern Metropolitan,928000
+Box Hill,2/20 Simpsons Rd,2,u,S,Marshall,18/06/2016,13.1,3128,2,2,1,176,,2000,Whitehorse,-37.8171,145.1343,Eastern Metropolitan,761000
+Box Hill,3/8 Ashted Rd,2,u,S,Philip,19/11/2016,13.1,3128,2,1,1,151,82,1970,Whitehorse,-37.8234,145.1235,Eastern Metropolitan,636000
